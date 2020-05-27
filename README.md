@@ -6,6 +6,7 @@ The resulting tif stacks are first converted into OBJ and PLY 3D files, then pos
 ## Table of contents
 * [General information](#general-info)
 * [Project structure]
+* [Usage]
 * [Data format]
 * [Training]
 * [Evaluation]
@@ -47,6 +48,7 @@ The project has the following folder structure:
 	* lib: Python installer
 	* src: source code of python scripts and data conversion GUI
 
+## Usage
 
 ## Data format
 The 
