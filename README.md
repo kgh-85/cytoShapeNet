@@ -43,15 +43,16 @@ The code was written by Dr. Stephan Quint and Konrad Hinkelmann © (2018 - 2020)
 ## Project structure
 
 The project has the following folder structure:
-* root: contains all required .bat files to train and use the neural networks
-	* bin: contains all required binaries
-	* data: contains training, benchmarking and evaluation data
-	* final_NN: the final neural networks to be used for data evaluation
-	* lib: python installer
-	* src: source code of python scripts and data conversion GUI
+
+    |——root:    contains .bat files to setup, train and use the neural networks
+    |  |——bin:  contains required binaries
+    |  |——data: contains training, benchmarking and evaluation data
+    |  |——nn:   the final neural networks to be used for data evaluation
+    |  |——lib:  VC_redistributable
+    |  |——src:  source code of python scripts and data conversion GUI
 
 ## Dependencies
-Currently, the only requirement is a Windows-PC running Windows 7 or Windows 10.
+Currently, the only requirement is Windows as operating system. Tested on Windows 10 but should work on Windows 7 and above.
 
 ## Usage
 We kept the usage of the toolbox as simple as possible and the workflow is obvious from the BAT file enumeration:
