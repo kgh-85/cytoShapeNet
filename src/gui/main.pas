@@ -16,6 +16,7 @@ type
     btnProcess: TButton;
     cbxKeepOBJ: TCheckBox;
     cbxIncludeSubdirs: TCheckBox;
+    lbIntro: TLabel;
     MainMenu1: TMainMenu;
     Help: TMenuItem;
     SelectDirectoryDialog: TSelectDirectoryDialog;

@@ -55,7 +55,7 @@
     <PathDelim Value="\"/>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <UnitOutputDirectory Value="C:\Users\KGH\Documents\Embarcadero\Studio\Projekte\CellNeuralNetGUI\release-v4.0\erynet\bin"/>
+      <UnitOutputDirectory Value="..\..\bin"/>
     </SearchPaths>
     <Parsing>
       <SyntaxOptions>
