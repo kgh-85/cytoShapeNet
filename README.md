@@ -20,11 +20,11 @@ The fact that pure 3d vertex data already is way more condensed information abou
 
 The results and here open sourced toolbox has some strong advantages:
 * Condensed shape information. We found the sweet spot at 544 float values which are:
-** Enough data to describe nearly any shape of an object
-** Can be interpolated from one object to another which is an important fact as this allows us to augment unlimited training data out of a few samples. Very little training data needed: In our tests we got 99%+ accuracy out of as little as 8 data samples for training
-** Are the perfect input for a neural net so it can pick up the pattern some orders of magnitude faster than with corresponding 2d image data
+    * Enough data to describe nearly any shape of an object
+    * Can be interpolated from one object to another which is an important fact as this allows us to augment unlimited training data out of a few samples. Very little training data needed: In our tests we got 99%+ accuracy out of as little as 8 data samples for training
+    * Are the perfect input for a neural net so it can pick up the pattern some orders of magnitude faster than with corresponding 2d image data
 * No GPU farm or expensive cloud training needed:
-** For the paper plots we trained 12 different classes with a total of 827 samples which were data augmented to 12.000 samples. Trained on a notebook with CPU only in about 30 seconds
+    * For the paper plots we trained 12 different classes with a total of 827 samples which were data augmented to 12.000 samples. Trained on a notebook with CPU only in about 30 seconds
 * The description of the shape is rotation invariant. This is very important for real world applications as our red blood cell patient data. You just don’t know how the cell is rotated in the aggregated data from the microscope
 
 
