@@ -1,0 +1,1 @@
+ImageJ-win64.exe --headless --console -macro BatchFolder_TIFF_to_OBJ_macro.ijm

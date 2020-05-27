@@ -1,0 +1,1 @@
+for /r %%i in (*.obj) do (meshconv.exe "%%i" -c ply -kd -kz -plyold -o "%%i" & ShapeDescriptor.exe --in "%%i.ply" --out "%%i.dat" & del "%%i.ply")

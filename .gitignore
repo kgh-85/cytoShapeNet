@@ -1,0 +1,14 @@
+*.pyc
+backup
+/bin/ImageJ/batch_convert_*.bat
+/bin/ImageJ/BatchFolder_TIFF_to_OBJ_macro.ijm
+/bin/DataConversionGUI.compiled
+/bin/DataConversionGUI.o
+/bin/DataConversionGUI.obj
+/bin/kgh_tools.o
+/bin/kgh_tools.ppu
+/bin/main.lfm
+/bin/main.o
+/bin/main.ppu
+*.obj
+*.tif

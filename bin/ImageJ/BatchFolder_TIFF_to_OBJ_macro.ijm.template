@@ -1,0 +1,81 @@
+function ArrayUnique(array) {
+    array     = Array.sort(array);
+    array     = Array.concat(array, 999999);
+    uniqueA = newArray();
+    i = 0;
+    while (i<(array.length)-1) {
+        if (array[i] == array[(i)+1]) {
+            //print("found: "+array[i]);            
+        } else {
+            uniqueA = Array.concat(uniqueA, array[i]);
+        }
+           i++;
+       }
+    return uniqueA;
+}
+
+function Convert(inputFolder, outputFolder, filename) {
+    outFile = outputFolder + filename;
+    print("Processing: " + outFile);
+    if (!File.exists(outFile + ".dat")) {
+        if (!File.exists(outFile + ".obj")) {
+            print("loading tif: " + filename + ".tif");
+            open(inputFolder + filename + ".tif");
+            print("saving obj: " + filename + ".obj");
+            run("Wavefront .OBJ ...", "stack=[" + filename + "] threshold=50 resampling=2 red green blue save=[" + outFile + ".obj]");
+            close();
+        }
+        print("converting to ply: " + filename + ".obj");
+        exec("cmd /c "+ baseFolderEscaped + "meshconv.exe \"" + outFile + ".obj\" -c ply -kd -kz -plyold -o \"" + outFile + "\"");
+        print("Calculating shd .dat: " + filename);
+        exec("cmd /c "+ baseFolderEscaped + "ShapeDescriptor.exe --in \"" + outFile + ".ply\" --out \"" + outFile + ".dat\"");
+        print("Deleting .ply: " + filename);
+        File.delete(outFile + ".ply");
+    } else {
+        print("skipping: " + outFile + "(.tif).dat (already computed)");
+    }
+}
+
+//Appends the value to the array
+//Returns the modified array
+function appendToArray(value, array) {
+    temparray=newArray(lengthOf(array)+1);
+    for (i=0; i<lengthOf(array); i++) {
+        temparray[i]=array[i];
+    }
+    temparray[lengthOf(temparray)-1]=value;
+    array=temparray;
+    return array;
+}
+
+setBatchMode(true);
+fileList = getFileList(inputFolder);
+list = newArray(0);
+
+for (i = 0; i < fileList.length; i++) {
+    if(endsWith(fileList[i], ".tif")) {
+        act_file = replace(fileList[i], ".tif", "");
+        list = appendToArray(act_file, list);
+    } else if(endsWith(fileList[i], ".obj")) {
+        act_file = replace(fileList[i], ".obj", "");
+        list = appendToArray(act_file, list);
+    }
+}
+Array.sort(list);
+list = ArrayUnique(list);
+
+args = split(getArgument()," "); 
+if (args.length != 2) {
+    startI = 0;
+    endI = list.length;
+} else {
+    threadId = parseInt(args[0]) - 1;
+    threadCount = parseInt(args[1]);
+    imagesPerThread = list.length / threadCount;
+    startI = round(threadId * imagesPerThread);
+    endI = round((threadId+1) * imagesPerThread);
+}
+
+for (i = startI; i < endI; i++)
+    Convert(inputFolder, outputFolder, list[i]);
+setBatchMode(false);

@@ -1,0 +1,2160 @@
+File;Prediction;Class;Classname
+HM001_cellNo_11.tif.obj;0.047664057;0;SDE shapes
+HM001_cellNo_12.tif.obj;-0.16042334;0;SDE shapes
+HM001_cellNo_14.tif.obj;-0.024336027;0;SDE shapes
+HM001_cellNo_15.tif.obj;0.3578132;0;SDE shapes
+HM001_cellNo_18.tif.obj;0.25019792;5;patients echinocytes
+HM001_cellNo_19.tif.obj;0.28100824;5;patients echinocytes
+HM001_cellNo_20.tif.obj;0.29226285;0;SDE shapes
+HM001_cellNo_24.tif.obj;-0.071322;0;SDE shapes
+HM001_cellNo_25.tif.obj;-0.23675402;0;SDE shapes
+HM001_cellNo_26.tif.obj;0.14107345;0;SDE shapes
+HM001_cellNo_27.tif.obj;0.049586445;0;SDE shapes
+HM001_cellNo_29.tif.obj;0.04593468;0;SDE shapes
+HM001_cellNo_3.tif.obj;0.5935775;5;patients echinocytes
+HM001_cellNo_31.tif.obj;0.20557044;0;SDE shapes
+HM001_cellNo_33.tif.obj;-0.23919418;0;SDE shapes
+HM001_cellNo_37.tif.obj;0.11385203;0;SDE shapes
+HM001_cellNo_39.tif.obj;0.36542717;5;patients echinocytes
+HM001_cellNo_4.tif.obj;0.088811316;0;SDE shapes
+HM001_cellNo_5.tif.obj;0.33413008;0;SDE shapes
+HM001_cellNo_6.tif.obj;-0.33695388;0;SDE shapes
+HM001_cellNo_9.tif.obj;-0.055402014;0;SDE shapes
+HM002_cellNo_12.tif.obj;-0.2709876;1;invalid double cell
+HM002_cellNo_13.tif.obj;-0.19735993;0;SDE shapes
+HM002_cellNo_14.tif.obj;0.14671735;2;keratocytes
+HM002_cellNo_15.tif.obj;0.23326081;0;SDE shapes
+HM002_cellNo_16.tif.obj;0.1597687;2;keratocytes
+HM002_cellNo_19.tif.obj;0.18104559;5;patients echinocytes
+HM002_cellNo_20.tif.obj;0.31465235;5;patients echinocytes
+HM002_cellNo_21.tif.obj;0.82994145;5;patients echinocytes
+HM002_cellNo_22.tif.obj;1.0084468;5;patients echinocytes
+HM002_cellNo_24.tif.obj;0.36142135;5;patients echinocytes
+HM002_cellNo_26.tif.obj;-0.020610856;3;knizocytes
+HM002_cellNo_27.tif.obj;0.1932025;0;SDE shapes
+HM002_cellNo_28.tif.obj;0.782157;5;patients echinocytes
+HM002_cellNo_31.tif.obj;0.12608543;0;SDE shapes
+HM002_cellNo_32.tif.obj;0.5959065;5;patients echinocytes
+HM002_cellNo_35.tif.obj;0.40222114;5;patients echinocytes
+HM002_cellNo_36.tif.obj;0.54629344;5;patients echinocytes
+HM002_cellNo_37.tif.obj;0.18739948;0;SDE shapes
+HM002_cellNo_38.tif.obj;0.13806394;0;SDE shapes
+HM002_cellNo_40.tif.obj;0.0028459257;0;SDE shapes
+HM002_cellNo_42.tif.obj;0.32995984;5;patients echinocytes
+HM002_cellNo_44.tif.obj;0.10121662;0;SDE shapes
+HM002_cellNo_9.tif.obj;0.098371625;0;SDE shapes
+HM003_cellNo_10.tif.obj;0.3691298;5;patients echinocytes
+HM003_cellNo_12.tif.obj;-0.19936714;0;SDE shapes
+HM003_cellNo_14.tif.obj;0.91369265;5;patients echinocytes
+HM003_cellNo_15.tif.obj;0.18402398;0;SDE shapes
+HM003_cellNo_16.tif.obj;0.21420605;0;SDE shapes
+HM003_cellNo_2.tif.obj;0.38154754;5;patients echinocytes
+HM003_cellNo_20.tif.obj;0.043854203;0;SDE shapes
+HM003_cellNo_21.tif.obj;0.06001659;0;SDE shapes
+HM003_cellNo_22.tif.obj;0.026082354;0;SDE shapes
+HM003_cellNo_24.tif.obj;0.86482495;5;patients echinocytes
+HM003_cellNo_25.tif.obj;0.18018493;0;SDE shapes
+HM003_cellNo_26.tif.obj;0.06321655;0;SDE shapes
+HM003_cellNo_27.tif.obj;0.06967372;1;invalid double cell
+HM003_cellNo_28.tif.obj;0.1547822;3;knizocytes
+HM003_cellNo_3.tif.obj;-0.13457733;0;SDE shapes
+HM003_cellNo_30.tif.obj;0.77753353;5;patients echinocytes
+HM003_cellNo_31.tif.obj;-0.06706336;1;invalid double cell
+HM003_cellNo_32.tif.obj;0.053994637;0;SDE shapes
+HM003_cellNo_33.tif.obj;0.20846182;0;SDE shapes
+HM003_cellNo_34.tif.obj;-0.028683927;0;SDE shapes
+HM003_cellNo_35.tif.obj;0.46460697;5;patients echinocytes
+HM003_cellNo_37.tif.obj;0.16540961;5;patients echinocytes
+HM003_cellNo_4.tif.obj;0.06395168;0;SDE shapes
+HM003_cellNo_6.tif.obj;0.044953756;0;SDE shapes
+HM003_cellNo_7.tif.obj;-0.25172597;0;SDE shapes
+HM003_cellNo_8.tif.obj;0.34648392;0;SDE shapes
+HM003_cellNo_9.tif.obj;0.2969768;0;SDE shapes
+HM004_cellNo_10.tif.obj;0.13876195;0;SDE shapes
+HM004_cellNo_13.tif.obj;0.16482931;0;SDE shapes
+HM004_cellNo_17.tif.obj;0.26673874;0;SDE shapes
+HM004_cellNo_18.tif.obj;0.4773002;5;patients echinocytes
+HM004_cellNo_20.tif.obj;-0.1355241;0;SDE shapes
+HM004_cellNo_21.tif.obj;0.41480893;5;patients echinocytes
+HM004_cellNo_23.tif.obj;0.2641892;5;patients echinocytes
+HM004_cellNo_26.tif.obj;0.93075675;5;patients echinocytes
+HM004_cellNo_28.tif.obj;0.78951794;5;patients echinocytes
+HM004_cellNo_3.tif.obj;0.69171196;5;patients echinocytes
+HM004_cellNo_31.tif.obj;0.13211691;0;SDE shapes
+HM004_cellNo_32.tif.obj;0.15397018;0;SDE shapes
+HM004_cellNo_33.tif.obj;0.18788171;0;SDE shapes
+HM004_cellNo_38.tif.obj;0.11985334;0;SDE shapes
+HM004_cellNo_4.tif.obj;0.3336436;5;patients echinocytes
+HM004_cellNo_40.tif.obj;0.140989;5;patients echinocytes
+HM004_cellNo_7.tif.obj;-0.19276272;5;patients echinocytes
+HM004_cellNo_8.tif.obj;0.16220847;0;SDE shapes
+HM004_cellNo_9.tif.obj;0.8400921;5;patients echinocytes
+HM005_cellNo_10.tif.obj;0.113682695;0;SDE shapes
+HM005_cellNo_12.tif.obj;0.15992881;1;invalid double cell
+HM005_cellNo_14.tif.obj;0.29209328;5;patients echinocytes
+HM005_cellNo_15.tif.obj;0.15999961;0;SDE shapes
+HM005_cellNo_16.tif.obj;-0.0054700417;0;SDE shapes
+HM005_cellNo_18.tif.obj;0.16068941;5;patients echinocytes
+HM005_cellNo_19.tif.obj;0.19027449;0;SDE shapes
+HM005_cellNo_2.tif.obj;0.14570478;0;SDE shapes
+HM005_cellNo_22.tif.obj;-0.24799603;0;SDE shapes
+HM005_cellNo_23.tif.obj;0.34028322;5;patients echinocytes
+HM005_cellNo_24.tif.obj;0.92082745;5;patients echinocytes
+HM005_cellNo_25.tif.obj;0.26538208;5;patients echinocytes
+HM005_cellNo_28.tif.obj;0.2532963;5;patients echinocytes
+HM005_cellNo_33.tif.obj;0.215925;0;SDE shapes
+HM005_cellNo_34.tif.obj;-0.09699313;1;invalid double cell
+HM005_cellNo_35.tif.obj;-0.41112646;3;knizocytes
+HM005_cellNo_39.tif.obj;-0.27155256;0;SDE shapes
+HM005_cellNo_4.tif.obj;0.34991732;5;patients echinocytes
+HM005_cellNo_5.tif.obj;0.37720248;5;patients echinocytes
+HM005_cellNo_8.tif.obj;0.8326598;5;patients echinocytes
+HM006_cellNo_10.tif.obj;-0.18372896;0;SDE shapes
+HM006_cellNo_13.tif.obj;0.7023878;5;patients echinocytes
+HM006_cellNo_14.tif.obj;-0.2800126;0;SDE shapes
+HM006_cellNo_16.tif.obj;0.2003172;0;SDE shapes
+HM006_cellNo_18.tif.obj;-0.035267822;0;SDE shapes
+HM006_cellNo_21.tif.obj;0.13837478;0;SDE shapes
+HM006_cellNo_22.tif.obj;0.087335266;0;SDE shapes
+HM006_cellNo_25.tif.obj;0.026901169;0;SDE shapes
+HM006_cellNo_27.tif.obj;-0.052844763;0;SDE shapes
+HM006_cellNo_29.tif.obj;0.6566617;5;patients echinocytes
+HM006_cellNo_30.tif.obj;0.28899658;1;invalid double cell
+HM006_cellNo_32.tif.obj;0.12176511;1;invalid double cell
+HM006_cellNo_33.tif.obj;0.061546285;0;SDE shapes
+HM006_cellNo_37.tif.obj;0.3946415;2;keratocytes
+HM006_cellNo_4.tif.obj;0.26287422;0;SDE shapes
+HM006_cellNo_5.tif.obj;0.36213434;5;patients echinocytes
+HM006_cellNo_6.tif.obj;0.42644492;5;patients echinocytes
+HM006_cellNo_7.tif.obj;0.13755986;0;SDE shapes
+HM006_cellNo_8.tif.obj;-0.20476317;0;SDE shapes
+HM006_cellNo_9.tif.obj;0.09690548;1;invalid double cell
+HM007_cellNo_12.tif.obj;0.8389156;5;patients echinocytes
+HM007_cellNo_13.tif.obj;0.24504885;5;patients echinocytes
+HM007_cellNo_15.tif.obj;0.12797603;5;patients echinocytes
+HM007_cellNo_16.tif.obj;0.31841528;5;patients echinocytes
+HM007_cellNo_17.tif.obj;0.041460764;3;knizocytes
+HM007_cellNo_18.tif.obj;0.36633477;5;patients echinocytes
+HM007_cellNo_2.tif.obj;0.7825256;5;patients echinocytes
+HM007_cellNo_20.tif.obj;0.8890962;5;patients echinocytes
+HM007_cellNo_21.tif.obj;0.2305444;0;SDE shapes
+HM007_cellNo_22.tif.obj;0.017468236;0;SDE shapes
+HM007_cellNo_25.tif.obj;-0.29964978;3;knizocytes
+HM007_cellNo_28.tif.obj;0.46862534;5;patients echinocytes
+HM007_cellNo_29.tif.obj;0.16496393;0;SDE shapes
+HM007_cellNo_30.tif.obj;0.22327845;5;patients echinocytes
+HM007_cellNo_31.tif.obj;0.010208318;0;SDE shapes
+HM007_cellNo_34.tif.obj;-0.047453128;3;knizocytes
+HM007_cellNo_35.tif.obj;0.16860896;0;SDE shapes
+HM007_cellNo_36.tif.obj;0.32479826;5;patients echinocytes
+HM007_cellNo_38.tif.obj;0.18502164;5;patients echinocytes
+HM007_cellNo_39.tif.obj;0.26819345;5;patients echinocytes
+HM007_cellNo_40.tif.obj;0.06508904;0;SDE shapes
+HM007_cellNo_41.tif.obj;0.12263668;0;SDE shapes
+HM007_cellNo_42.tif.obj;0.042376876;0;SDE shapes
+HM007_cellNo_43.tif.obj;-0.1210959;0;SDE shapes
+HM007_cellNo_5.tif.obj;0.5657386;5;patients echinocytes
+HM007_cellNo_6.tif.obj;0.29787698;0;SDE shapes
+HM007_cellNo_8.tif.obj;0.00140061;0;SDE shapes
+HM007_cellNo_9.tif.obj;0.3088617;0;SDE shapes
+HM008_cellNo_10.tif.obj;0.13459828;1;invalid double cell
+HM008_cellNo_11.tif.obj;0.25458592;5;patients echinocytes
+HM008_cellNo_13.tif.obj;0.45620826;5;patients echinocytes
+HM008_cellNo_14.tif.obj;-0.07020855;1;invalid double cell
+HM008_cellNo_15.tif.obj;-0.06124833;0;SDE shapes
+HM008_cellNo_16.tif.obj;-0.22266725;0;SDE shapes
+HM008_cellNo_17.tif.obj;-0.038846646;5;patients echinocytes
+HM008_cellNo_18.tif.obj;0.07617564;0;SDE shapes
+HM008_cellNo_2.tif.obj;-0.1971119;0;SDE shapes
+HM008_cellNo_23.tif.obj;-0.028900402;3;knizocytes
+HM008_cellNo_25.tif.obj;0.06213649;0;SDE shapes
+HM008_cellNo_28.tif.obj;0.09714927;0;SDE shapes
+HM008_cellNo_3.tif.obj;-0.1412167;3;knizocytes
+HM008_cellNo_30.tif.obj;0.36420733;5;patients echinocytes
+HM008_cellNo_32.tif.obj;0.445936;5;patients echinocytes
+HM008_cellNo_33.tif.obj;-0.158472;0;SDE shapes
+HM008_cellNo_37.tif.obj;0.20215458;0;SDE shapes
+HM008_cellNo_38.tif.obj;0.43034726;5;patients echinocytes
+HM008_cellNo_4.tif.obj;0.052030597;0;SDE shapes
+HM008_cellNo_40.tif.obj;0.31609064;0;SDE shapes
+HM008_cellNo_41.tif.obj;-0.612204;0;SDE shapes
+HM008_cellNo_44.tif.obj;0.032898214;0;SDE shapes
+HM008_cellNo_5.tif.obj;0.107159086;0;SDE shapes
+HM008_cellNo_7.tif.obj;0.4809473;5;patients echinocytes
+HM008_cellNo_8.tif.obj;0.56527954;5;patients echinocytes
+HM008_cellNo_9.tif.obj;-0.0849159;0;SDE shapes
+HM009_cellNo_10.tif.obj;0.55761707;5;patients echinocytes
+HM009_cellNo_13.tif.obj;0.251173;0;SDE shapes
+HM009_cellNo_14.tif.obj;0.10762005;0;SDE shapes
+HM009_cellNo_16.tif.obj;0.0671966;5;patients echinocytes
+HM009_cellNo_17.tif.obj;0.11674142;0;SDE shapes
+HM009_cellNo_18.tif.obj;0.38656595;5;patients echinocytes
+HM009_cellNo_2.tif.obj;0.2957997;5;patients echinocytes
+HM009_cellNo_20.tif.obj;-0.009177357;0;SDE shapes
+HM009_cellNo_21.tif.obj;-0.04596069;0;SDE shapes
+HM009_cellNo_22.tif.obj;0.545726;5;patients echinocytes
+HM009_cellNo_25.tif.obj;0.6051389;5;patients echinocytes
+HM009_cellNo_27.tif.obj;0.22524433;0;SDE shapes
+HM009_cellNo_29.tif.obj;0.089889824;0;SDE shapes
+HM009_cellNo_3.tif.obj;0.22132033;0;SDE shapes
+HM009_cellNo_30.tif.obj;0.36488304;5;patients echinocytes
+HM009_cellNo_31.tif.obj;0.3814731;5;patients echinocytes
+HM009_cellNo_32.tif.obj;-0.027796986;3;knizocytes
+HM009_cellNo_33.tif.obj;0.7932078;5;patients echinocytes
+HM009_cellNo_4.tif.obj;0.26038292;0;SDE shapes
+HM009_cellNo_5.tif.obj;-0.36367998;3;knizocytes
+HM009_cellNo_8.tif.obj;-0.14475226;0;SDE shapes
+HM010_cellNo_10.tif.obj;0.47991326;5;patients echinocytes
+HM010_cellNo_12.tif.obj;0.36530414;5;patients echinocytes
+HM010_cellNo_13.tif.obj;0.4272729;5;patients echinocytes
+HM010_cellNo_15.tif.obj;-0.17226242;3;knizocytes
+HM010_cellNo_17.tif.obj;0.14604002;5;patients echinocytes
+HM010_cellNo_18.tif.obj;-0.20494479;0;SDE shapes
+HM010_cellNo_20.tif.obj;0.17855477;0;SDE shapes
+HM010_cellNo_23.tif.obj;0.068175755;0;SDE shapes
+HM010_cellNo_24.tif.obj;0.070255764;5;patients echinocytes
+HM010_cellNo_25.tif.obj;-0.046021096;0;SDE shapes
+HM010_cellNo_26.tif.obj;-0.07283787;0;SDE shapes
+HM010_cellNo_28.tif.obj;0.19326949;1;invalid double cell
+HM010_cellNo_31.tif.obj;0.36970052;5;patients echinocytes
+HM010_cellNo_34.tif.obj;0.4603646;5;patients echinocytes
+HM010_cellNo_35.tif.obj;-0.03896079;0;SDE shapes
+HM010_cellNo_4.tif.obj;0.10496096;0;SDE shapes
+HM010_cellNo_5.tif.obj;0.51186675;5;patients echinocytes
+HM010_cellNo_6.tif.obj;-0.49210703;0;SDE shapes
+HM010_cellNo_7.tif.obj;-0.08789163;0;SDE shapes
+HM010_cellNo_8.tif.obj;-0.1148623;0;SDE shapes
+HM011_cellNo_10.tif.obj;0.51200986;5;patients echinocytes
+HM011_cellNo_11.tif.obj;0.283595;0;SDE shapes
+HM011_cellNo_13.tif.obj;0.027539676;0;SDE shapes
+HM011_cellNo_14.tif.obj;0.5210191;5;patients echinocytes
+HM011_cellNo_15.tif.obj;0.77978325;5;patients echinocytes
+HM011_cellNo_16.tif.obj;-0.6811908;0;SDE shapes
+HM011_cellNo_17.tif.obj;0.019582046;3;knizocytes
+HM011_cellNo_18.tif.obj;-0.014371807;0;SDE shapes
+HM011_cellNo_19.tif.obj;0.5451436;5;patients echinocytes
+HM011_cellNo_20.tif.obj;-0.14625347;0;SDE shapes
+HM011_cellNo_21.tif.obj;0.48070437;1;invalid double cell
+HM011_cellNo_23.tif.obj;0.22192825;1;invalid double cell
+HM011_cellNo_25.tif.obj;0.55690384;5;patients echinocytes
+HM011_cellNo_28.tif.obj;0.51961994;5;patients echinocytes
+HM011_cellNo_30.tif.obj;0.11658303;0;SDE shapes
+HM011_cellNo_31.tif.obj;0.12691239;0;SDE shapes
+HM011_cellNo_33.tif.obj;-0.119160004;0;SDE shapes
+HM011_cellNo_34.tif.obj;0.22289835;2;keratocytes
+HM011_cellNo_35.tif.obj;0.015217397;0;SDE shapes
+HM011_cellNo_36.tif.obj;0.49767253;5;patients echinocytes
+HM011_cellNo_37.tif.obj;0.5201833;5;patients echinocytes
+HM011_cellNo_39.tif.obj;0.20714532;2;keratocytes
+HM011_cellNo_4.tif.obj;0.33244115;5;patients echinocytes
+HM011_cellNo_40.tif.obj;0.046488326;0;SDE shapes
+HM011_cellNo_5.tif.obj;0.016829384;1;invalid double cell
+HM011_cellNo_6.tif.obj;0.059780713;0;SDE shapes
+HM011_cellNo_7.tif.obj;0.2825896;5;patients echinocytes
+HM011_cellNo_8.tif.obj;0.46935698;5;patients echinocytes
+HM011_cellNo_9.tif.obj;-0.18722047;0;SDE shapes
+HM012_cellNo_10.tif.obj;0.122248955;0;SDE shapes
+HM012_cellNo_11.tif.obj;0.36212775;5;patients echinocytes
+HM012_cellNo_12.tif.obj;0.75532407;2;keratocytes
+HM012_cellNo_13.tif.obj;-0.057816982;0;SDE shapes
+HM012_cellNo_14.tif.obj;0.42560503;5;patients echinocytes
+HM012_cellNo_15.tif.obj;0.20220095;0;SDE shapes
+HM012_cellNo_17.tif.obj;0.13281119;5;patients echinocytes
+HM012_cellNo_18.tif.obj;0.002712307;0;SDE shapes
+HM012_cellNo_2.tif.obj;-0.1293222;0;SDE shapes
+HM012_cellNo_20.tif.obj;0.3718631;5;patients echinocytes
+HM012_cellNo_21.tif.obj;-0.3037379;0;SDE shapes
+HM012_cellNo_22.tif.obj;0.06611404;0;SDE shapes
+HM012_cellNo_23.tif.obj;-0.027727572;0;SDE shapes
+HM012_cellNo_24.tif.obj;0.17421344;0;SDE shapes
+HM012_cellNo_26.tif.obj;0.26774392;5;patients echinocytes
+HM012_cellNo_28.tif.obj;-0.10279217;0;SDE shapes
+HM012_cellNo_3.tif.obj;0.35420844;5;patients echinocytes
+HM012_cellNo_30.tif.obj;-0.13818392;0;SDE shapes
+HM012_cellNo_31.tif.obj;-0.026779355;0;SDE shapes
+HM012_cellNo_32.tif.obj;0.14207603;0;SDE shapes
+HM012_cellNo_33.tif.obj;0.117634736;0;SDE shapes
+HM012_cellNo_36.tif.obj;0.15513231;0;SDE shapes
+HM012_cellNo_38.tif.obj;0.20200908;0;SDE shapes
+HM012_cellNo_39.tif.obj;-0.24686544;0;SDE shapes
+HM012_cellNo_40.tif.obj;0.3839561;5;patients echinocytes
+HM012_cellNo_44.tif.obj;0.103056885;0;SDE shapes
+HM012_cellNo_45.tif.obj;-0.21723965;0;SDE shapes
+HM012_cellNo_46.tif.obj;-0.21646589;0;SDE shapes
+HM012_cellNo_48.tif.obj;0.14943159;5;patients echinocytes
+HM012_cellNo_8.tif.obj;0.29969934;0;SDE shapes
+HM012_cellNo_9.tif.obj;0.18919975;0;SDE shapes
+HM013_cellNo_10.tif.obj;-0.0015126788;1;invalid double cell
+HM013_cellNo_11.tif.obj;-0.053860474;0;SDE shapes
+HM013_cellNo_12.tif.obj;0.4084421;5;patients echinocytes
+HM013_cellNo_13.tif.obj;-0.09287485;0;SDE shapes
+HM013_cellNo_15.tif.obj;0.37126908;5;patients echinocytes
+HM013_cellNo_19.tif.obj;0.42206356;5;patients echinocytes
+HM013_cellNo_2.tif.obj;-0.024732659;0;SDE shapes
+HM013_cellNo_21.tif.obj;0.27537265;0;SDE shapes
+HM013_cellNo_23.tif.obj;0.23737293;5;patients echinocytes
+HM013_cellNo_25.tif.obj;0.58235735;5;patients echinocytes
+HM013_cellNo_26.tif.obj;0.71981126;5;patients echinocytes
+HM013_cellNo_28.tif.obj;0.23772684;5;patients echinocytes
+HM013_cellNo_29.tif.obj;-0.25403145;0;SDE shapes
+HM013_cellNo_3.tif.obj;0.20392075;0;SDE shapes
+HM013_cellNo_30.tif.obj;-0.0682405;0;SDE shapes
+HM013_cellNo_33.tif.obj;0.33398733;5;patients echinocytes
+HM013_cellNo_35.tif.obj;-0.48156932;0;SDE shapes
+HM013_cellNo_36.tif.obj;-0.3278612;0;SDE shapes
+HM013_cellNo_38.tif.obj;0.36593965;5;patients echinocytes
+HM013_cellNo_39.tif.obj;0.15614286;0;SDE shapes
+HM013_cellNo_41.tif.obj;0.17197047;0;SDE shapes
+HM013_cellNo_8.tif.obj;-0.3062536;4;multilobated cells
+HM014_cellNo_13.tif.obj;0.38194114;5;patients echinocytes
+HM014_cellNo_14.tif.obj;-0.16286454;0;SDE shapes
+HM014_cellNo_16.tif.obj;0.33828452;1;invalid double cell
+HM014_cellNo_17.tif.obj;-0.08614888;0;SDE shapes
+HM014_cellNo_19.tif.obj;0.89253426;5;patients echinocytes
+HM014_cellNo_20.tif.obj;0.67962545;5;patients echinocytes
+HM014_cellNo_21.tif.obj;0.18593861;1;invalid double cell
+HM014_cellNo_22.tif.obj;0.11862556;0;SDE shapes
+HM014_cellNo_23.tif.obj;0.63321555;5;patients echinocytes
+HM014_cellNo_26.tif.obj;0.19450511;0;SDE shapes
+HM014_cellNo_28.tif.obj;0.027840575;0;SDE shapes
+HM014_cellNo_29.tif.obj;0.30004743;5;patients echinocytes
+HM014_cellNo_3.tif.obj;0.05607033;0;SDE shapes
+HM014_cellNo_32.tif.obj;0.32825887;5;patients echinocytes
+HM014_cellNo_33.tif.obj;-0.069088936;0;SDE shapes
+HM014_cellNo_4.tif.obj;0.4134305;0;SDE shapes
+HM014_cellNo_7.tif.obj;0.8346084;5;patients echinocytes
+HM014_cellNo_8.tif.obj;-0.20815302;0;SDE shapes
+HM014_cellNo_9.tif.obj;-0.05304616;0;SDE shapes
+HM015_cellNo_1.tif.obj;0.20610653;0;SDE shapes
+HM015_cellNo_11.tif.obj;0.29230487;5;patients echinocytes
+HM015_cellNo_12.tif.obj;0.26420483;0;SDE shapes
+HM015_cellNo_16.tif.obj;0.094065145;0;SDE shapes
+HM015_cellNo_19.tif.obj;0.07691603;0;SDE shapes
+HM015_cellNo_2.tif.obj;0.09324906;0;SDE shapes
+HM015_cellNo_20.tif.obj;0.015980912;1;invalid double cell
+HM015_cellNo_21.tif.obj;-0.11832807;0;SDE shapes
+HM015_cellNo_22.tif.obj;0.22480293;0;SDE shapes
+HM015_cellNo_24.tif.obj;0.08364747;0;SDE shapes
+HM015_cellNo_27.tif.obj;0.17973119;0;SDE shapes
+HM015_cellNo_28.tif.obj;0.25526103;5;patients echinocytes
+HM015_cellNo_29.tif.obj;0.26161262;5;patients echinocytes
+HM015_cellNo_3.tif.obj;-0.107583664;0;SDE shapes
+HM015_cellNo_5.tif.obj;0.24453223;0;SDE shapes
+HM015_cellNo_6.tif.obj;0.095329374;0;SDE shapes
+HM016_cellNo_10.tif.obj;-0.056306113;1;invalid double cell
+HM016_cellNo_11.tif.obj;-0.061030883;3;knizocytes
+HM016_cellNo_13.tif.obj;0.3672271;5;patients echinocytes
+HM016_cellNo_15.tif.obj;0.08226898;0;SDE shapes
+HM016_cellNo_16.tif.obj;0.18711111;5;patients echinocytes
+HM016_cellNo_17.tif.obj;0.14347166;2;keratocytes
+HM016_cellNo_20.tif.obj;0.5620264;5;patients echinocytes
+HM016_cellNo_21.tif.obj;0.1950166;0;SDE shapes
+HM016_cellNo_22.tif.obj;0.40045798;5;patients echinocytes
+HM016_cellNo_25.tif.obj;0.059283342;0;SDE shapes
+HM016_cellNo_26.tif.obj;-0.23380207;0;SDE shapes
+HM016_cellNo_27.tif.obj;0.39706382;5;patients echinocytes
+HM016_cellNo_28.tif.obj;-0.12714562;0;SDE shapes
+HM016_cellNo_31.tif.obj;0.1040514;2;keratocytes
+HM016_cellNo_32.tif.obj;0.05925345;5;patients echinocytes
+HM016_cellNo_33.tif.obj;0.094475776;2;keratocytes
+HM016_cellNo_34.tif.obj;0.57842356;5;patients echinocytes
+HM016_cellNo_35.tif.obj;0.366326;2;keratocytes
+HM016_cellNo_37.tif.obj;0.3385775;5;patients echinocytes
+HM016_cellNo_38.tif.obj;0.25092158;0;SDE shapes
+HM016_cellNo_40.tif.obj;0.11414514;0;SDE shapes
+HM016_cellNo_42.tif.obj;0.32242772;0;SDE shapes
+HM016_cellNo_45.tif.obj;0.14904022;0;SDE shapes
+HM016_cellNo_7.tif.obj;0.05939802;0;SDE shapes
+HM016_cellNo_9.tif.obj;0.13888913;0;SDE shapes
+HM017_cellNo_10.tif.obj;0.15608592;0;SDE shapes
+HM017_cellNo_11.tif.obj;0.0455845;1;invalid double cell
+HM017_cellNo_12.tif.obj;0.23371103;2;keratocytes
+HM017_cellNo_16.tif.obj;0.1457493;0;SDE shapes
+HM017_cellNo_18.tif.obj;-0.27549177;0;SDE shapes
+HM017_cellNo_21.tif.obj;0.9248167;5;patients echinocytes
+HM017_cellNo_22.tif.obj;0.17930678;0;SDE shapes
+HM017_cellNo_23.tif.obj;0.14441165;0;SDE shapes
+HM017_cellNo_24.tif.obj;-0.031200768;1;invalid double cell
+HM017_cellNo_25.tif.obj;-0.008817198;0;SDE shapes
+HM017_cellNo_29.tif.obj;0.25756297;5;patients echinocytes
+HM017_cellNo_3.tif.obj;0.03668536;1;invalid double cell
+HM017_cellNo_30.tif.obj;0.09173824;0;SDE shapes
+HM017_cellNo_31.tif.obj;0.03984419;3;knizocytes
+HM017_cellNo_32.tif.obj;0.19554847;0;SDE shapes
+HM017_cellNo_33.tif.obj;-1.0097443;0;SDE shapes
+HM017_cellNo_34.tif.obj;0.1593404;0;SDE shapes
+HM017_cellNo_35.tif.obj;-0.039289217;0;SDE shapes
+HM017_cellNo_36.tif.obj;-0.0025285543;0;SDE shapes
+HM017_cellNo_37.tif.obj;0.40447968;5;patients echinocytes
+HM017_cellNo_4.tif.obj;0.024874208;0;SDE shapes
+HM017_cellNo_5.tif.obj;0.2112386;1;invalid double cell
+HM017_cellNo_6.tif.obj;-0.265746;1;invalid double cell
+HM017_cellNo_9.tif.obj;0.109550126;1;invalid double cell
+HM018_cellNo_10.tif.obj;0.40591893;5;patients echinocytes
+HM018_cellNo_11.tif.obj;-0.2754849;0;SDE shapes
+HM018_cellNo_13.tif.obj;0.09440443;5;patients echinocytes
+HM018_cellNo_14.tif.obj;0.094181515;0;SDE shapes
+HM018_cellNo_16.tif.obj;0.07905785;0;SDE shapes
+HM018_cellNo_19.tif.obj;0.11945974;0;SDE shapes
+HM018_cellNo_2.tif.obj;0.017052358;0;SDE shapes
+HM018_cellNo_22.tif.obj;0.4970919;5;patients echinocytes
+HM018_cellNo_24.tif.obj;-0.20320795;0;SDE shapes
+HM018_cellNo_25.tif.obj;0.17221554;5;patients echinocytes
+HM018_cellNo_26.tif.obj;0.056245927;1;invalid double cell
+HM018_cellNo_27.tif.obj;0.019487089;0;SDE shapes
+HM018_cellNo_28.tif.obj;0.2179088;1;invalid double cell
+HM018_cellNo_29.tif.obj;-0.16503616;1;invalid double cell
+HM018_cellNo_32.tif.obj;0.090939075;1;invalid double cell
+HM018_cellNo_4.tif.obj;0.073816724;3;knizocytes
+HM018_cellNo_5.tif.obj;0.34366322;5;patients echinocytes
+HM018_cellNo_7.tif.obj;0.0006453819;3;knizocytes
+HM018_cellNo_8.tif.obj;-0.078300975;3;knizocytes
+HM018_cellNo_9.tif.obj;0.10689647;0;SDE shapes
+HM019_cellNo_10.tif.obj;-0.3088836;0;SDE shapes
+HM019_cellNo_11.tif.obj;0.16228254;0;SDE shapes
+HM019_cellNo_14.tif.obj;-0.041975897;2;keratocytes
+HM019_cellNo_15.tif.obj;-0.03755723;0;SDE shapes
+HM019_cellNo_18.tif.obj;0.09028199;2;keratocytes
+HM019_cellNo_2.tif.obj;0.43319908;5;patients echinocytes
+HM019_cellNo_20.tif.obj;-0.48492783;0;SDE shapes
+HM019_cellNo_22.tif.obj;0.4176892;5;patients echinocytes
+HM019_cellNo_25.tif.obj;0.12131355;0;SDE shapes
+HM019_cellNo_26.tif.obj;0.452619;5;patients echinocytes
+HM019_cellNo_27.tif.obj;-0.019061908;0;SDE shapes
+HM019_cellNo_28.tif.obj;0.35762808;5;patients echinocytes
+HM019_cellNo_29.tif.obj;-0.0018772655;3;knizocytes
+HM019_cellNo_33.tif.obj;0.34300575;5;patients echinocytes
+HM019_cellNo_34.tif.obj;0.5074816;5;patients echinocytes
+HM019_cellNo_36.tif.obj;0.2442072;0;SDE shapes
+HM019_cellNo_4.tif.obj;0.1603661;0;SDE shapes
+HM019_cellNo_5.tif.obj;0.27378088;5;patients echinocytes
+HM019_cellNo_6.tif.obj;0.17150995;0;SDE shapes
+HM019_cellNo_7.tif.obj;0.11454192;0;SDE shapes
+HM019_cellNo_9.tif.obj;0.14806828;0;SDE shapes
+HM020_cellNo_10.tif.obj;0.23964421;5;patients echinocytes
+HM020_cellNo_11.tif.obj;0.09933925;0;SDE shapes
+HM020_cellNo_12.tif.obj;0.2016368;5;patients echinocytes
+HM020_cellNo_14.tif.obj;0.20723227;0;SDE shapes
+HM020_cellNo_16.tif.obj;0.1639038;2;keratocytes
+HM020_cellNo_17.tif.obj;-0.0352135;3;knizocytes
+HM020_cellNo_2.tif.obj;0.14259067;5;patients echinocytes
+HM020_cellNo_21.tif.obj;-0.2764021;3;knizocytes
+HM020_cellNo_24.tif.obj;0.18885504;1;invalid double cell
+HM020_cellNo_25.tif.obj;0.14826569;0;SDE shapes
+HM020_cellNo_27.tif.obj;0.38274506;5;patients echinocytes
+HM020_cellNo_29.tif.obj;0.24567488;5;patients echinocytes
+HM020_cellNo_32.tif.obj;0.12558307;0;SDE shapes
+HM020_cellNo_8.tif.obj;0.08403405;0;SDE shapes
+HM021_cellNo_10.tif.obj;0.17047372;0;SDE shapes
+HM021_cellNo_13.tif.obj;0.3817807;2;keratocytes
+HM021_cellNo_17.tif.obj;0.01852041;0;SDE shapes
+HM021_cellNo_18.tif.obj;0.22916524;0;SDE shapes
+HM021_cellNo_2.tif.obj;0.17163348;0;SDE shapes
+HM021_cellNo_22.tif.obj;0.20057543;0;SDE shapes
+HM021_cellNo_25.tif.obj;0.20464957;0;SDE shapes
+HM021_cellNo_26.tif.obj;0.117338866;0;SDE shapes
+HM021_cellNo_28.tif.obj;0.0799166;0;SDE shapes
+HM021_cellNo_29.tif.obj;0.45650867;5;patients echinocytes
+HM021_cellNo_3.tif.obj;0.052864928;0;SDE shapes
+HM021_cellNo_30.tif.obj;0.13872823;5;patients echinocytes
+HM021_cellNo_31.tif.obj;0.17837605;2;keratocytes
+HM021_cellNo_4.tif.obj;0.4869376;5;patients echinocytes
+HM021_cellNo_5.tif.obj;0.04164176;0;SDE shapes
+HM021_cellNo_8.tif.obj;0.22188246;0;SDE shapes
+HM021_cellNo_9.tif.obj;0.40001482;0;SDE shapes
+HM022_cellNo_10.tif.obj;-0.19663234;0;SDE shapes
+HM022_cellNo_13.tif.obj;-0.13895127;3;knizocytes
+HM022_cellNo_14.tif.obj;0.26263216;5;patients echinocytes
+HM022_cellNo_17.tif.obj;-0.26670915;0;SDE shapes
+HM022_cellNo_18.tif.obj;-0.20915791;0;SDE shapes
+HM022_cellNo_2.tif.obj;-0.23307666;0;SDE shapes
+HM022_cellNo_20.tif.obj;0.3318411;5;patients echinocytes
+HM022_cellNo_22.tif.obj;0.55492693;5;patients echinocytes
+HM022_cellNo_25.tif.obj;-0.019411376;0;SDE shapes
+HM022_cellNo_28.tif.obj;0.16134475;0;SDE shapes
+HM022_cellNo_30.tif.obj;0.28336462;5;patients echinocytes
+HM022_cellNo_31.tif.obj;-0.09515468;5;patients echinocytes
+HM022_cellNo_32.tif.obj;0.6378878;5;patients echinocytes
+HM022_cellNo_4.tif.obj;0.23011535;5;patients echinocytes
+HM022_cellNo_7.tif.obj;-0.00975105;5;patients echinocytes
+HM022_cellNo_8.tif.obj;0.07999552;0;SDE shapes
+HM022_cellNo_9.tif.obj;0.34859398;5;patients echinocytes
+HM023_cellNo_10.tif.obj;0.2806758;5;patients echinocytes
+HM023_cellNo_11.tif.obj;-0.107991494;4;multilobated cells
+HM023_cellNo_13.tif.obj;0.131021;0;SDE shapes
+HM023_cellNo_15.tif.obj;0.2463775;0;SDE shapes
+HM023_cellNo_16.tif.obj;-0.012464216;0;SDE shapes
+HM023_cellNo_17.tif.obj;0.3708792;5;patients echinocytes
+HM023_cellNo_18.tif.obj;-0.39444584;0;SDE shapes
+HM023_cellNo_19.tif.obj;0.17003104;0;SDE shapes
+HM023_cellNo_2.tif.obj;0.5102379;5;patients echinocytes
+HM023_cellNo_20.tif.obj;0.21542263;0;SDE shapes
+HM023_cellNo_22.tif.obj;0.11250131;0;SDE shapes
+HM023_cellNo_23.tif.obj;0.1709351;5;patients echinocytes
+HM023_cellNo_24.tif.obj;0.0183897;0;SDE shapes
+HM023_cellNo_26.tif.obj;0.19408894;5;patients echinocytes
+HM023_cellNo_30.tif.obj;0.0754345;0;SDE shapes
+HM023_cellNo_31.tif.obj;0.20899609;0;SDE shapes
+HM023_cellNo_32.tif.obj;0.22072992;0;SDE shapes
+HM023_cellNo_33.tif.obj;-0.07699698;0;SDE shapes
+HM023_cellNo_34.tif.obj;-0.22200061;0;SDE shapes
+HM023_cellNo_35.tif.obj;0.036107358;5;patients echinocytes
+HM023_cellNo_36.tif.obj;0.10469981;1;invalid double cell
+HM023_cellNo_37.tif.obj;0.33758792;5;patients echinocytes
+HM023_cellNo_38.tif.obj;0.07429511;0;SDE shapes
+HM023_cellNo_5.tif.obj;0.6743724;5;patients echinocytes
+HM023_cellNo_6.tif.obj;0.4442378;5;patients echinocytes
+HM023_cellNo_7.tif.obj;0.057992015;0;SDE shapes
+HM024_cellNo_10.tif.obj;0.14135188;0;SDE shapes
+HM024_cellNo_11.tif.obj;0.6427466;5;patients echinocytes
+HM024_cellNo_13.tif.obj;0.18438447;0;SDE shapes
+HM024_cellNo_14.tif.obj;0.17696737;0;SDE shapes
+HM024_cellNo_15.tif.obj;-0.00046821166;0;SDE shapes
+HM024_cellNo_16.tif.obj;0.7731838;5;patients echinocytes
+HM024_cellNo_18.tif.obj;-0.18696696;0;SDE shapes
+HM024_cellNo_19.tif.obj;-0.019159978;0;SDE shapes
+HM024_cellNo_20.tif.obj;0.12198606;0;SDE shapes
+HM024_cellNo_21.tif.obj;0.10831281;0;SDE shapes
+HM024_cellNo_23.tif.obj;-0.10044091;0;SDE shapes
+HM024_cellNo_24.tif.obj;-0.25009823;0;SDE shapes
+HM024_cellNo_27.tif.obj;0.014412358;0;SDE shapes
+HM024_cellNo_29.tif.obj;0.38857445;5;patients echinocytes
+HM024_cellNo_30.tif.obj;0.51648164;5;patients echinocytes
+HM024_cellNo_31.tif.obj;-0.02176495;0;SDE shapes
+HM024_cellNo_33.tif.obj;0.045287464;2;keratocytes
+HM024_cellNo_34.tif.obj;0.52313834;5;patients echinocytes
+HM024_cellNo_35.tif.obj;0.10790679;0;SDE shapes
+HM024_cellNo_37.tif.obj;0.16443986;0;SDE shapes
+HM024_cellNo_6.tif.obj;-0.09948913;1;invalid double cell
+HM024_cellNo_7.tif.obj;0.09372002;0;SDE shapes
+HM024_cellNo_8.tif.obj;0.30467096;5;patients echinocytes
+HM025_cellNo_1.tif.obj;-0.12360667;0;SDE shapes
+HM025_cellNo_10.tif.obj;0.05757073;0;SDE shapes
+HM025_cellNo_12.tif.obj;0.08581292;0;SDE shapes
+HM025_cellNo_13.tif.obj;0.33437818;5;patients echinocytes
+HM025_cellNo_15.tif.obj;0.39487922;5;patients echinocytes
+HM025_cellNo_17.tif.obj;0.18431972;0;SDE shapes
+HM025_cellNo_19.tif.obj;-0.13228524;0;SDE shapes
+HM025_cellNo_24.tif.obj;0.24649031;0;SDE shapes
+HM025_cellNo_25.tif.obj;0.18339959;0;SDE shapes
+HM025_cellNo_26.tif.obj;0.14461434;0;SDE shapes
+HM025_cellNo_27.tif.obj;0.17902306;0;SDE shapes
+HM025_cellNo_28.tif.obj;-0.13383028;5;patients echinocytes
+HM025_cellNo_32.tif.obj;0.32551005;5;patients echinocytes
+HM025_cellNo_33.tif.obj;-0.3344474;0;SDE shapes
+HM025_cellNo_36.tif.obj;0.14338346;1;invalid double cell
+HM025_cellNo_37.tif.obj;0.16024858;5;patients echinocytes
+HM025_cellNo_38.tif.obj;-0.27185836;0;SDE shapes
+HM025_cellNo_4.tif.obj;0.39415577;5;patients echinocytes
+HM025_cellNo_5.tif.obj;0.22003731;1;invalid double cell
+HM026_cellNo_11.tif.obj;0.12162029;0;SDE shapes
+HM026_cellNo_12.tif.obj;0.027365742;0;SDE shapes
+HM026_cellNo_13.tif.obj;0.35935363;5;patients echinocytes
+HM026_cellNo_14.tif.obj;-0.5354899;0;SDE shapes
+HM026_cellNo_15.tif.obj;0.14251472;2;keratocytes
+HM026_cellNo_16.tif.obj;0.22202978;5;patients echinocytes
+HM026_cellNo_18.tif.obj;-0.07772362;0;SDE shapes
+HM026_cellNo_21.tif.obj;0.010779878;0;SDE shapes
+HM026_cellNo_25.tif.obj;0.2160588;0;SDE shapes
+HM026_cellNo_27.tif.obj;0.40888995;5;patients echinocytes
+HM026_cellNo_29.tif.obj;0.04104108;5;patients echinocytes
+HM026_cellNo_3.tif.obj;0.2225658;0;SDE shapes
+HM026_cellNo_31.tif.obj;0.06693425;0;SDE shapes
+HM026_cellNo_33.tif.obj;0.07300099;0;SDE shapes
+HM026_cellNo_5.tif.obj;0.3903475;5;patients echinocytes
+HM026_cellNo_6.tif.obj;0.22654033;5;patients echinocytes
+HM026_cellNo_7.tif.obj;0.14775512;2;keratocytes
+HM026_cellNo_8.tif.obj;0.30400735;5;patients echinocytes
+HM026_cellNo_9.tif.obj;-0.17693552;0;SDE shapes
+HM027_cellNo_10.tif.obj;0.40986565;5;patients echinocytes
+HM027_cellNo_11.tif.obj;0.044287622;0;SDE shapes
+HM027_cellNo_12.tif.obj;-0.14680927;0;SDE shapes
+HM027_cellNo_14.tif.obj;-0.11150682;0;SDE shapes
+HM027_cellNo_15.tif.obj;0.16547462;2;keratocytes
+HM027_cellNo_16.tif.obj;0.19621435;0;SDE shapes
+HM027_cellNo_17.tif.obj;0.40056258;5;patients echinocytes
+HM027_cellNo_19.tif.obj;0.42275843;5;patients echinocytes
+HM027_cellNo_2.tif.obj;0.3304919;5;patients echinocytes
+HM027_cellNo_20.tif.obj;0.3495559;5;patients echinocytes
+HM027_cellNo_21.tif.obj;0.034959126;1;invalid double cell
+HM027_cellNo_23.tif.obj;0.25437328;5;patients echinocytes
+HM027_cellNo_24.tif.obj;-0.28009084;0;SDE shapes
+HM027_cellNo_25.tif.obj;-0.053926855;0;SDE shapes
+HM027_cellNo_28.tif.obj;0.23738188;5;patients echinocytes
+HM027_cellNo_29.tif.obj;0.90794635;5;patients echinocytes
+HM027_cellNo_30.tif.obj;-0.09576106;0;SDE shapes
+HM027_cellNo_35.tif.obj;0.09771319;0;SDE shapes
+HM027_cellNo_36.tif.obj;0.05912165;0;SDE shapes
+HM027_cellNo_37.tif.obj;0.026237441;0;SDE shapes
+HM027_cellNo_38.tif.obj;0.10977833;0;SDE shapes
+HM027_cellNo_4.tif.obj;0.46330532;5;patients echinocytes
+HM027_cellNo_42.tif.obj;0.27270922;5;patients echinocytes
+HM028_cellNo_13.tif.obj;0.09710941;0;SDE shapes
+HM028_cellNo_14.tif.obj;0.026238823;0;SDE shapes
+HM028_cellNo_15.tif.obj;0.16308944;0;SDE shapes
+HM028_cellNo_16.tif.obj;-0.41692248;4;multilobated cells
+HM028_cellNo_20.tif.obj;0.14247146;1;invalid double cell
+HM028_cellNo_22.tif.obj;0.1258248;5;patients echinocytes
+HM028_cellNo_23.tif.obj;-0.063660435;0;SDE shapes
+HM028_cellNo_24.tif.obj;0.099217854;0;SDE shapes
+HM028_cellNo_25.tif.obj;0.023143431;1;invalid double cell
+HM028_cellNo_26.tif.obj;0.16211946;5;patients echinocytes
+HM028_cellNo_3.tif.obj;0.34809318;0;SDE shapes
+HM028_cellNo_30.tif.obj;0.29371032;0;SDE shapes
+HM028_cellNo_31.tif.obj;0.18742603;0;SDE shapes
+HM028_cellNo_33.tif.obj;0.18199703;0;SDE shapes
+HM028_cellNo_34.tif.obj;-0.18493253;3;knizocytes
+HM028_cellNo_35.tif.obj;-0.29575303;3;knizocytes
+HM028_cellNo_4.tif.obj;0.2033942;0;SDE shapes
+HM028_cellNo_5.tif.obj;0.40483406;5;patients echinocytes
+HM028_cellNo_6.tif.obj;0.19057721;5;patients echinocytes
+HM028_cellNo_7.tif.obj;-0.24804068;0;SDE shapes
+HM028_cellNo_9.tif.obj;-0.360796;1;invalid double cell
+HM029_cellNo_10.tif.obj;-0.10339978;0;SDE shapes
+HM029_cellNo_12.tif.obj;0.09297807;0;SDE shapes
+HM029_cellNo_13.tif.obj;0.06433089;0;SDE shapes
+HM029_cellNo_14.tif.obj;0.11311012;2;keratocytes
+HM029_cellNo_15.tif.obj;0.14802885;0;SDE shapes
+HM029_cellNo_19.tif.obj;0.027456356;5;patients echinocytes
+HM029_cellNo_23.tif.obj;-0.020722913;3;knizocytes
+HM029_cellNo_24.tif.obj;0.80103284;5;patients echinocytes
+HM029_cellNo_26.tif.obj;0.3008115;0;SDE shapes
+HM029_cellNo_27.tif.obj;-0.3034737;0;SDE shapes
+HM029_cellNo_3.tif.obj;0.22637676;5;patients echinocytes
+HM029_cellNo_30.tif.obj;0.2756374;2;keratocytes
+HM029_cellNo_31.tif.obj;-0.08156271;0;SDE shapes
+HM029_cellNo_33.tif.obj;0.25965402;0;SDE shapes
+HM029_cellNo_34.tif.obj;0.11414928;0;SDE shapes
+HM029_cellNo_36.tif.obj;-0.33325702;0;SDE shapes
+HM029_cellNo_37.tif.obj;0.4310843;1;invalid double cell
+HM029_cellNo_38.tif.obj;0.35996193;5;patients echinocytes
+HM029_cellNo_4.tif.obj;0.3347439;5;patients echinocytes
+HM029_cellNo_5.tif.obj;0.227368;5;patients echinocytes
+HM029_cellNo_6.tif.obj;-0.023215508;1;invalid double cell
+HM029_cellNo_8.tif.obj;0.0352658;0;SDE shapes
+HM029_cellNo_9.tif.obj;0.4762974;5;patients echinocytes
+HM030_cellNo_1.tif.obj;0.1831874;0;SDE shapes
+HM030_cellNo_10.tif.obj;0.25635806;2;keratocytes
+HM030_cellNo_12.tif.obj;-0.05252065;0;SDE shapes
+HM030_cellNo_13.tif.obj;0.52322894;5;patients echinocytes
+HM030_cellNo_14.tif.obj;-0.42373985;0;SDE shapes
+HM030_cellNo_16.tif.obj;0.4916465;5;patients echinocytes
+HM030_cellNo_18.tif.obj;0.19566067;0;SDE shapes
+HM030_cellNo_19.tif.obj;0.12388777;0;SDE shapes
+HM030_cellNo_20.tif.obj;0.21052077;5;patients echinocytes
+HM030_cellNo_22.tif.obj;-0.09136833;0;SDE shapes
+HM030_cellNo_23.tif.obj;-0.20459357;0;SDE shapes
+HM030_cellNo_24.tif.obj;0.5141421;5;patients echinocytes
+HM030_cellNo_26.tif.obj;0.24898013;5;patients echinocytes
+HM030_cellNo_27.tif.obj;0.04282711;0;SDE shapes
+HM030_cellNo_28.tif.obj;0.21930072;0;SDE shapes
+HM030_cellNo_29.tif.obj;-0.031508576;0;SDE shapes
+HM030_cellNo_30.tif.obj;-0.027626103;0;SDE shapes
+HM030_cellNo_32.tif.obj;0.2014728;0;SDE shapes
+HM030_cellNo_33.tif.obj;-0.36609593;0;SDE shapes
+HM030_cellNo_34.tif.obj;0.15849495;0;SDE shapes
+HM030_cellNo_35.tif.obj;0.13924873;0;SDE shapes
+HM030_cellNo_36.tif.obj;0.32968974;5;patients echinocytes
+HM030_cellNo_37.tif.obj;0.25956288;5;patients echinocytes
+HM030_cellNo_4.tif.obj;0.51912326;5;patients echinocytes
+HM030_cellNo_5.tif.obj;0.37052694;5;patients echinocytes
+HM030_cellNo_6.tif.obj;-0.2067695;0;SDE shapes
+HM030_cellNo_7.tif.obj;-0.021612387;0;SDE shapes
+HM030_cellNo_8.tif.obj;0.017478216;0;SDE shapes
+HM030_cellNo_9.tif.obj;0.19892858;0;SDE shapes
+HM031_cellNo_11.tif.obj;0.1153225;2;keratocytes
+HM031_cellNo_12.tif.obj;0.0049564796;0;SDE shapes
+HM031_cellNo_13.tif.obj;0.099119835;0;SDE shapes
+HM031_cellNo_14.tif.obj;0.49814925;5;patients echinocytes
+HM031_cellNo_15.tif.obj;0.19362718;5;patients echinocytes
+HM031_cellNo_17.tif.obj;-0.062553614;1;invalid double cell
+HM031_cellNo_18.tif.obj;0.49006706;5;patients echinocytes
+HM031_cellNo_19.tif.obj;0.037055083;0;SDE shapes
+HM031_cellNo_20.tif.obj;-0.045820527;0;SDE shapes
+HM031_cellNo_21.tif.obj;-0.04439194;0;SDE shapes
+HM031_cellNo_22.tif.obj;0.04404074;0;SDE shapes
+HM031_cellNo_23.tif.obj;-0.056334898;3;knizocytes
+HM031_cellNo_25.tif.obj;0.37618473;5;patients echinocytes
+HM031_cellNo_26.tif.obj;0.6988434;5;patients echinocytes
+HM031_cellNo_27.tif.obj;0.7726269;5;patients echinocytes
+HM031_cellNo_30.tif.obj;0.22342688;5;patients echinocytes
+HM031_cellNo_31.tif.obj;-0.055295378;1;invalid double cell
+HM031_cellNo_34.tif.obj;0.30280033;0;SDE shapes
+HM031_cellNo_35.tif.obj;-0.23016937;0;SDE shapes
+HM031_cellNo_38.tif.obj;0.21826544;0;SDE shapes
+HM031_cellNo_39.tif.obj;0.13562445;0;SDE shapes
+HM031_cellNo_40.tif.obj;0.5150109;5;patients echinocytes
+HM031_cellNo_41.tif.obj;0.08312372;0;SDE shapes
+HM031_cellNo_42.tif.obj;0.22061017;5;patients echinocytes
+HM031_cellNo_46.tif.obj;-0.22037306;3;knizocytes
+HM031_cellNo_47.tif.obj;0.015578652;0;SDE shapes
+HM031_cellNo_49.tif.obj;0.16455323;5;patients echinocytes
+HM031_cellNo_50.tif.obj;0.11003991;0;SDE shapes
+HM031_cellNo_7.tif.obj;-0.033974532;0;SDE shapes
+HM031_cellNo_9.tif.obj;-0.04334738;1;invalid double cell
+HM032_cellNo_10.tif.obj;0.049395267;0;SDE shapes
+HM032_cellNo_11.tif.obj;0.13216946;0;SDE shapes
+HM032_cellNo_12.tif.obj;0.5015612;5;patients echinocytes
+HM032_cellNo_13.tif.obj;0.23204564;5;patients echinocytes
+HM032_cellNo_15.tif.obj;-0.074609324;1;invalid double cell
+HM032_cellNo_16.tif.obj;0.45610002;5;patients echinocytes
+HM032_cellNo_17.tif.obj;0.044679597;0;SDE shapes
+HM032_cellNo_18.tif.obj;-0.043063466;0;SDE shapes
+HM032_cellNo_19.tif.obj;-0.028795823;0;SDE shapes
+HM032_cellNo_20.tif.obj;0.048602406;0;SDE shapes
+HM032_cellNo_21.tif.obj;-0.056178253;3;knizocytes
+HM032_cellNo_24.tif.obj;0.34373984;5;patients echinocytes
+HM032_cellNo_25.tif.obj;0.6714777;5;patients echinocytes
+HM032_cellNo_26.tif.obj;0.766381;5;patients echinocytes
+HM032_cellNo_30.tif.obj;-0.09623485;1;invalid double cell
+HM032_cellNo_33.tif.obj;0.3296091;0;SDE shapes
+HM032_cellNo_34.tif.obj;-0.31931072;0;SDE shapes
+HM032_cellNo_37.tif.obj;0.25691065;0;SDE shapes
+HM032_cellNo_38.tif.obj;0.11995422;0;SDE shapes
+HM032_cellNo_39.tif.obj;0.5024591;5;patients echinocytes
+HM032_cellNo_40.tif.obj;0.08846972;0;SDE shapes
+HM032_cellNo_41.tif.obj;0.20233983;5;patients echinocytes
+HM032_cellNo_45.tif.obj;-0.21320145;3;knizocytes
+HM032_cellNo_46.tif.obj;0.0629132;0;SDE shapes
+HM032_cellNo_49.tif.obj;0.081285246;0;SDE shapes
+HM032_cellNo_5.tif.obj;0.012629351;0;SDE shapes
+HM032_cellNo_7.tif.obj;-0.048023168;1;invalid double cell
+HM032_cellNo_8.tif.obj;-0.13760667;0;SDE shapes
+HM032_cellNo_9.tif.obj;0.09415639;2;keratocytes
+HM033_cellNo_13.tif.obj;0.2371696;5;patients echinocytes
+HM033_cellNo_15.tif.obj;0.42155603;1;invalid double cell
+HM033_cellNo_16.tif.obj;0.1395518;0;SDE shapes
+HM033_cellNo_17.tif.obj;0.39105317;1;invalid double cell
+HM033_cellNo_18.tif.obj;-0.06776562;0;SDE shapes
+HM033_cellNo_19.tif.obj;0.14659023;5;patients echinocytes
+HM033_cellNo_20.tif.obj;-0.21738794;0;SDE shapes
+HM033_cellNo_22.tif.obj;0.41352084;5;patients echinocytes
+HM033_cellNo_23.tif.obj;0.08240869;0;SDE shapes
+HM033_cellNo_24.tif.obj;0.14693353;1;invalid double cell
+HM033_cellNo_25.tif.obj;0.029213099;0;SDE shapes
+HM033_cellNo_26.tif.obj;0.019885125;0;SDE shapes
+HM033_cellNo_29.tif.obj;-0.075848535;0;SDE shapes
+HM033_cellNo_32.tif.obj;0.561006;5;patients echinocytes
+HM033_cellNo_36.tif.obj;-0.10532023;0;SDE shapes
+HM033_cellNo_37.tif.obj;-0.19914591;1;invalid double cell
+HM033_cellNo_38.tif.obj;0.4261293;5;patients echinocytes
+HM033_cellNo_39.tif.obj;0.06765886;0;SDE shapes
+HM033_cellNo_42.tif.obj;0.24073777;0;SDE shapes
+HM033_cellNo_45.tif.obj;0.065330535;0;SDE shapes
+HM033_cellNo_6.tif.obj;0.108021446;0;SDE shapes
+HM033_cellNo_7.tif.obj;0.010519277;0;SDE shapes
+HM034_cellNo_11.tif.obj;-0.04518924;1;invalid double cell
+HM034_cellNo_12.tif.obj;0.2475825;5;patients echinocytes
+HM034_cellNo_14.tif.obj;-0.2864747;1;invalid double cell
+HM034_cellNo_17.tif.obj;0.19809854;0;SDE shapes
+HM034_cellNo_2.tif.obj;-0.15592349;0;SDE shapes
+HM034_cellNo_20.tif.obj;0.06610143;0;SDE shapes
+HM034_cellNo_23.tif.obj;-0.37628695;0;SDE shapes
+HM034_cellNo_25.tif.obj;0.31314883;2;keratocytes
+HM034_cellNo_26.tif.obj;-0.18334283;0;SDE shapes
+HM034_cellNo_29.tif.obj;-0.41904992;0;SDE shapes
+HM034_cellNo_3.tif.obj;0.13340664;0;SDE shapes
+HM034_cellNo_30.tif.obj;0.15550706;2;keratocytes
+HM034_cellNo_32.tif.obj;-0.38813022;0;SDE shapes
+HM034_cellNo_34.tif.obj;-0.25686342;0;SDE shapes
+HM034_cellNo_37.tif.obj;0.29781094;1;invalid double cell
+HM034_cellNo_39.tif.obj;0.13993138;5;patients echinocytes
+HM034_cellNo_40.tif.obj;0.14776671;0;SDE shapes
+HM034_cellNo_5.tif.obj;0.5633932;5;patients echinocytes
+HM034_cellNo_6.tif.obj;0.013909822;0;SDE shapes
+HM034_cellNo_7.tif.obj;-0.59657854;0;SDE shapes
+HM034_cellNo_8.tif.obj;0.08226649;0;SDE shapes
+HM034_cellNo_9.tif.obj;0.24871716;0;SDE shapes
+HM035_cellNo_10.tif.obj;0.46368515;5;patients echinocytes
+HM035_cellNo_12.tif.obj;0.4586667;5;patients echinocytes
+HM035_cellNo_13.tif.obj;0.07886376;5;patients echinocytes
+HM035_cellNo_14.tif.obj;-0.015384883;0;SDE shapes
+HM035_cellNo_16.tif.obj;-0.20908959;0;SDE shapes
+HM035_cellNo_17.tif.obj;0.15979229;0;SDE shapes
+HM035_cellNo_18.tif.obj;0.19197391;2;keratocytes
+HM035_cellNo_20.tif.obj;-0.3160135;1;invalid double cell
+HM035_cellNo_23.tif.obj;0.14484504;0;SDE shapes
+HM035_cellNo_27.tif.obj;0.22561829;0;SDE shapes
+HM035_cellNo_30.tif.obj;0.25006202;0;SDE shapes
+HM035_cellNo_32.tif.obj;0.23788878;0;SDE shapes
+HM035_cellNo_34.tif.obj;0.23850282;0;SDE shapes
+HM035_cellNo_35.tif.obj;-0.056080267;1;invalid double cell
+HM035_cellNo_36.tif.obj;0.058498945;0;SDE shapes
+HM035_cellNo_37.tif.obj;0.0060651354;1;invalid double cell
+HM035_cellNo_39.tif.obj;0.5219636;5;patients echinocytes
+HM035_cellNo_40.tif.obj;0.43895158;5;patients echinocytes
+HM035_cellNo_41.tif.obj;0.15827516;0;SDE shapes
+HM035_cellNo_42.tif.obj;0.10261031;0;SDE shapes
+HM035_cellNo_43.tif.obj;0.7206424;5;patients echinocytes
+HM035_cellNo_44.tif.obj;-0.07400785;1;invalid double cell
+HM035_cellNo_45.tif.obj;0.021324584;0;SDE shapes
+HM035_cellNo_46.tif.obj;0.070676245;0;SDE shapes
+HM035_cellNo_48.tif.obj;0.6155303;5;patients echinocytes
+HM035_cellNo_49.tif.obj;-0.073964454;1;invalid double cell
+HM035_cellNo_51.tif.obj;0.045337405;2;keratocytes
+HM035_cellNo_52.tif.obj;0.22616208;0;SDE shapes
+HM035_cellNo_6.tif.obj;-0.10214444;0;SDE shapes
+HM035_cellNo_7.tif.obj;-0.021558253;1;invalid double cell
+HM035_cellNo_8.tif.obj;-0.0009451643;1;invalid double cell
+HM035_cellNo_9.tif.obj;-0.29290164;0;SDE shapes
+HM036_cellNo_10.tif.obj;0.20528573;0;SDE shapes
+HM036_cellNo_11.tif.obj;0.36979476;5;patients echinocytes
+HM036_cellNo_12.tif.obj;0.28676534;2;keratocytes
+HM036_cellNo_13.tif.obj;0.3536412;5;patients echinocytes
+HM036_cellNo_17.tif.obj;0.4675261;5;patients echinocytes
+HM036_cellNo_2.tif.obj;0.43385783;5;patients echinocytes
+HM036_cellNo_20.tif.obj;0.19683038;5;patients echinocytes
+HM036_cellNo_21.tif.obj;-0.045590453;0;SDE shapes
+HM036_cellNo_26.tif.obj;0.13318299;0;SDE shapes
+HM036_cellNo_28.tif.obj;0.07803229;0;SDE shapes
+HM036_cellNo_29.tif.obj;-0.13532314;3;knizocytes
+HM036_cellNo_3.tif.obj;0.017602613;5;patients echinocytes
+HM036_cellNo_33.tif.obj;0.19731116;2;keratocytes
+HM036_cellNo_36.tif.obj;0.5077688;5;patients echinocytes
+HM036_cellNo_37.tif.obj;0.20015505;0;SDE shapes
+HM036_cellNo_38.tif.obj;-0.19671932;0;SDE shapes
+HM036_cellNo_39.tif.obj;0.16503769;2;keratocytes
+HM036_cellNo_40.tif.obj;-0.08991962;0;SDE shapes
+HM036_cellNo_42.tif.obj;-0.08599921;0;SDE shapes
+HM036_cellNo_43.tif.obj;0.06639496;1;invalid double cell
+HM036_cellNo_5.tif.obj;-0.11719577;1;invalid double cell
+HM036_cellNo_7.tif.obj;0.3245638;5;patients echinocytes
+HM036_cellNo_8.tif.obj;0.48565653;5;patients echinocytes
+HM036_cellNo_9.tif.obj;0.74746674;5;patients echinocytes
+HM037_cellNo_11.tif.obj;0.18250816;1;invalid double cell
+HM037_cellNo_12.tif.obj;0.42483494;0;SDE shapes
+HM037_cellNo_14.tif.obj;0.095412284;0;SDE shapes
+HM037_cellNo_15.tif.obj;0.22637743;0;SDE shapes
+HM037_cellNo_16.tif.obj;-0.1708164;0;SDE shapes
+HM037_cellNo_17.tif.obj;0.33586296;5;patients echinocytes
+HM037_cellNo_18.tif.obj;-0.051243957;0;SDE shapes
+HM037_cellNo_2.tif.obj;0.83553565;5;patients echinocytes
+HM037_cellNo_21.tif.obj;0.1788173;0;SDE shapes
+HM037_cellNo_22.tif.obj;0.32764617;0;SDE shapes
+HM037_cellNo_23.tif.obj;0.2089451;0;SDE shapes
+HM037_cellNo_26.tif.obj;0.41861358;5;patients echinocytes
+HM037_cellNo_28.tif.obj;0.076039545;1;invalid double cell
+HM037_cellNo_29.tif.obj;-0.034250252;0;SDE shapes
+HM037_cellNo_3.tif.obj;0.10329895;0;SDE shapes
+HM037_cellNo_30.tif.obj;-0.18585363;0;SDE shapes
+HM037_cellNo_31.tif.obj;-0.07660612;0;SDE shapes
+HM037_cellNo_34.tif.obj;0.32141438;5;patients echinocytes
+HM037_cellNo_35.tif.obj;0.16344413;0;SDE shapes
+HM037_cellNo_36.tif.obj;0.116302274;0;SDE shapes
+HM037_cellNo_37.tif.obj;-0.13295387;0;SDE shapes
+HM037_cellNo_38.tif.obj;0.33205783;5;patients echinocytes
+HM037_cellNo_40.tif.obj;0.15601905;0;SDE shapes
+HM037_cellNo_41.tif.obj;0.16503389;0;SDE shapes
+HM037_cellNo_42.tif.obj;0.19840357;0;SDE shapes
+HM037_cellNo_5.tif.obj;0.32402864;5;patients echinocytes
+HM037_cellNo_6.tif.obj;0.32935336;5;patients echinocytes
+HM037_cellNo_8.tif.obj;-0.21384925;1;invalid double cell
+HM037_cellNo_9.tif.obj;0.17716107;0;SDE shapes
+HM038_cellNo_11.tif.obj;0.09892282;5;patients echinocytes
+HM038_cellNo_14.tif.obj;0.495299;5;patients echinocytes
+HM038_cellNo_15.tif.obj;-0.08884121;1;invalid double cell
+HM038_cellNo_17.tif.obj;0.25354394;0;SDE shapes
+HM038_cellNo_18.tif.obj;0.11997404;0;SDE shapes
+HM038_cellNo_2.tif.obj;0.046181608;0;SDE shapes
+HM038_cellNo_20.tif.obj;0.7103006;5;patients echinocytes
+HM038_cellNo_21.tif.obj;-0.106405;1;invalid double cell
+HM038_cellNo_22.tif.obj;0.1932677;0;SDE shapes
+HM038_cellNo_23.tif.obj;-0.015931388;0;SDE shapes
+HM038_cellNo_25.tif.obj;0.107098915;0;SDE shapes
+HM038_cellNo_26.tif.obj;0.22852546;0;SDE shapes
+HM038_cellNo_31.tif.obj;0.22403537;0;SDE shapes
+HM038_cellNo_32.tif.obj;-0.11681744;0;SDE shapes
+HM038_cellNo_36.tif.obj;0.3531527;5;patients echinocytes
+HM038_cellNo_37.tif.obj;-0.09123547;0;SDE shapes
+HM038_cellNo_38.tif.obj;0.4398285;5;patients echinocytes
+HM038_cellNo_39.tif.obj;0.13484105;0;SDE shapes
+HM038_cellNo_40.tif.obj;0.093591996;0;SDE shapes
+HM038_cellNo_43.tif.obj;-0.25090832;0;SDE shapes
+HM038_cellNo_44.tif.obj;0.22711763;0;SDE shapes
+HM038_cellNo_6.tif.obj;0.20512868;5;patients echinocytes
+HM038_cellNo_8.tif.obj;0.06890478;0;SDE shapes
+HM038_cellNo_9.tif.obj;0.07956692;0;SDE shapes
+HM039_cellNo_10.tif.obj;0.35001612;5;patients echinocytes
+HM039_cellNo_12.tif.obj;0.34169385;5;patients echinocytes
+HM039_cellNo_13.tif.obj;-0.19972461;0;SDE shapes
+HM039_cellNo_14.tif.obj;-0.5490175;0;SDE shapes
+HM039_cellNo_15.tif.obj;0.117470264;0;SDE shapes
+HM039_cellNo_21.tif.obj;0.2588566;0;SDE shapes
+HM039_cellNo_23.tif.obj;0.2557745;0;SDE shapes
+HM039_cellNo_24.tif.obj;-0.18715459;0;SDE shapes
+HM039_cellNo_26.tif.obj;0.38843146;5;patients echinocytes
+HM039_cellNo_27.tif.obj;0.16006437;0;SDE shapes
+HM039_cellNo_29.tif.obj;0.22623882;5;patients echinocytes
+HM039_cellNo_31.tif.obj;0.8124096;5;patients echinocytes
+HM039_cellNo_36.tif.obj;0.745351;5;patients echinocytes
+HM039_cellNo_38.tif.obj;0.19898471;5;patients echinocytes
+HM039_cellNo_4.tif.obj;0.23503111;0;SDE shapes
+HM039_cellNo_40.tif.obj;0.25135735;5;patients echinocytes
+HM039_cellNo_41.tif.obj;0.18635987;0;SDE shapes
+HM039_cellNo_42.tif.obj;-0.31177264;1;invalid double cell
+HM039_cellNo_5.tif.obj;-0.042255353;0;SDE shapes
+HM039_cellNo_6.tif.obj;0.18843886;2;keratocytes
+HM039_cellNo_7.tif.obj;0.088540204;0;SDE shapes
+HM039_cellNo_8.tif.obj;0.18005714;0;SDE shapes
+HM039_cellNo_9.tif.obj;0.2568604;0;SDE shapes
+HM040_cellNo_10.tif.obj;0.16727667;1;invalid double cell
+HM040_cellNo_11.tif.obj;0.3136853;5;patients echinocytes
+HM040_cellNo_12.tif.obj;0.2867292;5;patients echinocytes
+HM040_cellNo_13.tif.obj;0.5257265;5;patients echinocytes
+HM040_cellNo_17.tif.obj;0.16306685;0;SDE shapes
+HM040_cellNo_18.tif.obj;0.0920156;0;SDE shapes
+HM040_cellNo_20.tif.obj;0.11086569;0;SDE shapes
+HM040_cellNo_21.tif.obj;0.24161486;0;SDE shapes
+HM040_cellNo_23.tif.obj;0.014370082;0;SDE shapes
+HM040_cellNo_25.tif.obj;0.1764862;0;SDE shapes
+HM040_cellNo_3.tif.obj;-0.07225501;0;SDE shapes
+HM040_cellNo_31.tif.obj;-0.16156717;0;SDE shapes
+HM040_cellNo_33.tif.obj;-0.13106233;0;SDE shapes
+HM040_cellNo_34.tif.obj;-0.14167655;0;SDE shapes
+HM040_cellNo_35.tif.obj;0.10143451;0;SDE shapes
+HM040_cellNo_39.tif.obj;-0.1357478;0;SDE shapes
+HM040_cellNo_40.tif.obj;0.43618646;5;patients echinocytes
+HM040_cellNo_5.tif.obj;0.17138323;0;SDE shapes
+HM041_cellNo_12.tif.obj;0.062695004;0;SDE shapes
+HM041_cellNo_13.tif.obj;0.11276861;0;SDE shapes
+HM041_cellNo_14.tif.obj;0.7858675;5;patients echinocytes
+HM041_cellNo_16.tif.obj;0.12833819;0;SDE shapes
+HM041_cellNo_17.tif.obj;0.9179081;5;patients echinocytes
+HM041_cellNo_25.tif.obj;-0.24850526;0;SDE shapes
+HM041_cellNo_26.tif.obj;-0.016349973;1;invalid double cell
+HM041_cellNo_27.tif.obj;0.26449808;5;patients echinocytes
+HM041_cellNo_29.tif.obj;0.11404084;0;SDE shapes
+HM041_cellNo_30.tif.obj;0.2487689;0;SDE shapes
+HM041_cellNo_31.tif.obj;0.04662462;0;SDE shapes
+HM041_cellNo_32.tif.obj;0.9103047;5;patients echinocytes
+HM041_cellNo_34.tif.obj;0.050659854;0;SDE shapes
+HM041_cellNo_37.tif.obj;-0.1408556;1;invalid double cell
+HM041_cellNo_38.tif.obj;-0.18034557;0;SDE shapes
+HM041_cellNo_4.tif.obj;0.53044814;5;patients echinocytes
+HM041_cellNo_5.tif.obj;0.11936564;5;patients echinocytes
+HM041_cellNo_7.tif.obj;-0.11571977;0;SDE shapes
+HM041_cellNo_8.tif.obj;0.3316475;5;patients echinocytes
+HM042_cellNo_1.tif.obj;0.099064656;0;SDE shapes
+HM042_cellNo_10.tif.obj;0.34544492;5;patients echinocytes
+HM042_cellNo_12.tif.obj;0.28698736;5;patients echinocytes
+HM042_cellNo_13.tif.obj;-0.25499648;0;SDE shapes
+HM042_cellNo_14.tif.obj;0.3316693;5;patients echinocytes
+HM042_cellNo_15.tif.obj;0.890333;5;patients echinocytes
+HM042_cellNo_16.tif.obj;0.3634797;5;patients echinocytes
+HM042_cellNo_17.tif.obj;0.47476193;5;patients echinocytes
+HM042_cellNo_2.tif.obj;0.2675002;5;patients echinocytes
+HM042_cellNo_21.tif.obj;0.15465367;0;SDE shapes
+HM042_cellNo_23.tif.obj;0.059937183;0;SDE shapes
+HM042_cellNo_25.tif.obj;-0.21137258;0;SDE shapes
+HM042_cellNo_27.tif.obj;0.22786412;5;patients echinocytes
+HM042_cellNo_3.tif.obj;0.0119792;0;SDE shapes
+HM042_cellNo_30.tif.obj;0.13439223;0;SDE shapes
+HM042_cellNo_31.tif.obj;0.16675547;0;SDE shapes
+HM042_cellNo_33.tif.obj;0.15027595;0;SDE shapes
+HM042_cellNo_4.tif.obj;0.4499239;5;patients echinocytes
+HM042_cellNo_5.tif.obj;0.013821375;0;SDE shapes
+HM042_cellNo_6.tif.obj;0.3551503;5;patients echinocytes
+HM042_cellNo_9.tif.obj;-0.076384716;0;SDE shapes
+HM043_cellNo_10.tif.obj;0.11054624;0;SDE shapes
+HM043_cellNo_15.tif.obj;0.33552203;5;patients echinocytes
+HM043_cellNo_17.tif.obj;0.009592136;0;SDE shapes
+HM043_cellNo_19.tif.obj;0.3545716;5;patients echinocytes
+HM043_cellNo_22.tif.obj;0.11430656;0;SDE shapes
+HM043_cellNo_24.tif.obj;0.109320626;0;SDE shapes
+HM043_cellNo_26.tif.obj;0.2908586;5;patients echinocytes
+HM043_cellNo_27.tif.obj;0.007657358;1;invalid double cell
+HM043_cellNo_28.tif.obj;0.37870413;5;patients echinocytes
+HM043_cellNo_29.tif.obj;-0.05256107;0;SDE shapes
+HM043_cellNo_3.tif.obj;0.18077537;0;SDE shapes
+HM043_cellNo_30.tif.obj;-0.4241973;0;SDE shapes
+HM043_cellNo_31.tif.obj;0.39049456;5;patients echinocytes
+HM043_cellNo_32.tif.obj;0.22859244;0;SDE shapes
+HM043_cellNo_33.tif.obj;0.28452286;5;patients echinocytes
+HM043_cellNo_34.tif.obj;0.34094453;5;patients echinocytes
+HM043_cellNo_36.tif.obj;0.19381188;0;SDE shapes
+HM043_cellNo_37.tif.obj;0.0804949;1;invalid double cell
+HM043_cellNo_39.tif.obj;0.18996496;0;SDE shapes
+HM043_cellNo_4.tif.obj;0.41516906;5;patients echinocytes
+HM043_cellNo_41.tif.obj;0.6405887;5;patients echinocytes
+HM043_cellNo_42.tif.obj;-0.14284319;0;SDE shapes
+HM043_cellNo_43.tif.obj;0.29753816;0;SDE shapes
+HM043_cellNo_7.tif.obj;0.21413225;2;keratocytes
+HM043_cellNo_9.tif.obj;0.49128067;5;patients echinocytes
+HM044_cellNo_11.tif.obj;0.29391786;0;SDE shapes
+HM044_cellNo_12.tif.obj;-0.32636192;3;knizocytes
+HM044_cellNo_16.tif.obj;0.22781514;0;SDE shapes
+HM044_cellNo_17.tif.obj;-0.1528225;0;SDE shapes
+HM044_cellNo_18.tif.obj;0.6225633;5;patients echinocytes
+HM044_cellNo_2.tif.obj;0.17675716;0;SDE shapes
+HM044_cellNo_20.tif.obj;0.1558834;0;SDE shapes
+HM044_cellNo_22.tif.obj;0.27395824;5;patients echinocytes
+HM044_cellNo_23.tif.obj;-0.047845922;0;SDE shapes
+HM044_cellNo_24.tif.obj;0.25540495;0;SDE shapes
+HM044_cellNo_26.tif.obj;0.07008631;0;SDE shapes
+HM044_cellNo_28.tif.obj;0.053255994;2;keratocytes
+HM044_cellNo_29.tif.obj;0.3974606;5;patients echinocytes
+HM044_cellNo_32.tif.obj;0.049368262;0;SDE shapes
+HM044_cellNo_33.tif.obj;0.62580967;1;invalid double cell
+HM044_cellNo_36.tif.obj;0.14160796;5;patients echinocytes
+HM044_cellNo_39.tif.obj;0.10965626;1;invalid double cell
+HM044_cellNo_4.tif.obj;0.16870299;3;knizocytes
+HM044_cellNo_40.tif.obj;0.26328957;0;SDE shapes
+HM044_cellNo_42.tif.obj;0.3686514;5;patients echinocytes
+HM044_cellNo_5.tif.obj;0.10000765;0;SDE shapes
+HM044_cellNo_6.tif.obj;0.10198649;0;SDE shapes
+HM044_cellNo_8.tif.obj;-0.12432273;0;SDE shapes
+HM045_cellNo_12.tif.obj;0.41881636;5;patients echinocytes
+HM045_cellNo_13.tif.obj;0.023325339;0;SDE shapes
+HM045_cellNo_14.tif.obj;0.14124547;0;SDE shapes
+HM045_cellNo_15.tif.obj;0.059796203;0;SDE shapes
+HM045_cellNo_16.tif.obj;0.3812969;5;patients echinocytes
+HM045_cellNo_17.tif.obj;0.23836519;5;patients echinocytes
+HM045_cellNo_18.tif.obj;0.32235557;2;keratocytes
+HM045_cellNo_19.tif.obj;0.2949197;0;SDE shapes
+HM045_cellNo_20.tif.obj;0.25879216;5;patients echinocytes
+HM045_cellNo_21.tif.obj;0.20093146;0;SDE shapes
+HM045_cellNo_24.tif.obj;0.65546745;5;patients echinocytes
+HM045_cellNo_26.tif.obj;0.079121806;0;SDE shapes
+HM045_cellNo_27.tif.obj;-0.0054312446;0;SDE shapes
+HM045_cellNo_29.tif.obj;0.5217665;5;patients echinocytes
+HM045_cellNo_30.tif.obj;0.96239555;0;SDE shapes
+HM045_cellNo_31.tif.obj;0.07133796;2;keratocytes
+HM045_cellNo_32.tif.obj;0.22536084;5;patients echinocytes
+HM045_cellNo_33.tif.obj;0.5881678;5;patients echinocytes
+HM045_cellNo_34.tif.obj;0.19854528;0;SDE shapes
+HM045_cellNo_38.tif.obj;0.16243242;2;keratocytes
+HM045_cellNo_5.tif.obj;0.23517697;0;SDE shapes
+HM045_cellNo_6.tif.obj;0.11480994;0;SDE shapes
+HM045_cellNo_8.tif.obj;0.063961476;1;invalid double cell
+HM045_cellNo_9.tif.obj;0.7200345;5;patients echinocytes
+HM046_cellNo_10.tif.obj;-0.09679297;0;SDE shapes
+HM046_cellNo_14.tif.obj;0.20260194;0;SDE shapes
+HM046_cellNo_15.tif.obj;0.35440361;5;patients echinocytes
+HM046_cellNo_17.tif.obj;-0.017970296;0;SDE shapes
+HM046_cellNo_18.tif.obj;0.07897337;0;SDE shapes
+HM046_cellNo_2.tif.obj;-0.010126634;1;invalid double cell
+HM046_cellNo_22.tif.obj;0.8057909;5;patients echinocytes
+HM046_cellNo_26.tif.obj;0.12675786;0;SDE shapes
+HM046_cellNo_27.tif.obj;0.14917947;0;SDE shapes
+HM046_cellNo_30.tif.obj;0.13056225;0;SDE shapes
+HM046_cellNo_31.tif.obj;0.29982117;0;SDE shapes
+HM046_cellNo_32.tif.obj;-0.4072335;0;SDE shapes
+HM046_cellNo_33.tif.obj;0.8550825;5;patients echinocytes
+HM046_cellNo_36.tif.obj;0.21930525;0;SDE shapes
+HM046_cellNo_39.tif.obj;-0.5074462;0;SDE shapes
+HM046_cellNo_5.tif.obj;0.33978835;0;SDE shapes
+HM046_cellNo_6.tif.obj;0.4439691;5;patients echinocytes
+HM046_cellNo_7.tif.obj;0.43570918;5;patients echinocytes
+HM046_cellNo_8.tif.obj;0.33615038;5;patients echinocytes
+HM_1GA001_cellNo_10.tif.obj;-0.0043790066;1;invalid double cell
+HM_1GA001_cellNo_11.tif.obj;0.5289243;5;patients echinocytes
+HM_1GA001_cellNo_12.tif.obj;0.21617849;2;keratocytes
+HM_1GA001_cellNo_13.tif.obj;-0.060943533;0;SDE shapes
+HM_1GA001_cellNo_14.tif.obj;0.095276505;0;SDE shapes
+HM_1GA001_cellNo_15.tif.obj;0.29232672;2;keratocytes
+HM_1GA001_cellNo_16.tif.obj;0.5168374;5;patients echinocytes
+HM_1GA001_cellNo_17.tif.obj;0.33946165;2;keratocytes
+HM_1GA001_cellNo_19.tif.obj;0.1754348;0;SDE shapes
+HM_1GA001_cellNo_2.tif.obj;0.031810243;0;SDE shapes
+HM_1GA001_cellNo_20.tif.obj;0.50116163;5;patients echinocytes
+HM_1GA001_cellNo_21.tif.obj;-0.41453984;0;SDE shapes
+HM_1GA001_cellNo_23.tif.obj;-0.21287015;0;SDE shapes
+HM_1GA001_cellNo_24.tif.obj;-0.257937;3;knizocytes
+HM_1GA001_cellNo_25.tif.obj;0.17792743;2;keratocytes
+HM_1GA001_cellNo_27.tif.obj;0.32054016;5;patients echinocytes
+HM_1GA001_cellNo_28.tif.obj;-0.042646613;0;SDE shapes
+HM_1GA001_cellNo_30.tif.obj;0.11446734;0;SDE shapes
+HM_1GA001_cellNo_31.tif.obj;0.4331288;2;keratocytes
+HM_1GA001_cellNo_32.tif.obj;-0.19275531;0;SDE shapes
+HM_1GA001_cellNo_33.tif.obj;-0.009549322;1;invalid double cell
+HM_1GA001_cellNo_34.tif.obj;-0.41928643;0;SDE shapes
+HM_1GA001_cellNo_36.tif.obj;0.07046993;2;keratocytes
+HM_1GA001_cellNo_37.tif.obj;-0.0869467;0;SDE shapes
+HM_1GA001_cellNo_4.tif.obj;0.1961931;2;keratocytes
+HM_1GA001_cellNo_5.tif.obj;0.29175097;5;patients echinocytes
+HM_1GA001_cellNo_7.tif.obj;0.6829911;5;patients echinocytes
+HM_1GA001_cellNo_8.tif.obj;-0.033998135;2;keratocytes
+HM_1GA001_cellNo_9.tif.obj;0.5106115;5;patients echinocytes
+HM_1GA002_cellNo_12.tif.obj;0.30620095;0;SDE shapes
+HM_1GA002_cellNo_13.tif.obj;0.18094671;2;keratocytes
+HM_1GA002_cellNo_15.tif.obj;0.16794614;0;SDE shapes
+HM_1GA002_cellNo_16.tif.obj;0.1356991;5;patients echinocytes
+HM_1GA002_cellNo_2.tif.obj;0.15515992;0;SDE shapes
+HM_1GA002_cellNo_20.tif.obj;-0.24743107;0;SDE shapes
+HM_1GA002_cellNo_21.tif.obj;-0.05167693;0;SDE shapes
+HM_1GA002_cellNo_22.tif.obj;-0.17753144;3;knizocytes
+HM_1GA002_cellNo_25.tif.obj;-0.65134484;0;SDE shapes
+HM_1GA002_cellNo_27.tif.obj;-0.02966758;0;SDE shapes
+HM_1GA002_cellNo_28.tif.obj;0.10215441;2;keratocytes
+HM_1GA002_cellNo_31.tif.obj;0.034252506;2;keratocytes
+HM_1GA002_cellNo_33.tif.obj;0.3164281;0;SDE shapes
+HM_1GA002_cellNo_34.tif.obj;-0.4966638;4;multilobated cells
+HM_1GA002_cellNo_4.tif.obj;-0.029539267;0;SDE shapes
+HM_1GA002_cellNo_6.tif.obj;-0.3136545;3;knizocytes
+HM_1GA002_cellNo_7.tif.obj;0.022142386;2;keratocytes
+HM_1GA002_cellNo_8.tif.obj;0.13266096;0;SDE shapes
+HM_1GA003_cellNo_11.tif.obj;0.0387784;5;patients echinocytes
+HM_1GA003_cellNo_12.tif.obj;0.1838392;1;invalid double cell
+HM_1GA003_cellNo_16.tif.obj;0.18141097;0;SDE shapes
+HM_1GA003_cellNo_17.tif.obj;-0.12548426;0;SDE shapes
+HM_1GA003_cellNo_2.tif.obj;0.23732784;0;SDE shapes
+HM_1GA003_cellNo_21.tif.obj;0.12530309;0;SDE shapes
+HM_1GA003_cellNo_22.tif.obj;-0.0645502;0;SDE shapes
+HM_1GA003_cellNo_24.tif.obj;-0.054930244;2;keratocytes
+HM_1GA003_cellNo_25.tif.obj;-0.18756983;3;knizocytes
+HM_1GA003_cellNo_27.tif.obj;0.20093527;5;patients echinocytes
+HM_1GA003_cellNo_28.tif.obj;0.16933545;2;keratocytes
+HM_1GA003_cellNo_29.tif.obj;0.14187604;0;SDE shapes
+HM_1GA003_cellNo_3.tif.obj;-0.033422437;0;SDE shapes
+HM_1GA003_cellNo_5.tif.obj;-0.18441187;0;SDE shapes
+HM_1GA003_cellNo_6.tif.obj;-0.11692956;0;SDE shapes
+HM_1GA003_cellNo_8.tif.obj;-0.09535306;0;SDE shapes
+HM_1GA004_cellNo_11.tif.obj;-0.12708992;0;SDE shapes
+HM_1GA004_cellNo_13.tif.obj;0.05443063;2;keratocytes
+HM_1GA004_cellNo_14.tif.obj;0.20982553;0;SDE shapes
+HM_1GA004_cellNo_15.tif.obj;-0.020214679;2;keratocytes
+HM_1GA004_cellNo_17.tif.obj;0.026716026;0;SDE shapes
+HM_1GA004_cellNo_2.tif.obj;-0.17733933;3;knizocytes
+HM_1GA004_cellNo_20.tif.obj;-0.25391817;0;SDE shapes
+HM_1GA004_cellNo_23.tif.obj;0.10375231;3;knizocytes
+HM_1GA004_cellNo_24.tif.obj;0.048763275;0;SDE shapes
+HM_1GA004_cellNo_25.tif.obj;0.055970546;0;SDE shapes
+HM_1GA004_cellNo_26.tif.obj;0.19876201;0;SDE shapes
+HM_1GA004_cellNo_28.tif.obj;-0.16525239;0;SDE shapes
+HM_1GA004_cellNo_29.tif.obj;0.25759003;2;keratocytes
+HM_1GA004_cellNo_3.tif.obj;0.17965168;0;SDE shapes
+HM_1GA004_cellNo_30.tif.obj;0.03059551;2;keratocytes
+HM_1GA004_cellNo_31.tif.obj;-0.08514918;0;SDE shapes
+HM_1GA004_cellNo_32.tif.obj;0.28548646;0;SDE shapes
+HM_1GA004_cellNo_33.tif.obj;0.062899366;0;SDE shapes
+HM_1GA004_cellNo_34.tif.obj;0.16211581;0;SDE shapes
+HM_1GA004_cellNo_37.tif.obj;0.14631599;0;SDE shapes
+HM_1GA004_cellNo_38.tif.obj;0.79030836;5;patients echinocytes
+HM_1GA004_cellNo_4.tif.obj;0.59603816;5;patients echinocytes
+HM_1GA004_cellNo_5.tif.obj;0.23384635;2;keratocytes
+HM_1GA004_cellNo_6.tif.obj;0.032563645;0;SDE shapes
+HM_1GA004_cellNo_8.tif.obj;0.20684096;2;keratocytes
+HM_1GA004_cellNo_9.tif.obj;0.07672799;2;keratocytes
+HM_1GA005_cellNo_12.tif.obj;0.36333463;0;SDE shapes
+HM_1GA005_cellNo_13.tif.obj;0.48559785;5;patients echinocytes
+HM_1GA005_cellNo_15.tif.obj;0.12764418;0;SDE shapes
+HM_1GA005_cellNo_16.tif.obj;0.26886022;3;knizocytes
+HM_1GA005_cellNo_17.tif.obj;0.21771388;0;SDE shapes
+HM_1GA005_cellNo_19.tif.obj;0.12902747;0;SDE shapes
+HM_1GA005_cellNo_20.tif.obj;-0.045750376;2;keratocytes
+HM_1GA005_cellNo_21.tif.obj;-0.17866503;1;invalid double cell
+HM_1GA005_cellNo_22.tif.obj;0.21326725;0;SDE shapes
+HM_1GA005_cellNo_23.tif.obj;-0.041384853;3;knizocytes
+HM_1GA005_cellNo_24.tif.obj;0.21902232;2;keratocytes
+HM_1GA005_cellNo_25.tif.obj;0.7841026;5;patients echinocytes
+HM_1GA005_cellNo_28.tif.obj;0.16087766;0;SDE shapes
+HM_1GA005_cellNo_29.tif.obj;0.30826047;5;patients echinocytes
+HM_1GA005_cellNo_3.tif.obj;0.1360106;0;SDE shapes
+HM_1GA005_cellNo_31.tif.obj;0.26148924;0;SDE shapes
+HM_1GA005_cellNo_33.tif.obj;0.17830893;0;SDE shapes
+HM_1GA005_cellNo_34.tif.obj;0.114092536;0;SDE shapes
+HM_1GA005_cellNo_35.tif.obj;-0.21810704;0;SDE shapes
+HM_1GA005_cellNo_36.tif.obj;0.114985816;2;keratocytes
+HM_1GA005_cellNo_37.tif.obj;0.11196909;2;keratocytes
+HM_1GA005_cellNo_38.tif.obj;0.18717313;0;SDE shapes
+HM_1GA005_cellNo_39.tif.obj;-0.064277254;0;SDE shapes
+HM_1GA005_cellNo_4.tif.obj;1.0107591;5;patients echinocytes
+HM_1GA005_cellNo_40.tif.obj;-0.18538736;3;knizocytes
+HM_1GA005_cellNo_42.tif.obj;0.108381286;0;SDE shapes
+HM_1GA005_cellNo_43.tif.obj;0.16177627;0;SDE shapes
+HM_1GA005_cellNo_45.tif.obj;0.21303596;0;SDE shapes
+HM_1GA005_cellNo_5.tif.obj;-0.04919609;2;keratocytes
+HM_1GA005_cellNo_7.tif.obj;0.14297521;0;SDE shapes
+HM_1GA005_cellNo_8.tif.obj;0.22416511;5;patients echinocytes
+HM_1GA006_cellNo_11.tif.obj;0.45554027;2;keratocytes
+HM_1GA006_cellNo_12.tif.obj;0.621378;5;patients echinocytes
+HM_1GA006_cellNo_13.tif.obj;0.1959639;0;SDE shapes
+HM_1GA006_cellNo_14.tif.obj;0.28236783;0;SDE shapes
+HM_1GA006_cellNo_17.tif.obj;-0.2144268;0;SDE shapes
+HM_1GA006_cellNo_18.tif.obj;0.3644937;0;SDE shapes
+HM_1GA006_cellNo_19.tif.obj;-0.08211596;0;SDE shapes
+HM_1GA006_cellNo_2.tif.obj;0.20831218;0;SDE shapes
+HM_1GA006_cellNo_20.tif.obj;0.21866935;2;keratocytes
+HM_1GA006_cellNo_21.tif.obj;0.17169544;0;SDE shapes
+HM_1GA006_cellNo_22.tif.obj;0.22978102;0;SDE shapes
+HM_1GA006_cellNo_23.tif.obj;0.017611967;0;SDE shapes
+HM_1GA006_cellNo_24.tif.obj;0.1159539;0;SDE shapes
+HM_1GA006_cellNo_26.tif.obj;-0.081339754;0;SDE shapes
+HM_1GA006_cellNo_27.tif.obj;0.16819343;0;SDE shapes
+HM_1GA006_cellNo_29.tif.obj;0.091815636;3;knizocytes
+HM_1GA006_cellNo_3.tif.obj;0.4768463;2;keratocytes
+HM_1GA006_cellNo_30.tif.obj;0.63823336;5;patients echinocytes
+HM_1GA006_cellNo_31.tif.obj;-0.16119118;0;SDE shapes
+HM_1GA006_cellNo_32.tif.obj;0.2150993;2;keratocytes
+HM_1GA006_cellNo_33.tif.obj;0.057743784;0;SDE shapes
+HM_1GA006_cellNo_5.tif.obj;-0.3393565;0;SDE shapes
+HM_1GA006_cellNo_6.tif.obj;0.12924206;0;SDE shapes
+HM_1GA006_cellNo_7.tif.obj;0.5821505;5;patients echinocytes
+HM_1GA006_cellNo_8.tif.obj;-0.105818294;0;SDE shapes
+HM_1GA007_cellNo_10.tif.obj;0.2738522;2;keratocytes
+HM_1GA007_cellNo_12.tif.obj;0.3789797;2;keratocytes
+HM_1GA007_cellNo_15.tif.obj;0.10880554;2;keratocytes
+HM_1GA007_cellNo_17.tif.obj;-0.17619225;0;SDE shapes
+HM_1GA007_cellNo_18.tif.obj;0.08213269;0;SDE shapes
+HM_1GA007_cellNo_19.tif.obj;0.0014085933;0;SDE shapes
+HM_1GA007_cellNo_2.tif.obj;-0.40947556;0;SDE shapes
+HM_1GA007_cellNo_20.tif.obj;0.048717458;2;keratocytes
+HM_1GA007_cellNo_23.tif.obj;-0.25661716;0;SDE shapes
+HM_1GA007_cellNo_24.tif.obj;-1.0883449;2;keratocytes
+HM_1GA007_cellNo_25.tif.obj;0.9182103;5;patients echinocytes
+HM_1GA007_cellNo_28.tif.obj;-0.17663026;2;keratocytes
+HM_1GA007_cellNo_30.tif.obj;0.5623824;5;patients echinocytes
+HM_1GA007_cellNo_32.tif.obj;-0.022347623;3;knizocytes
+HM_1GA007_cellNo_33.tif.obj;0.26353592;2;keratocytes
+HM_1GA007_cellNo_34.tif.obj;0.5065356;2;keratocytes
+HM_1GA007_cellNo_35.tif.obj;0.277874;0;SDE shapes
+HM_1GA007_cellNo_36.tif.obj;0.12900051;0;SDE shapes
+HM_1GA007_cellNo_37.tif.obj;0.090826444;0;SDE shapes
+HM_1GA007_cellNo_38.tif.obj;0.015174488;0;SDE shapes
+HM_1GA007_cellNo_39.tif.obj;0.058677863;0;SDE shapes
+HM_1GA007_cellNo_4.tif.obj;0.11443334;0;SDE shapes
+HM_1GA007_cellNo_40.tif.obj;0.72307235;5;patients echinocytes
+HM_1GA007_cellNo_5.tif.obj;0.29726717;2;keratocytes
+HM_1GA007_cellNo_6.tif.obj;0.07610483;0;SDE shapes
+HM_1GA007_cellNo_7.tif.obj;0.2051103;2;keratocytes
+HM_1GA007_cellNo_8.tif.obj;0.30087644;0;SDE shapes
+HM_1GA007_cellNo_9.tif.obj;-0.032596752;0;SDE shapes
+HM_1GA008_cellNo_1.tif.obj;0.21338399;0;SDE shapes
+HM_1GA008_cellNo_11.tif.obj;-0.04370865;2;keratocytes
+HM_1GA008_cellNo_12.tif.obj;-0.13596243;0;SDE shapes
+HM_1GA008_cellNo_14.tif.obj;-0.16695116;3;knizocytes
+HM_1GA008_cellNo_15.tif.obj;-0.111286424;0;SDE shapes
+HM_1GA008_cellNo_16.tif.obj;0.34990373;5;patients echinocytes
+HM_1GA008_cellNo_17.tif.obj;0.14516918;0;SDE shapes
+HM_1GA008_cellNo_19.tif.obj;0.10970513;0;SDE shapes
+HM_1GA008_cellNo_2.tif.obj;0.32786316;0;SDE shapes
+HM_1GA008_cellNo_20.tif.obj;0.08755799;0;SDE shapes
+HM_1GA008_cellNo_24.tif.obj;-0.23376328;0;SDE shapes
+HM_1GA008_cellNo_25.tif.obj;-0.4797929;0;SDE shapes
+HM_1GA008_cellNo_26.tif.obj;0.08948516;0;SDE shapes
+HM_1GA008_cellNo_27.tif.obj;0.68495786;5;patients echinocytes
+HM_1GA008_cellNo_28.tif.obj;-0.005861646;0;SDE shapes
+HM_1GA008_cellNo_31.tif.obj;-0.028651724;3;knizocytes
+HM_1GA008_cellNo_33.tif.obj;0.9095545;5;patients echinocytes
+HM_1GA008_cellNo_34.tif.obj;0.039559636;2;keratocytes
+HM_1GA008_cellNo_35.tif.obj;0.101580925;0;SDE shapes
+HM_1GA008_cellNo_36.tif.obj;0.82752705;5;patients echinocytes
+HM_1GA008_cellNo_37.tif.obj;0.048379242;0;SDE shapes
+HM_1GA008_cellNo_39.tif.obj;0.21501455;0;SDE shapes
+HM_1GA008_cellNo_41.tif.obj;0.048150614;0;SDE shapes
+HM_1GA008_cellNo_42.tif.obj;-0.091959685;0;SDE shapes
+HM_1GA008_cellNo_5.tif.obj;0.17696598;0;SDE shapes
+HM_1GA008_cellNo_6.tif.obj;0.23490992;0;SDE shapes
+HM_1GA008_cellNo_7.tif.obj;-0.017433936;0;SDE shapes
+HM_1GA008_cellNo_8.tif.obj;0.46153864;5;patients echinocytes
+HM_1GA009_cellNo_10.tif.obj;-0.5655957;0;SDE shapes
+HM_1GA009_cellNo_12.tif.obj;0.04527605;2;keratocytes
+HM_1GA009_cellNo_13.tif.obj;0.201657;2;keratocytes
+HM_1GA009_cellNo_14.tif.obj;-0.86713284;0;SDE shapes
+HM_1GA009_cellNo_15.tif.obj;0.9151096;5;patients echinocytes
+HM_1GA009_cellNo_16.tif.obj;-0.23062557;0;SDE shapes
+HM_1GA009_cellNo_17.tif.obj;0.046299472;0;SDE shapes
+HM_1GA009_cellNo_23.tif.obj;0.1920964;1;invalid double cell
+HM_1GA009_cellNo_24.tif.obj;0.14936054;0;SDE shapes
+HM_1GA009_cellNo_27.tif.obj;0.02056528;3;knizocytes
+HM_1GA009_cellNo_28.tif.obj;0.1996459;0;SDE shapes
+HM_1GA009_cellNo_30.tif.obj;0.39713782;5;patients echinocytes
+HM_1GA009_cellNo_32.tif.obj;0.6684764;5;patients echinocytes
+HM_1GA009_cellNo_35.tif.obj;-0.16489443;0;SDE shapes
+HM_1GA009_cellNo_36.tif.obj;-0.12507924;0;SDE shapes
+HM_1GA009_cellNo_4.tif.obj;-0.009434016;0;SDE shapes
+HM_1GA009_cellNo_6.tif.obj;0.24530067;0;SDE shapes
+HM_1GA009_cellNo_7.tif.obj;0.08504851;0;SDE shapes
+HM_1GA009_cellNo_9.tif.obj;0.14166269;0;SDE shapes
+HM_1GA010_cellNo_10.tif.obj;0.16362393;0;SDE shapes
+HM_1GA010_cellNo_12.tif.obj;0.16755864;0;SDE shapes
+HM_1GA010_cellNo_15.tif.obj;0.15238968;0;SDE shapes
+HM_1GA010_cellNo_16.tif.obj;-0.06345769;2;keratocytes
+HM_1GA010_cellNo_18.tif.obj;0.24595125;0;SDE shapes
+HM_1GA010_cellNo_2.tif.obj;-0.0073026814;2;keratocytes
+HM_1GA010_cellNo_23.tif.obj;0.32395953;0;SDE shapes
+HM_1GA010_cellNo_24.tif.obj;-0.08402356;0;SDE shapes
+HM_1GA010_cellNo_25.tif.obj;0.118154146;2;keratocytes
+HM_1GA010_cellNo_26.tif.obj;0.06403724;2;keratocytes
+HM_1GA010_cellNo_27.tif.obj;0.19047663;0;SDE shapes
+HM_1GA010_cellNo_28.tif.obj;0.042565383;0;SDE shapes
+HM_1GA010_cellNo_3.tif.obj;0.122316845;0;SDE shapes
+HM_1GA010_cellNo_30.tif.obj;-0.25879502;0;SDE shapes
+HM_1GA010_cellNo_31.tif.obj;-0.29024503;0;SDE shapes
+HM_1GA010_cellNo_33.tif.obj;0.08626122;0;SDE shapes
+HM_1GA010_cellNo_34.tif.obj;0.71359485;5;patients echinocytes
+HM_1GA010_cellNo_35.tif.obj;0.31307784;5;patients echinocytes
+HM_1GA010_cellNo_38.tif.obj;0.33266124;0;SDE shapes
+HM_1GA010_cellNo_39.tif.obj;0.13140713;2;keratocytes
+HM_1GA010_cellNo_5.tif.obj;0.12621741;0;SDE shapes
+HM_1GA010_cellNo_7.tif.obj;-0.053664718;0;SDE shapes
+HM_1GA010_cellNo_9.tif.obj;0.06711974;0;SDE shapes
+HM_1GA011_cellNo_10.tif.obj;0.10805343;0;SDE shapes
+HM_1GA011_cellNo_11.tif.obj;-0.16329071;2;keratocytes
+HM_1GA011_cellNo_12.tif.obj;0.2139065;5;patients echinocytes
+HM_1GA011_cellNo_13.tif.obj;0.040556967;0;SDE shapes
+HM_1GA011_cellNo_14.tif.obj;0.096802466;0;SDE shapes
+HM_1GA011_cellNo_15.tif.obj;-0.042342555;2;keratocytes
+HM_1GA011_cellNo_18.tif.obj;0.41764495;2;keratocytes
+HM_1GA011_cellNo_20.tif.obj;-0.2818116;0;SDE shapes
+HM_1GA011_cellNo_21.tif.obj;0.062799916;2;keratocytes
+HM_1GA011_cellNo_23.tif.obj;0.24115044;0;SDE shapes
+HM_1GA011_cellNo_24.tif.obj;0.24313338;0;SDE shapes
+HM_1GA011_cellNo_25.tif.obj;-0.58783156;3;knizocytes
+HM_1GA011_cellNo_26.tif.obj;-0.21674597;0;SDE shapes
+HM_1GA011_cellNo_27.tif.obj;-0.38056698;3;knizocytes
+HM_1GA011_cellNo_3.tif.obj;-0.18308486;0;SDE shapes
+HM_1GA011_cellNo_4.tif.obj;0.48563054;5;patients echinocytes
+HM_1GA011_cellNo_5.tif.obj;0.13447039;0;SDE shapes
+HM_1GA011_cellNo_7.tif.obj;0.03056953;0;SDE shapes
+HM_1GA012_cellNo_12.tif.obj;0.10018351;0;SDE shapes
+HM_1GA012_cellNo_13.tif.obj;-0.3699682;0;SDE shapes
+HM_1GA012_cellNo_14.tif.obj;0.23610084;0;SDE shapes
+HM_1GA012_cellNo_16.tif.obj;0.27847138;0;SDE shapes
+HM_1GA012_cellNo_18.tif.obj;0.8663237;5;patients echinocytes
+HM_1GA012_cellNo_2.tif.obj;0.111710645;0;SDE shapes
+HM_1GA012_cellNo_21.tif.obj;0.288064;3;knizocytes
+HM_1GA012_cellNo_22.tif.obj;0.08408361;0;SDE shapes
+HM_1GA012_cellNo_24.tif.obj;-0.11293758;3;knizocytes
+HM_1GA012_cellNo_26.tif.obj;0.49263132;1;invalid double cell
+HM_1GA012_cellNo_27.tif.obj;0.23743153;0;SDE shapes
+HM_1GA012_cellNo_28.tif.obj;0.24738598;2;keratocytes
+HM_1GA012_cellNo_29.tif.obj;0.09160235;0;SDE shapes
+HM_1GA012_cellNo_3.tif.obj;0.12307501;0;SDE shapes
+HM_1GA012_cellNo_30.tif.obj;-0.40160212;0;SDE shapes
+HM_1GA012_cellNo_32.tif.obj;0.35707334;0;SDE shapes
+HM_1GA012_cellNo_33.tif.obj;0.12872505;0;SDE shapes
+HM_1GA012_cellNo_34.tif.obj;-0.13581687;3;knizocytes
+HM_1GA012_cellNo_35.tif.obj;0.057651415;0;SDE shapes
+HM_1GA012_cellNo_36.tif.obj;0.7797565;5;patients echinocytes
+HM_1GA012_cellNo_5.tif.obj;0.07908515;2;keratocytes
+HM_1GA012_cellNo_6.tif.obj;0.03710022;2;keratocytes
+HM_1GA012_cellNo_7.tif.obj;-0.16651225;0;SDE shapes
+HM_1GA012_cellNo_9.tif.obj;0.15909077;2;keratocytes
+HM_1GA013_cellNo_10.tif.obj;0.2720823;5;patients echinocytes
+HM_1GA013_cellNo_11.tif.obj;0.16597009;2;keratocytes
+HM_1GA013_cellNo_13.tif.obj;0.31963506;2;keratocytes
+HM_1GA013_cellNo_14.tif.obj;-0.26478198;0;SDE shapes
+HM_1GA013_cellNo_15.tif.obj;0.012271067;2;keratocytes
+HM_1GA013_cellNo_16.tif.obj;0.96168137;5;patients echinocytes
+HM_1GA013_cellNo_18.tif.obj;0.21834035;0;SDE shapes
+HM_1GA013_cellNo_2.tif.obj;0.1271655;0;SDE shapes
+HM_1GA013_cellNo_21.tif.obj;0.1012271;0;SDE shapes
+HM_1GA013_cellNo_22.tif.obj;0.18487643;0;SDE shapes
+HM_1GA013_cellNo_23.tif.obj;0.25376728;5;patients echinocytes
+HM_1GA013_cellNo_26.tif.obj;0.5227111;5;patients echinocytes
+HM_1GA013_cellNo_27.tif.obj;0.44814965;2;keratocytes
+HM_1GA013_cellNo_28.tif.obj;0.068919905;0;SDE shapes
+HM_1GA013_cellNo_29.tif.obj;-0.42363754;0;SDE shapes
+HM_1GA013_cellNo_3.tif.obj;0.08626195;0;SDE shapes
+HM_1GA013_cellNo_30.tif.obj;-0.34101668;3;knizocytes
+HM_1GA013_cellNo_32.tif.obj;-0.23939694;0;SDE shapes
+HM_1GA013_cellNo_33.tif.obj;-0.1356982;0;SDE shapes
+HM_1GA013_cellNo_35.tif.obj;0.10776802;0;SDE shapes
+HM_1GA013_cellNo_37.tif.obj;-0.113496445;0;SDE shapes
+HM_1GA013_cellNo_4.tif.obj;-0.030518407;0;SDE shapes
+HM_1GA013_cellNo_5.tif.obj;0.05072366;0;SDE shapes
+HM_1GA013_cellNo_6.tif.obj;0.096847065;0;SDE shapes
+HM_1GA013_cellNo_7.tif.obj;-0.18467477;3;knizocytes
+HM_1GA013_cellNo_8.tif.obj;0.08212925;0;SDE shapes
+HM_1GA013_cellNo_9.tif.obj;-0.013671653;0;SDE shapes
+HM_1GA014_cellNo_10.tif.obj;-0.004771995;2;keratocytes
+HM_1GA014_cellNo_11.tif.obj;-0.78792673;0;SDE shapes
+HM_1GA014_cellNo_12.tif.obj;0.19560577;0;SDE shapes
+HM_1GA014_cellNo_13.tif.obj;0.11381995;0;SDE shapes
+HM_1GA014_cellNo_14.tif.obj;0.88420385;5;patients echinocytes
+HM_1GA014_cellNo_15.tif.obj;0.16294111;2;keratocytes
+HM_1GA014_cellNo_16.tif.obj;-0.09472938;0;SDE shapes
+HM_1GA014_cellNo_17.tif.obj;-0.20866954;0;SDE shapes
+HM_1GA014_cellNo_18.tif.obj;0.3321034;2;keratocytes
+HM_1GA014_cellNo_19.tif.obj;0.10316824;0;SDE shapes
+HM_1GA014_cellNo_20.tif.obj;0.11346531;0;SDE shapes
+HM_1GA014_cellNo_23.tif.obj;0.08812172;2;keratocytes
+HM_1GA014_cellNo_25.tif.obj;0.19593;0;SDE shapes
+HM_1GA014_cellNo_26.tif.obj;0.11198234;0;SDE shapes
+HM_1GA014_cellNo_28.tif.obj;-0.5198384;0;SDE shapes
+HM_1GA014_cellNo_30.tif.obj;-0.15505861;0;SDE shapes
+HM_1GA014_cellNo_31.tif.obj;-0.15689015;0;SDE shapes
+HM_1GA014_cellNo_32.tif.obj;0.05035383;0;SDE shapes
+HM_1GA014_cellNo_4.tif.obj;0.8799304;5;patients echinocytes
+HM_1GA014_cellNo_6.tif.obj;0.42566255;1;invalid double cell
+HM_1GA014_cellNo_7.tif.obj;0.4577293;5;patients echinocytes
+HM_1GA014_cellNo_8.tif.obj;0.20269036;0;SDE shapes
+HM_1GA014_cellNo_9.tif.obj;0.17795473;0;SDE shapes
+HM_1GA015_cellNo_1.tif.obj;-0.108238384;0;SDE shapes
+HM_1GA015_cellNo_10.tif.obj;0.98257023;5;patients echinocytes
+HM_1GA015_cellNo_11.tif.obj;0.5878076;5;patients echinocytes
+HM_1GA015_cellNo_12.tif.obj;0.35293216;2;keratocytes
+HM_1GA015_cellNo_13.tif.obj;-0.05389889;1;invalid double cell
+HM_1GA015_cellNo_14.tif.obj;0.72918576;5;patients echinocytes
+HM_1GA015_cellNo_16.tif.obj;0.101944335;0;SDE shapes
+HM_1GA015_cellNo_18.tif.obj;0.18496847;0;SDE shapes
+HM_1GA015_cellNo_19.tif.obj;0.0100611355;0;SDE shapes
+HM_1GA015_cellNo_2.tif.obj;-0.1440484;0;SDE shapes
+HM_1GA015_cellNo_20.tif.obj;0.067520685;2;keratocytes
+HM_1GA015_cellNo_23.tif.obj;0.08710032;0;SDE shapes
+HM_1GA015_cellNo_24.tif.obj;0.06923398;0;SDE shapes
+HM_1GA015_cellNo_25.tif.obj;-0.44149107;0;SDE shapes
+HM_1GA015_cellNo_26.tif.obj;0.18335298;0;SDE shapes
+HM_1GA015_cellNo_27.tif.obj;-0.13908413;0;SDE shapes
+HM_1GA015_cellNo_28.tif.obj;0.07240625;5;patients echinocytes
+HM_1GA015_cellNo_29.tif.obj;0.5106613;5;patients echinocytes
+HM_1GA015_cellNo_30.tif.obj;0.30579445;1;invalid double cell
+HM_1GA015_cellNo_31.tif.obj;0.032277927;2;keratocytes
+HM_1GA015_cellNo_32.tif.obj;-8.860271e-05;0;SDE shapes
+HM_1GA015_cellNo_33.tif.obj;0.16138324;0;SDE shapes
+HM_1GA015_cellNo_4.tif.obj;0.085665;2;keratocytes
+HM_1GA015_cellNo_5.tif.obj;0.1377901;2;keratocytes
+HM_1GA015_cellNo_7.tif.obj;-0.12170222;0;SDE shapes
+HM_1GA015_cellNo_8.tif.obj;0.3068681;2;keratocytes
+HM_1GA015_cellNo_9.tif.obj;-0.18815893;3;knizocytes
+HM_cellNo_10.tif.obj;0.20101672;1;invalid double cell
+HM_cellNo_11.tif.obj;0.15783393;0;SDE shapes
+HM_cellNo_12.tif.obj;0.3528626;5;patients echinocytes
+HM_cellNo_13.tif.obj;0.13575232;0;SDE shapes
+HM_cellNo_15.tif.obj;0.21474102;5;patients echinocytes
+HM_cellNo_16.tif.obj;0.5784132;5;patients echinocytes
+HM_cellNo_17.tif.obj;0.20946454;0;SDE shapes
+HM_cellNo_19.tif.obj;0.2112332;0;SDE shapes
+HM_cellNo_20.tif.obj;0.21937563;0;SDE shapes
+HM_cellNo_21.tif.obj;0.031196928;0;SDE shapes
+HM_cellNo_22.tif.obj;-0.2343276;0;SDE shapes
+HM_cellNo_23.tif.obj;0.8333133;5;patients echinocytes
+HM_cellNo_24.tif.obj;0.25605;0;SDE shapes
+HM_cellNo_27.tif.obj;-0.20369363;1;invalid double cell
+HM_cellNo_29.tif.obj;0.045662917;0;SDE shapes
+HM_cellNo_3.tif.obj;-0.006512011;1;invalid double cell
+HM_cellNo_30.tif.obj;-0.022979999;1;invalid double cell
+HM_cellNo_33.tif.obj;0.1526357;5;patients echinocytes
+HM_cellNo_34.tif.obj;0.015454434;0;SDE shapes
+HM_cellNo_5.tif.obj;0.24808407;0;SDE shapes
+HM_cellNo_7.tif.obj;0.21439165;0;SDE shapes
+HM_cellNo_8.tif.obj;-0.14672512;0;SDE shapes
+HM001_cellNo_10.tif.obj;0.047664057;0;unknown
+HM001_cellNo_13.tif.obj;-0.16042334;0;unknown
+HM001_cellNo_16.tif.obj;-0.024336027;0;unknown
+HM001_cellNo_21.tif.obj;0.3578132;0;unknown
+HM001_cellNo_23.tif.obj;0.25019792;5;unknown
+HM001_cellNo_28.tif.obj;0.28100824;5;unknown
+HM001_cellNo_30.tif.obj;0.29226285;0;unknown
+HM001_cellNo_32.tif.obj;-0.071322;0;unknown
+HM001_cellNo_35.tif.obj;-0.23675402;0;unknown
+HM001_cellNo_36.tif.obj;0.14107345;0;unknown
+HM001_cellNo_38.tif.obj;0.049586445;0;unknown
+HM001_cellNo_7.tif.obj;0.04593468;0;unknown
+HM001_cellNo_8.tif.obj;0.5935775;5;unknown
+HM002_cellNo_10.tif.obj;0.20557044;0;unknown
+HM002_cellNo_11.tif.obj;-0.23919418;0;unknown
+HM002_cellNo_17.tif.obj;0.11385203;0;unknown
+HM002_cellNo_18.tif.obj;0.36542717;5;unknown
+HM002_cellNo_23.tif.obj;0.088811316;0;unknown
+HM002_cellNo_25.tif.obj;0.33413008;0;unknown
+HM002_cellNo_29.tif.obj;-0.33695388;0;unknown
+HM002_cellNo_30.tif.obj;-0.055402014;0;unknown
+HM002_cellNo_33.tif.obj;-0.2709876;1;unknown
+HM002_cellNo_34.tif.obj;-0.19735993;0;unknown
+HM002_cellNo_41.tif.obj;0.14671735;2;unknown
+HM002_cellNo_43.tif.obj;0.23326081;0;unknown
+HM002_cellNo_6.tif.obj;0.1597687;2;unknown
+HM002_cellNo_7.tif.obj;0.18104559;5;unknown
+HM002_cellNo_8.tif.obj;0.31465235;5;unknown
+HM003_cellNo_11.tif.obj;0.82994145;5;unknown
+HM003_cellNo_17.tif.obj;1.0084468;5;unknown
+HM003_cellNo_18.tif.obj;0.36142135;5;unknown
+HM003_cellNo_19.tif.obj;-0.020610856;3;unknown
+HM003_cellNo_23.tif.obj;0.1932025;0;unknown
+HM003_cellNo_29.tif.obj;0.782157;5;unknown
+HM003_cellNo_36.tif.obj;0.12608543;0;unknown
+HM004_cellNo_11.tif.obj;0.5959065;5;unknown
+HM004_cellNo_14.tif.obj;0.40222114;5;unknown
+HM004_cellNo_16.tif.obj;0.54629344;5;unknown
+HM004_cellNo_22.tif.obj;0.18739948;0;unknown
+HM004_cellNo_24.tif.obj;0.13806394;0;unknown
+HM004_cellNo_25.tif.obj;0.0028459257;0;unknown
+HM004_cellNo_30.tif.obj;0.32995984;5;unknown
+HM004_cellNo_34.tif.obj;0.10121662;0;unknown
+HM004_cellNo_35.tif.obj;0.098371625;0;unknown
+HM004_cellNo_36.tif.obj;0.3691298;5;unknown
+HM004_cellNo_39.tif.obj;-0.19936714;0;unknown
+HM005_cellNo_11.tif.obj;0.91369265;5;unknown
+HM005_cellNo_13.tif.obj;0.18402398;0;unknown
+HM005_cellNo_17.tif.obj;0.21420605;0;unknown
+HM005_cellNo_20.tif.obj;0.38154754;5;unknown
+HM005_cellNo_21.tif.obj;0.043854203;0;unknown
+HM005_cellNo_26.tif.obj;0.06001659;0;unknown
+HM005_cellNo_27.tif.obj;0.026082354;0;unknown
+HM005_cellNo_3.tif.obj;0.86482495;5;unknown
+HM005_cellNo_31.tif.obj;0.18018493;0;unknown
+HM005_cellNo_32.tif.obj;0.06321655;0;unknown
+HM005_cellNo_36.tif.obj;0.06967372;1;unknown
+HM005_cellNo_37.tif.obj;0.1547822;3;unknown
+HM005_cellNo_40.tif.obj;-0.13457733;0;unknown
+HM005_cellNo_7.tif.obj;0.77753353;5;unknown
+HM005_cellNo_9.tif.obj;-0.06706336;1;unknown
+HM006_cellNo_12.tif.obj;0.053994637;0;unknown
+HM006_cellNo_17.tif.obj;0.20846182;0;unknown
+HM006_cellNo_20.tif.obj;-0.028683927;0;unknown
+HM006_cellNo_26.tif.obj;0.46460697;5;unknown
+HM006_cellNo_3.tif.obj;0.16540961;5;unknown
+HM006_cellNo_31.tif.obj;0.06395168;0;unknown
+HM006_cellNo_34.tif.obj;0.044953756;0;unknown
+HM006_cellNo_35.tif.obj;-0.25172597;0;unknown
+HM007_cellNo_10.tif.obj;0.34648392;0;unknown
+HM007_cellNo_11.tif.obj;0.2969768;0;unknown
+HM007_cellNo_23.tif.obj;0.13876195;0;unknown
+HM007_cellNo_24.tif.obj;0.16482931;0;unknown
+HM007_cellNo_26.tif.obj;0.26673874;0;unknown
+HM007_cellNo_27.tif.obj;0.4773002;5;unknown
+HM007_cellNo_32.tif.obj;-0.1355241;0;unknown
+HM007_cellNo_33.tif.obj;0.41480893;5;unknown
+HM007_cellNo_4.tif.obj;0.2641892;5;unknown
+HM007_cellNo_7.tif.obj;0.93075675;5;unknown
+HM008_cellNo_12.tif.obj;0.78951794;5;unknown
+HM008_cellNo_19.tif.obj;0.69171196;5;unknown
+HM008_cellNo_20.tif.obj;0.13211691;0;unknown
+HM008_cellNo_22.tif.obj;0.15397018;0;unknown
+HM008_cellNo_27.tif.obj;0.18788171;0;unknown
+HM008_cellNo_29.tif.obj;0.11985334;0;unknown
+HM008_cellNo_31.tif.obj;0.3336436;5;unknown
+HM008_cellNo_34.tif.obj;0.140989;5;unknown
+HM008_cellNo_35.tif.obj;-0.19276272;5;unknown
+HM008_cellNo_36.tif.obj;0.16220847;0;unknown
+HM008_cellNo_39.tif.obj;0.8400921;5;unknown
+HM008_cellNo_6.tif.obj;0.113682695;0;unknown
+HM009_cellNo_11.tif.obj;0.15992881;1;unknown
+HM009_cellNo_12.tif.obj;0.29209328;5;unknown
+HM009_cellNo_15.tif.obj;0.15999961;0;unknown
+HM009_cellNo_19.tif.obj;-0.0054700417;0;unknown
+HM009_cellNo_23.tif.obj;0.16068941;5;unknown
+HM009_cellNo_24.tif.obj;0.19027449;0;unknown
+HM009_cellNo_26.tif.obj;0.14570478;0;unknown
+HM009_cellNo_28.tif.obj;-0.24799603;0;unknown
+HM009_cellNo_34.tif.obj;0.34028322;5;unknown
+HM009_cellNo_35.tif.obj;0.92082745;5;unknown
+HM009_cellNo_6.tif.obj;0.26538208;5;unknown
+HM009_cellNo_7.tif.obj;0.2532963;5;unknown
+HM009_cellNo_9.tif.obj;0.215925;0;unknown
+HM010_cellNo_11.tif.obj;-0.09699313;1;unknown
+HM010_cellNo_14.tif.obj;-0.41112646;3;unknown
+HM010_cellNo_19.tif.obj;-0.27155256;0;unknown
+HM010_cellNo_21.tif.obj;0.34991732;5;unknown
+HM010_cellNo_22.tif.obj;0.37720248;5;unknown
+HM010_cellNo_27.tif.obj;0.8326598;5;unknown
+HM010_cellNo_30.tif.obj;-0.18372896;0;unknown
+HM010_cellNo_32.tif.obj;0.7023878;5;unknown
+HM010_cellNo_9.tif.obj;-0.2800126;0;unknown
+HM011_cellNo_12.tif.obj;0.2003172;0;unknown
+HM011_cellNo_2.tif.obj;-0.035267822;0;unknown
+HM011_cellNo_22.tif.obj;0.13837478;0;unknown
+HM011_cellNo_24.tif.obj;0.087335266;0;unknown
+HM011_cellNo_26.tif.obj;0.026901169;0;unknown
+HM011_cellNo_27.tif.obj;-0.052844763;0;unknown
+HM011_cellNo_29.tif.obj;0.6566617;5;unknown
+HM011_cellNo_3.tif.obj;0.28899658;1;unknown
+HM011_cellNo_32.tif.obj;0.12176511;1;unknown
+HM011_cellNo_38.tif.obj;0.061546285;0;unknown
+HM012_cellNo_16.tif.obj;0.3946415;2;unknown
+HM012_cellNo_19.tif.obj;0.26287422;0;unknown
+HM012_cellNo_25.tif.obj;0.36213434;5;unknown
+HM012_cellNo_27.tif.obj;0.42644492;5;unknown
+HM012_cellNo_29.tif.obj;0.13755986;0;unknown
+HM012_cellNo_34.tif.obj;-0.20476317;0;unknown
+HM012_cellNo_35.tif.obj;0.09690548;1;unknown
+HM012_cellNo_37.tif.obj;0.8389156;5;unknown
+HM012_cellNo_4.tif.obj;0.24504885;5;unknown
+HM012_cellNo_41.tif.obj;0.12797603;5;unknown
+HM012_cellNo_43.tif.obj;0.31841528;5;unknown
+HM012_cellNo_47.tif.obj;0.041460764;3;unknown
+HM012_cellNo_49.tif.obj;0.36633477;5;unknown
+HM012_cellNo_5.tif.obj;0.7825256;5;unknown
+HM012_cellNo_6.tif.obj;0.8890962;5;unknown
+HM013_cellNo_14.tif.obj;0.2305444;0;unknown
+HM013_cellNo_16.tif.obj;0.017468236;0;unknown
+HM013_cellNo_17.tif.obj;-0.29964978;3;unknown
+HM013_cellNo_18.tif.obj;0.46862534;5;unknown
+HM013_cellNo_20.tif.obj;0.16496393;0;unknown
+HM013_cellNo_22.tif.obj;0.22327845;5;unknown
+HM013_cellNo_24.tif.obj;0.010208318;0;unknown
+HM013_cellNo_27.tif.obj;-0.047453128;3;unknown
+HM013_cellNo_31.tif.obj;0.16860896;0;unknown
+HM013_cellNo_32.tif.obj;0.32479826;5;unknown
+HM013_cellNo_34.tif.obj;0.18502164;5;unknown
+HM013_cellNo_37.tif.obj;0.26819345;5;unknown
+HM013_cellNo_4.tif.obj;0.06508904;0;unknown
+HM013_cellNo_40.tif.obj;0.12263668;0;unknown
+HM013_cellNo_5.tif.obj;0.042376876;0;unknown
+HM013_cellNo_6.tif.obj;-0.1210959;0;unknown
+HM013_cellNo_7.tif.obj;0.5657386;5;unknown
+HM013_cellNo_9.tif.obj;0.29787698;0;unknown
+HM014_cellNo_11.tif.obj;0.00140061;0;unknown
+HM014_cellNo_12.tif.obj;0.3088617;0;unknown
+HM014_cellNo_15.tif.obj;0.13459828;1;unknown
+HM014_cellNo_18.tif.obj;0.25458592;5;unknown
+HM014_cellNo_2.tif.obj;0.45620826;5;unknown
+HM014_cellNo_24.tif.obj;-0.07020855;1;unknown
+HM014_cellNo_25.tif.obj;-0.06124833;0;unknown
+HM014_cellNo_27.tif.obj;-0.22266725;0;unknown
+HM014_cellNo_30.tif.obj;-0.038846646;5;unknown
+HM014_cellNo_31.tif.obj;0.07617564;0;unknown
+HM014_cellNo_34.tif.obj;-0.1971119;0;unknown
+HM014_cellNo_35.tif.obj;-0.028900402;3;unknown
+HM014_cellNo_6.tif.obj;0.06213649;0;unknown
+HM015_cellNo_13.tif.obj;0.09714927;0;unknown
+HM015_cellNo_14.tif.obj;-0.1412167;3;unknown
+HM015_cellNo_15.tif.obj;0.36420733;5;unknown
+HM015_cellNo_18.tif.obj;0.445936;5;unknown
+HM015_cellNo_26.tif.obj;-0.158472;0;unknown
+HM015_cellNo_4.tif.obj;0.20215458;0;unknown
+HM015_cellNo_7.tif.obj;0.43034726;5;unknown
+HM015_cellNo_8.tif.obj;0.052030597;0;unknown
+HM015_cellNo_9.tif.obj;0.31609064;0;unknown
+HM016_cellNo_12.tif.obj;-0.612204;0;unknown
+HM016_cellNo_14.tif.obj;0.032898214;0;unknown
+HM016_cellNo_18.tif.obj;0.107159086;0;unknown
+HM016_cellNo_19.tif.obj;0.4809473;5;unknown
+HM016_cellNo_23.tif.obj;0.56527954;5;unknown
+HM016_cellNo_24.tif.obj;-0.0849159;0;unknown
+HM016_cellNo_29.tif.obj;0.55761707;5;unknown
+HM016_cellNo_30.tif.obj;0.251173;0;unknown
+HM016_cellNo_36.tif.obj;0.10762005;0;unknown
+HM016_cellNo_39.tif.obj;0.0671966;5;unknown
+HM016_cellNo_41.tif.obj;0.11674142;0;unknown
+HM016_cellNo_43.tif.obj;0.38656595;5;unknown
+HM016_cellNo_5.tif.obj;0.2957997;5;unknown
+HM016_cellNo_6.tif.obj;-0.009177357;0;unknown
+HM016_cellNo_8.tif.obj;-0.04596069;0;unknown
+HM017_cellNo_13.tif.obj;0.545726;5;unknown
+HM017_cellNo_14.tif.obj;0.6051389;5;unknown
+HM017_cellNo_15.tif.obj;0.22524433;0;unknown
+HM017_cellNo_17.tif.obj;0.089889824;0;unknown
+HM017_cellNo_19.tif.obj;0.22132033;0;unknown
+HM017_cellNo_20.tif.obj;0.36488304;5;unknown
+HM017_cellNo_26.tif.obj;0.3814731;5;unknown
+HM017_cellNo_27.tif.obj;-0.027796986;3;unknown
+HM017_cellNo_28.tif.obj;0.7932078;5;unknown
+HM017_cellNo_38.tif.obj;0.26038292;0;unknown
+HM017_cellNo_7.tif.obj;-0.36367998;3;unknown
+HM017_cellNo_8.tif.obj;-0.14475226;0;unknown
+HM018_cellNo_12.tif.obj;0.47991326;5;unknown
+HM018_cellNo_15.tif.obj;0.36530414;5;unknown
+HM018_cellNo_18.tif.obj;0.4272729;5;unknown
+HM018_cellNo_20.tif.obj;-0.17226242;3;unknown
+HM018_cellNo_21.tif.obj;0.14604002;5;unknown
+HM018_cellNo_23.tif.obj;-0.20494479;0;unknown
+HM018_cellNo_3.tif.obj;0.17855477;0;unknown
+HM018_cellNo_30.tif.obj;0.068175755;0;unknown
+HM018_cellNo_31.tif.obj;0.070255764;5;unknown
+HM018_cellNo_6.tif.obj;-0.046021096;0;unknown
+HM019_cellNo_12.tif.obj;-0.07283787;0;unknown
+HM019_cellNo_13.tif.obj;0.19326949;1;unknown
+HM019_cellNo_17.tif.obj;0.36970052;5;unknown
+HM019_cellNo_19.tif.obj;0.4603646;5;unknown
+HM019_cellNo_21.tif.obj;-0.03896079;0;unknown
+HM019_cellNo_24.tif.obj;0.10496096;0;unknown
+HM019_cellNo_3.tif.obj;0.51186675;5;unknown
+HM019_cellNo_30.tif.obj;-0.49210703;0;unknown
+HM019_cellNo_31.tif.obj;-0.08789163;0;unknown
+HM019_cellNo_32.tif.obj;-0.1148623;0;unknown
+HM019_cellNo_8.tif.obj;0.51200986;5;unknown
+HM020_cellNo_1.tif.obj;0.283595;0;unknown
+HM020_cellNo_15.tif.obj;0.027539676;0;unknown
+HM020_cellNo_18.tif.obj;0.5210191;5;unknown
+HM020_cellNo_19.tif.obj;0.77978325;5;unknown
+HM020_cellNo_20.tif.obj;-0.6811908;0;unknown
+HM020_cellNo_22.tif.obj;0.019582046;3;unknown
+HM020_cellNo_23.tif.obj;-0.014371807;0;unknown
+HM020_cellNo_26.tif.obj;0.5451436;5;unknown
+HM020_cellNo_28.tif.obj;-0.14625347;0;unknown
+HM020_cellNo_3.tif.obj;0.48070437;1;unknown
+HM020_cellNo_30.tif.obj;0.22192825;1;unknown
+HM020_cellNo_31.tif.obj;0.55690384;5;unknown
+HM020_cellNo_4.tif.obj;0.51961994;5;unknown
+HM020_cellNo_5.tif.obj;0.11658303;0;unknown
+HM020_cellNo_6.tif.obj;0.12691239;0;unknown
+HM020_cellNo_7.tif.obj;-0.119160004;0;unknown
+HM020_cellNo_9.tif.obj;0.22289835;2;unknown
+HM021_cellNo_1.tif.obj;0.015217397;0;unknown
+HM021_cellNo_11.tif.obj;0.49767253;5;unknown
+HM021_cellNo_14.tif.obj;0.5201833;5;unknown
+HM021_cellNo_15.tif.obj;0.20714532;2;unknown
+HM021_cellNo_16.tif.obj;0.33244115;5;unknown
+HM021_cellNo_19.tif.obj;0.046488326;0;unknown
+HM021_cellNo_20.tif.obj;0.016829384;1;unknown
+HM021_cellNo_21.tif.obj;0.059780713;0;unknown
+HM021_cellNo_23.tif.obj;0.2825896;5;unknown
+HM021_cellNo_24.tif.obj;0.46935698;5;unknown
+HM021_cellNo_27.tif.obj;-0.18722047;0;unknown
+HM021_cellNo_32.tif.obj;0.122248955;0;unknown
+HM021_cellNo_6.tif.obj;0.36212775;5;unknown
+HM021_cellNo_7.tif.obj;0.75532407;2;unknown
+HM022_cellNo_11.tif.obj;-0.057816982;0;unknown
+HM022_cellNo_12.tif.obj;0.42560503;5;unknown
+HM022_cellNo_15.tif.obj;0.20220095;0;unknown
+HM022_cellNo_16.tif.obj;0.13281119;5;unknown
+HM022_cellNo_19.tif.obj;0.002712307;0;unknown
+HM022_cellNo_21.tif.obj;-0.1293222;0;unknown
+HM022_cellNo_23.tif.obj;0.3718631;5;unknown
+HM022_cellNo_24.tif.obj;-0.3037379;0;unknown
+HM022_cellNo_26.tif.obj;0.06611404;0;unknown
+HM022_cellNo_5.tif.obj;-0.027727572;0;unknown
+HM022_cellNo_6.tif.obj;0.17421344;0;unknown
+HM023_cellNo_12.tif.obj;0.26774392;5;unknown
+HM023_cellNo_14.tif.obj;-0.10279217;0;unknown
+HM023_cellNo_21.tif.obj;0.35420844;5;unknown
+HM023_cellNo_25.tif.obj;-0.13818392;0;unknown
+HM023_cellNo_27.tif.obj;-0.026779355;0;unknown
+HM023_cellNo_28.tif.obj;0.14207603;0;unknown
+HM023_cellNo_29.tif.obj;0.117634736;0;unknown
+HM023_cellNo_4.tif.obj;0.15513231;0;unknown
+HM023_cellNo_8.tif.obj;0.20200908;0;unknown
+HM023_cellNo_9.tif.obj;-0.24686544;0;unknown
+HM024_cellNo_12.tif.obj;0.3839561;5;unknown
+HM024_cellNo_17.tif.obj;0.103056885;0;unknown
+HM024_cellNo_22.tif.obj;-0.21723965;0;unknown
+HM024_cellNo_25.tif.obj;-0.21646589;0;unknown
+HM024_cellNo_28.tif.obj;0.14943159;5;unknown
+HM024_cellNo_3.tif.obj;0.29969934;0;unknown
+HM024_cellNo_32.tif.obj;0.18919975;0;unknown
+HM024_cellNo_36.tif.obj;-0.0015126788;1;unknown
+HM024_cellNo_4.tif.obj;-0.053860474;0;unknown
+HM024_cellNo_5.tif.obj;0.4084421;5;unknown
+HM024_cellNo_9.tif.obj;-0.09287485;0;unknown
+HM025_cellNo_11.tif.obj;0.37126908;5;unknown
+HM025_cellNo_14.tif.obj;0.42206356;5;unknown
+HM025_cellNo_16.tif.obj;-0.024732659;0;unknown
+HM025_cellNo_18.tif.obj;0.27537265;0;unknown
+HM025_cellNo_2.tif.obj;0.23737293;5;unknown
+HM025_cellNo_20.tif.obj;0.58235735;5;unknown
+HM025_cellNo_21.tif.obj;0.71981126;5;unknown
+HM025_cellNo_22.tif.obj;0.23772684;5;unknown
+HM025_cellNo_23.tif.obj;-0.25403145;0;unknown
+HM025_cellNo_29.tif.obj;0.20392075;0;unknown
+HM025_cellNo_3.tif.obj;-0.0682405;0;unknown
+HM025_cellNo_30.tif.obj;0.33398733;5;unknown
+HM025_cellNo_31.tif.obj;-0.48156932;0;unknown
+HM025_cellNo_34.tif.obj;-0.3278612;0;unknown
+HM025_cellNo_35.tif.obj;0.36593965;5;unknown
+HM025_cellNo_6.tif.obj;0.15614286;0;unknown
+HM025_cellNo_7.tif.obj;0.17197047;0;unknown
+HM025_cellNo_8.tif.obj;-0.3062536;4;unknown
+HM026_cellNo_10.tif.obj;0.38194114;5;unknown
+HM026_cellNo_17.tif.obj;-0.16286454;0;unknown
+HM026_cellNo_19.tif.obj;0.33828452;1;unknown
+HM026_cellNo_20.tif.obj;-0.08614888;0;unknown
+HM026_cellNo_22.tif.obj;0.89253426;5;unknown
+HM026_cellNo_23.tif.obj;0.67962545;5;unknown
+HM026_cellNo_24.tif.obj;0.18593861;1;unknown
+HM026_cellNo_26.tif.obj;0.11862556;0;unknown
+HM026_cellNo_28.tif.obj;0.63321555;5;unknown
+HM026_cellNo_32.tif.obj;0.19450511;0;unknown
+HM027_cellNo_22.tif.obj;0.027840575;0;unknown
+HM027_cellNo_26.tif.obj;0.30004743;5;unknown
+HM027_cellNo_3.tif.obj;0.05607033;0;unknown
+HM027_cellNo_31.tif.obj;0.32825887;5;unknown
+HM027_cellNo_32.tif.obj;-0.069088936;0;unknown
+HM027_cellNo_33.tif.obj;0.4134305;0;unknown
+HM027_cellNo_34.tif.obj;0.8346084;5;unknown
+HM027_cellNo_39.tif.obj;-0.20815302;0;unknown
+HM027_cellNo_40.tif.obj;-0.05304616;0;unknown
+HM027_cellNo_41.tif.obj;0.20610653;0;unknown
+HM027_cellNo_6.tif.obj;0.29230487;5;unknown
+HM027_cellNo_7.tif.obj;0.26420483;0;unknown
+HM027_cellNo_8.tif.obj;0.094065145;0;unknown
+HM027_cellNo_9.tif.obj;0.07691603;0;unknown
+HM028_cellNo_10.tif.obj;0.09324906;0;unknown
+HM028_cellNo_11.tif.obj;0.015980912;1;unknown
+HM028_cellNo_17.tif.obj;-0.11832807;0;unknown
+HM028_cellNo_18.tif.obj;0.22480293;0;unknown
+HM028_cellNo_19.tif.obj;0.08364747;0;unknown
+HM028_cellNo_2.tif.obj;0.17973119;0;unknown
+HM028_cellNo_21.tif.obj;0.25526103;5;unknown
+HM028_cellNo_27.tif.obj;0.26161262;5;unknown
+HM028_cellNo_29.tif.obj;-0.107583664;0;unknown
+HM028_cellNo_8.tif.obj;0.24453223;0;unknown
+HM029_cellNo_11.tif.obj;0.095329374;0;unknown
+HM029_cellNo_16.tif.obj;-0.056306113;1;unknown
+HM029_cellNo_18.tif.obj;-0.061030883;3;unknown
+HM029_cellNo_21.tif.obj;0.3672271;5;unknown
+HM029_cellNo_22.tif.obj;0.08226898;0;unknown
+HM029_cellNo_25.tif.obj;0.18711111;5;unknown
+HM029_cellNo_28.tif.obj;0.14347166;2;unknown
+HM029_cellNo_29.tif.obj;0.5620264;5;unknown
+HM029_cellNo_35.tif.obj;0.1950166;0;unknown
+HM029_cellNo_7.tif.obj;0.40045798;5;unknown
+HM030_cellNo_11.tif.obj;0.059283342;0;unknown
+HM030_cellNo_17.tif.obj;-0.23380207;0;unknown
+HM030_cellNo_2.tif.obj;0.39706382;5;unknown
+HM030_cellNo_21.tif.obj;-0.12714562;0;unknown
+HM030_cellNo_25.tif.obj;0.1040514;2;unknown
+HM030_cellNo_3.tif.obj;0.05925345;5;unknown
+HM030_cellNo_31.tif.obj;0.094475776;2;unknown
+HM031_cellNo_16.tif.obj;0.57842356;5;unknown
+HM031_cellNo_24.tif.obj;0.366326;2;unknown
+HM031_cellNo_28.tif.obj;0.3385775;5;unknown
+HM031_cellNo_29.tif.obj;0.25092158;0;unknown
+HM031_cellNo_3.tif.obj;0.11414514;0;unknown
+HM031_cellNo_32.tif.obj;0.32242772;0;unknown
+HM031_cellNo_36.tif.obj;0.14904022;0;unknown
+HM031_cellNo_37.tif.obj;0.05939802;0;unknown
+HM031_cellNo_4.tif.obj;0.13888913;0;unknown
+HM031_cellNo_43.tif.obj;0.15608592;0;unknown
+HM031_cellNo_44.tif.obj;0.0455845;1;unknown
+HM031_cellNo_45.tif.obj;0.23371103;2;unknown
+HM031_cellNo_48.tif.obj;0.1457493;0;unknown
+HM031_cellNo_5.tif.obj;-0.27549177;0;unknown
+HM031_cellNo_6.tif.obj;0.9248167;5;unknown
+HM031_cellNo_8.tif.obj;0.17930678;0;unknown
+HM032_cellNo_14.tif.obj;0.14441165;0;unknown
+HM032_cellNo_2.tif.obj;-0.031200768;1;unknown
+HM032_cellNo_23.tif.obj;-0.008817198;0;unknown
+HM032_cellNo_27.tif.obj;0.25756297;5;unknown
+HM032_cellNo_28.tif.obj;0.03668536;1;unknown
+HM032_cellNo_29.tif.obj;0.09173824;0;unknown
+HM032_cellNo_3.tif.obj;0.03984419;3;unknown
+HM032_cellNo_31.tif.obj;0.19554847;0;unknown
+HM032_cellNo_35.tif.obj;-1.0097443;0;unknown
+HM032_cellNo_36.tif.obj;0.1593404;0;unknown
+HM032_cellNo_4.tif.obj;-0.039289217;0;unknown
+HM032_cellNo_42.tif.obj;-0.0025285543;0;unknown
+HM032_cellNo_43.tif.obj;0.40447968;5;unknown
+HM032_cellNo_44.tif.obj;0.024874208;0;unknown
+HM032_cellNo_47.tif.obj;0.2112386;1;unknown
+HM032_cellNo_50.tif.obj;-0.265746;1;unknown
+HM032_cellNo_51.tif.obj;0.109550126;1;unknown
+HM032_cellNo_6.tif.obj;0.40591893;5;unknown
+HM033_cellNo_10.tif.obj;-0.2754849;0;unknown
+HM033_cellNo_12.tif.obj;0.09440443;5;unknown
+HM033_cellNo_21.tif.obj;0.094181515;0;unknown
+HM033_cellNo_27.tif.obj;0.07905785;0;unknown
+HM033_cellNo_28.tif.obj;0.11945974;0;unknown
+HM033_cellNo_30.tif.obj;0.017052358;0;unknown
+HM033_cellNo_31.tif.obj;0.4970919;5;unknown
+HM033_cellNo_34.tif.obj;-0.20320795;0;unknown
+HM033_cellNo_35.tif.obj;0.17221554;5;unknown
+HM033_cellNo_40.tif.obj;0.056245927;1;unknown
+HM033_cellNo_41.tif.obj;0.019487089;0;unknown
+HM033_cellNo_43.tif.obj;0.2179088;1;unknown
+HM033_cellNo_46.tif.obj;-0.16503616;1;unknown
+HM033_cellNo_5.tif.obj;0.090939075;1;unknown
+HM033_cellNo_8.tif.obj;0.073816724;3;unknown
+HM033_cellNo_9.tif.obj;0.34366322;5;unknown
+HM034_cellNo_1.tif.obj;0.0006453819;3;unknown
+HM034_cellNo_10.tif.obj;-0.078300975;3;unknown
+HM034_cellNo_13.tif.obj;0.10689647;0;unknown
+HM034_cellNo_15.tif.obj;-0.3088836;0;unknown
+HM034_cellNo_16.tif.obj;0.16228254;0;unknown
+HM034_cellNo_19.tif.obj;-0.041975897;2;unknown
+HM034_cellNo_21.tif.obj;-0.03755723;0;unknown
+HM034_cellNo_22.tif.obj;0.09028199;2;unknown
+HM034_cellNo_24.tif.obj;0.43319908;5;unknown
+HM034_cellNo_27.tif.obj;-0.48492783;0;unknown
+HM034_cellNo_28.tif.obj;0.4176892;5;unknown
+HM034_cellNo_31.tif.obj;0.12131355;0;unknown
+HM034_cellNo_35.tif.obj;0.452619;5;unknown
+HM034_cellNo_36.tif.obj;-0.019061908;0;unknown
+HM034_cellNo_38.tif.obj;0.35762808;5;unknown
+HM034_cellNo_4.tif.obj;-0.0018772655;3;unknown
+HM035_cellNo_11.tif.obj;0.34300575;5;unknown
+HM035_cellNo_15.tif.obj;0.5074816;5;unknown
+HM035_cellNo_21.tif.obj;0.2442072;0;unknown
+HM035_cellNo_24.tif.obj;0.1603661;0;unknown
+HM035_cellNo_25.tif.obj;0.27378088;5;unknown
+HM035_cellNo_26.tif.obj;0.17150995;0;unknown
+HM035_cellNo_28.tif.obj;0.11454192;0;unknown
+HM035_cellNo_29.tif.obj;0.14806828;0;unknown
+HM035_cellNo_33.tif.obj;0.23964421;5;unknown
+HM035_cellNo_50.tif.obj;0.09933925;0;unknown
+HM036_cellNo_14.tif.obj;0.2016368;5;unknown
+HM036_cellNo_15.tif.obj;0.20723227;0;unknown
+HM036_cellNo_16.tif.obj;0.1639038;2;unknown
+HM036_cellNo_18.tif.obj;-0.0352135;3;unknown
+HM036_cellNo_22.tif.obj;0.14259067;5;unknown
+HM036_cellNo_23.tif.obj;-0.2764021;3;unknown
+HM036_cellNo_30.tif.obj;0.18885504;1;unknown
+HM036_cellNo_31.tif.obj;0.14826569;0;unknown
+HM036_cellNo_32.tif.obj;0.38274506;5;unknown
+HM036_cellNo_35.tif.obj;0.24567488;5;unknown
+HM036_cellNo_4.tif.obj;0.12558307;0;unknown
+HM036_cellNo_44.tif.obj;0.08403405;0;unknown
+HM037_cellNo_10.tif.obj;0.17047372;0;unknown
+HM037_cellNo_13.tif.obj;0.3817807;2;unknown
+HM037_cellNo_19.tif.obj;0.01852041;0;unknown
+HM037_cellNo_20.tif.obj;0.22916524;0;unknown
+HM037_cellNo_24.tif.obj;0.17163348;0;unknown
+HM037_cellNo_25.tif.obj;0.20057543;0;unknown
+HM037_cellNo_27.tif.obj;0.20464957;0;unknown
+HM037_cellNo_32.tif.obj;0.117338866;0;unknown
+HM037_cellNo_33.tif.obj;0.0799166;0;unknown
+HM037_cellNo_39.tif.obj;0.45650867;5;unknown
+HM037_cellNo_4.tif.obj;0.052864928;0;unknown
+HM037_cellNo_7.tif.obj;0.13872823;5;unknown
+HM038_cellNo_1.tif.obj;0.17837605;2;unknown
+HM038_cellNo_10.tif.obj;0.4869376;5;unknown
+HM038_cellNo_12.tif.obj;0.04164176;0;unknown
+HM038_cellNo_13.tif.obj;0.22188246;0;unknown
+HM038_cellNo_16.tif.obj;0.40001482;0;unknown
+HM038_cellNo_19.tif.obj;-0.19663234;0;unknown
+HM038_cellNo_27.tif.obj;-0.13895127;3;unknown
+HM038_cellNo_28.tif.obj;0.26263216;5;unknown
+HM038_cellNo_29.tif.obj;-0.26670915;0;unknown
+HM038_cellNo_3.tif.obj;-0.20915791;0;unknown
+HM038_cellNo_30.tif.obj;-0.23307666;0;unknown
+HM038_cellNo_33.tif.obj;0.3318411;5;unknown
+HM038_cellNo_34.tif.obj;0.55492693;5;unknown
+HM038_cellNo_4.tif.obj;-0.019411376;0;unknown
+HM038_cellNo_42.tif.obj;0.16134475;0;unknown
+HM038_cellNo_45.tif.obj;0.28336462;5;unknown
+HM038_cellNo_5.tif.obj;-0.09515468;5;unknown
+HM038_cellNo_7.tif.obj;0.6378878;5;unknown
+HM039_cellNo_11.tif.obj;0.23011535;5;unknown
+HM039_cellNo_16.tif.obj;-0.00975105;5;unknown
+HM039_cellNo_17.tif.obj;0.07999552;0;unknown
+HM039_cellNo_18.tif.obj;0.34859398;5;unknown
+HM039_cellNo_19.tif.obj;0.2806758;5;unknown
+HM039_cellNo_20.tif.obj;-0.107991494;4;unknown
+HM039_cellNo_25.tif.obj;0.131021;0;unknown
+HM039_cellNo_28.tif.obj;0.2463775;0;unknown
+HM039_cellNo_3.tif.obj;-0.012464216;0;unknown
+HM039_cellNo_30.tif.obj;0.3708792;5;unknown
+HM039_cellNo_32.tif.obj;-0.39444584;0;unknown
+HM039_cellNo_34.tif.obj;0.17003104;0;unknown
+HM039_cellNo_35.tif.obj;0.5102379;5;unknown
+HM039_cellNo_37.tif.obj;0.21542263;0;unknown
+HM039_cellNo_39.tif.obj;0.11250131;0;unknown
+HM040_cellNo_14.tif.obj;0.1709351;5;unknown
+HM040_cellNo_15.tif.obj;0.0183897;0;unknown
+HM040_cellNo_16.tif.obj;0.19408894;5;unknown
+HM040_cellNo_24.tif.obj;0.0754345;0;unknown
+HM040_cellNo_26.tif.obj;0.20899609;0;unknown
+HM040_cellNo_27.tif.obj;0.22072992;0;unknown
+HM040_cellNo_28.tif.obj;-0.07699698;0;unknown
+HM040_cellNo_29.tif.obj;-0.22200061;0;unknown
+HM040_cellNo_32.tif.obj;0.036107358;5;unknown
+HM040_cellNo_36.tif.obj;0.10469981;1;unknown
+HM040_cellNo_37.tif.obj;0.33758792;5;unknown
+HM040_cellNo_38.tif.obj;0.07429511;0;unknown
+HM040_cellNo_4.tif.obj;0.6743724;5;unknown
+HM040_cellNo_41.tif.obj;0.4442378;5;unknown
+HM040_cellNo_7.tif.obj;0.057992015;0;unknown
+HM040_cellNo_8.tif.obj;0.14135188;0;unknown
+HM040_cellNo_9.tif.obj;0.6427466;5;unknown
+HM041_cellNo_10.tif.obj;0.18438447;0;unknown
+HM041_cellNo_11.tif.obj;0.17696737;0;unknown
+HM041_cellNo_18.tif.obj;-0.00046821166;0;unknown
+HM041_cellNo_19.tif.obj;0.7731838;5;unknown
+HM041_cellNo_20.tif.obj;-0.18696696;0;unknown
+HM041_cellNo_21.tif.obj;-0.019159978;0;unknown
+HM041_cellNo_22.tif.obj;0.12198606;0;unknown
+HM041_cellNo_23.tif.obj;0.10831281;0;unknown
+HM041_cellNo_24.tif.obj;-0.10044091;0;unknown
+HM041_cellNo_33.tif.obj;-0.25009823;0;unknown
+HM041_cellNo_35.tif.obj;0.014412358;0;unknown
+HM041_cellNo_39.tif.obj;0.38857445;5;unknown
+HM041_cellNo_6.tif.obj;0.51648164;5;unknown
+HM041_cellNo_9.tif.obj;-0.02176495;0;unknown
+HM042_cellNo_11.tif.obj;0.045287464;2;unknown
+HM042_cellNo_18.tif.obj;0.52313834;5;unknown
+HM042_cellNo_19.tif.obj;0.10790679;0;unknown
+HM042_cellNo_20.tif.obj;0.16443986;0;unknown
+HM042_cellNo_24.tif.obj;-0.09948913;1;unknown
+HM042_cellNo_26.tif.obj;0.09372002;0;unknown
+HM042_cellNo_28.tif.obj;0.30467096;5;unknown
+HM042_cellNo_29.tif.obj;-0.12360667;0;unknown
+HM042_cellNo_32.tif.obj;0.05757073;0;unknown
+HM042_cellNo_7.tif.obj;0.08581292;0;unknown
+HM042_cellNo_8.tif.obj;0.33437818;5;unknown
+HM043_cellNo_12.tif.obj;0.39487922;5;unknown
+HM043_cellNo_13.tif.obj;0.18431972;0;unknown
+HM043_cellNo_14.tif.obj;-0.13228524;0;unknown
+HM043_cellNo_18.tif.obj;0.24649031;0;unknown
+HM043_cellNo_20.tif.obj;0.18339959;0;unknown
+HM043_cellNo_21.tif.obj;0.14461434;0;unknown
+HM043_cellNo_23.tif.obj;0.17902306;0;unknown
+HM043_cellNo_25.tif.obj;-0.13383028;5;unknown
+HM043_cellNo_38.tif.obj;0.32551005;5;unknown
+HM043_cellNo_40.tif.obj;-0.3344474;0;unknown
+HM043_cellNo_5.tif.obj;0.14338346;1;unknown
+HM043_cellNo_6.tif.obj;0.16024858;5;unknown
+HM043_cellNo_8.tif.obj;-0.27185836;0;unknown
+HM044_cellNo_10.tif.obj;0.39415577;5;unknown
+HM044_cellNo_13.tif.obj;0.22003731;1;unknown
+HM044_cellNo_14.tif.obj;0.12162029;0;unknown
+HM044_cellNo_15.tif.obj;0.027365742;0;unknown
+HM044_cellNo_19.tif.obj;0.35935363;5;unknown
+HM044_cellNo_21.tif.obj;-0.5354899;0;unknown
+HM044_cellNo_25.tif.obj;0.14251472;2;unknown
+HM044_cellNo_3.tif.obj;0.22202978;5;unknown
+HM044_cellNo_30.tif.obj;-0.07772362;0;unknown
+HM044_cellNo_35.tif.obj;0.010779878;0;unknown
+HM044_cellNo_37.tif.obj;0.2160588;0;unknown
+HM044_cellNo_38.tif.obj;0.40888995;5;unknown
+HM044_cellNo_41.tif.obj;0.04104108;5;unknown
+HM044_cellNo_7.tif.obj;0.2225658;0;unknown
+HM044_cellNo_9.tif.obj;0.06693425;0;unknown
+HM045_cellNo_10.tif.obj;0.07300099;0;unknown
+HM045_cellNo_11.tif.obj;0.3903475;5;unknown
+HM045_cellNo_22.tif.obj;0.22654033;5;unknown
+HM045_cellNo_23.tif.obj;0.14775512;2;unknown
+HM045_cellNo_25.tif.obj;0.30400735;5;unknown
+HM045_cellNo_28.tif.obj;-0.17693552;0;unknown
+HM045_cellNo_35.tif.obj;0.40986565;5;unknown
+HM045_cellNo_36.tif.obj;0.044287622;0;unknown
+HM045_cellNo_37.tif.obj;-0.14680927;0;unknown
+HM045_cellNo_4.tif.obj;-0.11150682;0;unknown
+HM046_cellNo_11.tif.obj;0.16547462;2;unknown
+HM046_cellNo_12.tif.obj;0.19621435;0;unknown
+HM046_cellNo_13.tif.obj;0.40056258;5;unknown
+HM046_cellNo_16.tif.obj;0.42275843;5;unknown
+HM046_cellNo_19.tif.obj;0.3304919;5;unknown
+HM046_cellNo_20.tif.obj;0.3495559;5;unknown
+HM046_cellNo_23.tif.obj;0.034959126;1;unknown
+HM046_cellNo_24.tif.obj;0.25437328;5;unknown
+HM046_cellNo_25.tif.obj;-0.28009084;0;unknown
+HM046_cellNo_29.tif.obj;-0.053926855;0;unknown
+HM046_cellNo_3.tif.obj;0.23738188;5;unknown
+HM046_cellNo_34.tif.obj;0.90794635;5;unknown
+HM046_cellNo_35.tif.obj;-0.09576106;0;unknown
+HM046_cellNo_37.tif.obj;0.09771319;0;unknown
+HM046_cellNo_38.tif.obj;0.05912165;0;unknown
+HM046_cellNo_4.tif.obj;0.026237441;0;unknown
+HM_1GA001_cellNo_18.tif.obj;0.10977833;0;unknown
+HM_1GA001_cellNo_22.tif.obj;0.46330532;5;unknown
+HM_1GA001_cellNo_26.tif.obj;0.27270922;5;unknown
+HM_1GA001_cellNo_29.tif.obj;0.09710941;0;unknown
+HM_1GA001_cellNo_3.tif.obj;0.026238823;0;unknown
+HM_1GA001_cellNo_35.tif.obj;0.16308944;0;unknown
+HM_1GA001_cellNo_6.tif.obj;-0.41692248;4;unknown
+HM_1GA002_cellNo_1.tif.obj;0.14247146;1;unknown
+HM_1GA002_cellNo_11.tif.obj;0.1258248;5;unknown
+HM_1GA002_cellNo_14.tif.obj;-0.063660435;0;unknown
+HM_1GA002_cellNo_17.tif.obj;0.099217854;0;unknown
+HM_1GA002_cellNo_18.tif.obj;0.023143431;1;unknown
+HM_1GA002_cellNo_19.tif.obj;0.16211946;5;unknown
+HM_1GA002_cellNo_23.tif.obj;0.34809318;0;unknown
+HM_1GA002_cellNo_26.tif.obj;0.29371032;0;unknown
+HM_1GA002_cellNo_29.tif.obj;0.18742603;0;unknown
+HM_1GA002_cellNo_3.tif.obj;0.18199703;0;unknown
+HM_1GA002_cellNo_32.tif.obj;-0.18493253;3;unknown
+HM_1GA002_cellNo_35.tif.obj;-0.29575303;3;unknown
+HM_1GA002_cellNo_5.tif.obj;0.2033942;0;unknown
+HM_1GA003_cellNo_10.tif.obj;0.40483406;5;unknown
+HM_1GA003_cellNo_13.tif.obj;0.19057721;5;unknown
+HM_1GA003_cellNo_14.tif.obj;-0.24804068;0;unknown
+HM_1GA003_cellNo_15.tif.obj;-0.360796;1;unknown
+HM_1GA003_cellNo_18.tif.obj;-0.10339978;0;unknown
+HM_1GA003_cellNo_19.tif.obj;0.09297807;0;unknown
+HM_1GA003_cellNo_20.tif.obj;0.06433089;0;unknown
+HM_1GA003_cellNo_23.tif.obj;0.11311012;2;unknown
+HM_1GA003_cellNo_26.tif.obj;0.14802885;0;unknown
+HM_1GA003_cellNo_4.tif.obj;0.027456356;5;unknown
+HM_1GA003_cellNo_7.tif.obj;-0.020722913;3;unknown
+HM_1GA003_cellNo_9.tif.obj;0.80103284;5;unknown
+HM_1GA004_cellNo_1.tif.obj;0.3008115;0;unknown
+HM_1GA004_cellNo_10.tif.obj;-0.3034737;0;unknown
+HM_1GA004_cellNo_16.tif.obj;0.22637676;5;unknown
+HM_1GA004_cellNo_18.tif.obj;0.2756374;2;unknown
+HM_1GA004_cellNo_19.tif.obj;-0.08156271;0;unknown
+HM_1GA004_cellNo_21.tif.obj;0.25965402;0;unknown
+HM_1GA004_cellNo_22.tif.obj;0.11414928;0;unknown
+HM_1GA004_cellNo_36.tif.obj;-0.33325702;0;unknown
+HM_1GA004_cellNo_39.tif.obj;0.4310843;1;unknown
+HM_1GA004_cellNo_7.tif.obj;0.35996193;5;unknown
+HM_1GA005_cellNo_11.tif.obj;0.3347439;5;unknown
+HM_1GA005_cellNo_14.tif.obj;0.227368;5;unknown
+HM_1GA005_cellNo_18.tif.obj;-0.023215508;1;unknown
+HM_1GA005_cellNo_26.tif.obj;0.0352658;0;unknown
+HM_1GA005_cellNo_27.tif.obj;0.4762974;5;unknown
+HM_1GA005_cellNo_30.tif.obj;0.1831874;0;unknown
+HM_1GA005_cellNo_32.tif.obj;0.25635806;2;unknown
+HM_1GA005_cellNo_41.tif.obj;-0.05252065;0;unknown
+HM_1GA005_cellNo_44.tif.obj;0.52322894;5;unknown
+HM_1GA005_cellNo_6.tif.obj;-0.42373985;0;unknown
+HM_1GA005_cellNo_9.tif.obj;0.4916465;5;unknown
+HM_1GA006_cellNo_15.tif.obj;0.19566067;0;unknown
+HM_1GA006_cellNo_25.tif.obj;0.12388777;0;unknown
+HM_1GA006_cellNo_34.tif.obj;0.21052077;5;unknown
+HM_1GA006_cellNo_4.tif.obj;-0.09136833;0;unknown
+HM_1GA006_cellNo_9.tif.obj;-0.20459357;0;unknown
+HM_1GA007_cellNo_1.tif.obj;0.5141421;5;unknown
+HM_1GA007_cellNo_11.tif.obj;0.24898013;5;unknown
+HM_1GA007_cellNo_13.tif.obj;0.04282711;0;unknown
+HM_1GA007_cellNo_14.tif.obj;0.21930072;0;unknown
+HM_1GA007_cellNo_16.tif.obj;-0.031508576;0;unknown
+HM_1GA007_cellNo_22.tif.obj;-0.027626103;0;unknown
+HM_1GA007_cellNo_26.tif.obj;0.2014728;0;unknown
+HM_1GA007_cellNo_29.tif.obj;-0.36609593;0;unknown
+HM_1GA007_cellNo_3.tif.obj;0.15849495;0;unknown
+HM_1GA007_cellNo_31.tif.obj;0.13924873;0;unknown
+HM_1GA008_cellNo_10.tif.obj;0.32968974;5;unknown
+HM_1GA008_cellNo_13.tif.obj;0.25956288;5;unknown
+HM_1GA008_cellNo_18.tif.obj;0.51912326;5;unknown
+HM_1GA008_cellNo_21.tif.obj;0.37052694;5;unknown
+HM_1GA008_cellNo_22.tif.obj;-0.2067695;0;unknown
+HM_1GA008_cellNo_23.tif.obj;-0.021612387;0;unknown
+HM_1GA008_cellNo_3.tif.obj;0.017478216;0;unknown
+HM_1GA008_cellNo_30.tif.obj;0.19892858;0;unknown
+HM_1GA008_cellNo_38.tif.obj;0.1153225;2;unknown
+HM_1GA008_cellNo_40.tif.obj;0.0049564796;0;unknown
+HM_1GA008_cellNo_9.tif.obj;0.099119835;0;unknown
+HM_1GA009_cellNo_18.tif.obj;0.49814925;5;unknown
+HM_1GA009_cellNo_19.tif.obj;0.19362718;5;unknown
+HM_1GA009_cellNo_20.tif.obj;-0.062553614;1;unknown
+HM_1GA009_cellNo_21.tif.obj;0.49006706;5;unknown
+HM_1GA009_cellNo_25.tif.obj;0.037055083;0;unknown
+HM_1GA009_cellNo_26.tif.obj;-0.045820527;0;unknown
+HM_1GA009_cellNo_3.tif.obj;-0.04439194;0;unknown
+HM_1GA009_cellNo_33.tif.obj;0.04404074;0;unknown
+HM_1GA009_cellNo_34.tif.obj;-0.056334898;3;unknown
+HM_1GA009_cellNo_8.tif.obj;0.37618473;5;unknown
+HM_1GA010_cellNo_11.tif.obj;0.6988434;5;unknown
+HM_1GA010_cellNo_13.tif.obj;0.7726269;5;unknown
+HM_1GA010_cellNo_17.tif.obj;0.22342688;5;unknown
+HM_1GA010_cellNo_19.tif.obj;-0.055295378;1;unknown
+HM_1GA010_cellNo_22.tif.obj;0.30280033;0;unknown
+HM_1GA010_cellNo_29.tif.obj;-0.23016937;0;unknown
+HM_1GA010_cellNo_32.tif.obj;0.21826544;0;unknown
+HM_1GA010_cellNo_37.tif.obj;0.13562445;0;unknown
+HM_1GA010_cellNo_4.tif.obj;0.5150109;5;unknown
+HM_1GA010_cellNo_40.tif.obj;0.08312372;0;unknown
+HM_1GA010_cellNo_8.tif.obj;0.22061017;5;unknown
+HM_1GA011_cellNo_16.tif.obj;-0.22037306;3;unknown
+HM_1GA011_cellNo_17.tif.obj;0.015578652;0;unknown
+HM_1GA011_cellNo_22.tif.obj;0.16455323;5;unknown
+HM_1GA011_cellNo_28.tif.obj;0.11003991;0;unknown
+HM_1GA011_cellNo_6.tif.obj;-0.033974532;0;unknown
+HM_1GA011_cellNo_8.tif.obj;-0.04334738;1;unknown
+HM_1GA011_cellNo_9.tif.obj;0.049395267;0;unknown
+HM_1GA012_cellNo_10.tif.obj;0.13216946;0;unknown
+HM_1GA012_cellNo_11.tif.obj;0.5015612;5;unknown
+HM_1GA012_cellNo_15.tif.obj;0.23204564;5;unknown
+HM_1GA012_cellNo_19.tif.obj;-0.074609324;1;unknown
+HM_1GA012_cellNo_20.tif.obj;0.45610002;5;unknown
+HM_1GA012_cellNo_23.tif.obj;0.044679597;0;unknown
+HM_1GA012_cellNo_25.tif.obj;-0.043063466;0;unknown
+HM_1GA012_cellNo_31.tif.obj;-0.028795823;0;unknown
+HM_1GA012_cellNo_4.tif.obj;0.048602406;0;unknown
+HM_1GA013_cellNo_17.tif.obj;-0.056178253;3;unknown
+HM_1GA013_cellNo_19.tif.obj;0.34373984;5;unknown
+HM_1GA013_cellNo_20.tif.obj;0.6714777;5;unknown
+HM_1GA013_cellNo_25.tif.obj;0.766381;5;unknown
+HM_1GA013_cellNo_31.tif.obj;-0.09623485;1;unknown
+HM_1GA013_cellNo_36.tif.obj;0.3296091;0;unknown
+HM_1GA013_cellNo_38.tif.obj;-0.31931072;0;unknown
+HM_1GA014_cellNo_22.tif.obj;0.25691065;0;unknown
+HM_1GA014_cellNo_29.tif.obj;0.11995422;0;unknown
+HM_1GA014_cellNo_33.tif.obj;0.5024591;5;unknown
+HM_1GA014_cellNo_5.tif.obj;0.08846972;0;unknown
+HM_1GA015_cellNo_15.tif.obj;0.20233983;5;unknown
+HM_1GA015_cellNo_17.tif.obj;-0.21320145;3;unknown
+HM_1GA015_cellNo_21.tif.obj;0.0629132;0;unknown
+HM_1GA015_cellNo_22.tif.obj;0.081285246;0;unknown
+HM_1GA015_cellNo_6.tif.obj;0.012629351;0;unknown
+HM_cellNo_14.tif.obj;-0.048023168;1;unknown
+HM_cellNo_18.tif.obj;-0.13760667;0;unknown
+HM_cellNo_25.tif.obj;0.09415639;2;unknown
+HM_cellNo_26.tif.obj;0.2371696;5;unknown
+HM_cellNo_31.tif.obj;0.42155603;1;unknown
+HM_cellNo_32.tif.obj;0.1395518;0;unknown
+HM_cellNo_4.tif.obj;0.39105317;1;unknown
+HM_cellNo_6.tif.obj;-0.06776562;0;unknown
+HM_cellNo_9.tif.obj;0.14659023;5;unknown
