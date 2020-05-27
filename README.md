@@ -1,17 +1,19 @@
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/kgh-85/cytoShapeNet/blob/master/LICENSE.txt)
+
 # cytoShapeNet
 cytoShapeNet is a dual-stage neural network architecture to automatically recognize 3D shapes.\
 We optimized the toolbox to convert 3D images of red blood cells obtained from confocal microscopy.\
 The resulting tif stacks are first converted into OBJ and PLY 3D files, then post-processed using a rotation invariant shape descriptor serving as input format for our neural networks.
 
 ## Table of contents
-* [General information](#general-info)
-* [Project structure]
-* [Usage]
-* [Data format]
-* [Training]
-* [Evaluation]
-* [License]
-* [Contact]
+* [General information](#general-information)
+* [Project structure](#project-structure)
+* [Usage](#usage)
+* [Data format](#data-format)
+* [Training](#training)
+* [Evaluation](#evaluation)
+* [License](#license)
+* [Contact](#contact)
 
 ## General information
 
@@ -50,13 +52,14 @@ The project has the following folder structure:
 
 ## Usage
 
+
 ## Data format
-The 
+
 
 ## Training
 
-## Evaluation
-Data 
+
+## Evaluation 
 
 
 ## License
