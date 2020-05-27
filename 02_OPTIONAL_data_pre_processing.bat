@@ -14,10 +14,15 @@ echo The conversion process takes several hours to compute the whole dataset of 
 echo[
 pause
 
+echo Processing benchmark data...
+bin\DataConversionGUI.exe --folder=..\data\benchmark_regression --keepObj --recreate
+
 echo Processing training data...
-bin\DataConversionGUI.exe --folder=..\data\training --keepObj
+bin\DataConversionGUI.exe --folder=..\data\training --keepObj --recreate
+
 echo Processing evaluation data...
-bin\DataConversionGUI.exe --folder=..\data\evaluation --keepObj
+bin\DataConversionGUI.exe --folder=..\data\evaluation --keepObj --recreate
+
 echo Finished.
 echo[
 pause

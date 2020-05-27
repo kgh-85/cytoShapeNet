@@ -14,11 +14,11 @@ function ArrayUnique(array) {
     return uniqueA;
 }
 
-function Convert(inputFolder, outputFolder, filename) {
+function Convert(inputFolder, outputFolder, filename, recreate) {
     outFile = outputFolder + filename;
     print("Processing: " + outFile);
-    if (!File.exists(outFile + ".dat")) {
-        if (!File.exists(outFile + ".obj")) {
+    if (!File.exists(outFile + ".dat") || recreate == true) {
+        if (!File.exists(outFile + ".obj") || recreate == true) {
             print("loading tif: " + filename + ".tif");
             open(inputFolder + filename + ".tif");
             print("saving obj: " + filename + ".obj");
@@ -32,7 +32,7 @@ function Convert(inputFolder, outputFolder, filename) {
         print("Deleting .ply: " + filename);
         File.delete(outFile + ".ply");
     } else {
-        print("skipping: " + outFile + "(.tif).dat (already computed)");
+        print("skipping: " + outFile + ".dat (already computed)");
     }
 }
 
@@ -76,6 +76,7 @@ if (args.length != 2) {
     endI = round((threadId+1) * imagesPerThread);
 }
 
+recreate = false;
 for (i = startI; i < endI; i++)
-    Convert(inputFolder, outputFolder, list[i]);
+    Convert(inputFolder, outputFolder, list[i], recreate);
 setBatchMode(false);

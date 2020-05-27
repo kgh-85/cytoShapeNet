@@ -16,6 +16,7 @@ type
     btnProcess: TButton;
     cbxKeepOBJ: TCheckBox;
     cbxIncludeSubdirs: TCheckBox;
+    cbxRecreate: TCheckBox;
     lbIntro: TLabel;
     MainMenu1: TMainMenu;
     Help: TMenuItem;
@@ -137,13 +138,23 @@ begin
               if sl.Count < seThreadCount.Value then seThreadCount.Value:=sl.Count;
               setLength(pi, seThreadCount.Value);
 
+              // create specific / final ImageJ marco from template file
               sl.LoadFromFile(path + 'ImageJ\BatchFolder_TIFF_to_OBJ_macro.ijm.template');
               baseFolder:=StringReplace(ExtractFilePath(Application.ExeName), '\', '/', [rfReplaceAll]);
               baseFolderEscaped:=baseFolder;
               insert('\"', baseFolderEscaped, 4);
               baseFolderEscaped:=baseFolderEscaped + '\"';
               for i:=0 to sl.Count-1 do
-                if pos('threshold', sl[i]) > 0 then sl[i]:=StringReplace(sl[i], 'threshold=50', 'threshold=' + edThreshold.Text, []);
+                begin
+                  // insert threshold
+                  if pos('threshold', sl[i]) > 0
+                   then sl[i]:=StringReplace(sl[i], 'threshold=50', 'threshold=' + edThreshold.Text, []);
+
+                  // insert recreate param
+                  if cbxRecreate.checked then
+                   if pos('recreate = false;', sl[i]) > 0
+                    then sl[i]:=StringReplace(sl[i], 'false', 'true', []);
+                end;
               sl.Insert(0, 'outputFolder = "' + targetFolder + '";' + #10#13);
               sl.Insert(0, 'inputFolder = "' + targetFolder + '";');
               sl.Insert(0, 'baseFolder = "' + baseFolder + '";');
@@ -194,7 +205,9 @@ begin
       sl.Free;
       subdirs.Free;
     end;
-  MessageDlg('Information', 'File conversion completed.', mtInformation, [mbOK], 0);
+  // Only show info when not running in commandline version
+  if not Application.HasOption('f', 'folder')
+   then MessageDlg('Information', 'File conversion completed.', mtInformation, [mbOK], 0);
   Close;
 end;
 
@@ -222,6 +235,8 @@ begin
     + br
     + '-k or --keepObj' + br + 'Keep the OBJ file in the conversion process' + br
     + br
+    + '-r or --recreate' + br + 'Recreate the OBJ and DAT files in the conversion process' + br
+    + br
     + '-e or --excludeSubdirs' + br + 'Skip subdirectories of [folder]' + br
     + br
     + '--objThreshhold=XXX' + br + 'Define "XXX" as the OBJ isosurface threshold' + br
@@ -243,6 +258,9 @@ begin
 
   if Application.HasOption('k', 'keepObj')
    then cbxKeepOBJ.checked:=True;
+
+  if Application.HasOption('r', 'recreate')
+   then cbxRecreate.checked:=True;
 
   if Application.HasOption('e', 'excludeSubdirs')
    then cbxIncludeSubdirs.checked:=False;
