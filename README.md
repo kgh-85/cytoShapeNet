@@ -105,6 +105,7 @@ The classification network (first stage) can be easily extended by adding more s
 
 ## Evaluation
 Evaluation data is saved into `/data/evalution`. There, subfolders can be generated containing different sets of data. The datasets within these subfolders must be organized in sub-subfolders with certain naming. E.g.:\
+
     |——data/evaluation/controls
     |  |——C1_AB
     |  |——C2_CD
@@ -121,17 +122,17 @@ Additionally, a file called 'mutations.txt' can be added into the base folder of
 
 In this file, the mutation of a certain patient can be defined. The structure of the file is as following:
 
-P1 MUT1\
-P2	MUT2\
-P3	MUT3\
-...\
+  P1 MUT1\
+  P2	MUT2\
+  P3	MUT3\
+  ...
 
-The name of the mutation (MUTx) is separated by a tab from the respective index. If mutations.txt exists, the mutation names are included into the plots.
+The name of the mutation (MUTx) is separated by a tab from the respective index. If `mutations.txt` exists, the mutation names are included into the plots.
 
 
 ## License
 Published under GNU General Public License (GPL) 2.0 or later. Further license information can be found in LICENSE.txt.
 
+
 ## Contact
 Please address questions to [info@cytoshape.net](info@cytoshape.net)
-
