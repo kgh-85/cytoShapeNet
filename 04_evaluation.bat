@@ -1,4 +1,9 @@
 @echo off
+echo This will evaluate the neural net.
+echo ==================================
+echo[
+pause
+
 set WINPYDIRBASE=%~dp0\bin
 
 rem get a normalize path
@@ -11,4 +16,4 @@ popd
 set WINPYDIR=%WINPYDIRBASE%\python-3.7.7.amd64
 set "PATH=%WINPYDIR%\;%WINPYDIR%\DLLs;%WINPYDIR%\Scripts;"
 cd .
-python src\training.py
+python src\evaluation.py

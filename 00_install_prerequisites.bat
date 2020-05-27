@@ -1,4 +1,11 @@
 @echo off
+echo This will download and install the necessary python packages
+echo ============================================================
+echo[
+echo The python environment lives in "\bin\python-3.7.7.amd64" and is fully portable
+echo[
+pause
+
 echo Installing Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019...
 lib\VC_redist.x64.exe /passive
 
@@ -20,4 +27,5 @@ python -m pip install --upgrade pip
 pip install numpy seaborn matplotlib keras sklearn tensorflow
 
 echo Finished setup
+echo[
 pause

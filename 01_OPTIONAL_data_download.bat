@@ -8,11 +8,6 @@ echo The following things will happen if you continue:
 echo - Creation of a "download" directory in the root directory
 echo - Download of 9.5GB tif source files to this directory
 echo - Extraction of the tif files (45.6GB) to the "data" directory 
-echo - Conversion from .tif to .ply to .obj to .dat for the whole dataset
-echo   - The generated 3D OBJ files (XXGB) will be kept per default for further analysis / information
-echo   - As the OBJ files are an intermediate step you are free to optionally remove the "--keepObj" param below
-echo[
-echo The conversion process takes several hours to compute the whole dataset of over 20.000 images
 echo[
 pause
 
@@ -45,9 +40,6 @@ powershell -Command "(New-Object Net.WebClient).DownloadFile('https://gir1.de/cy
 
 echo Extracting files...
 download\data.exe -o"." -y
-echo Processing training data...
-bin\DataConversionGUI.exe --folder=..\data\training --keepObj
-echo Processing evaluation data...
-bin\DataConversionGUI.exe --folder=..\data\evaluation --keepObj
 echo Finished.
+echo[
 pause
