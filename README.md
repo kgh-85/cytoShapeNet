@@ -62,5 +62,5 @@ Published under GNU GPL Further license information can be found in LICENSE.txt 
 
 
 ## Contact
-Please address questions to [info@cytoshape.net](info@cytoshape.net).
+Please address questions to [info@cytoshape.net](info@cytoshape.net)
 
