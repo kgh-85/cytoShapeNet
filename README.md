@@ -1,4 +1,5 @@
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/kgh-85/cytoShapeNet/blob/master/gpl-3.0.txt)
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://github.com/kgh-85/cytoShapeNet/blob/master/LICENSE.txt)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/kgh-85/cytoShapeNet/blob/master/LICENSE.txt)
 
 # cytoShapeNet
 cytoShapeNet is a dual-stage neural network architecture to automatically recognize 3D shapes.\
