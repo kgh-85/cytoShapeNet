@@ -75,9 +75,9 @@ We kept the usage of the toolbox as simple as possible and the workflow is obvio
 
 ### Basic usage
 * Download this repository:
- * Use the GitHub download options or
- * Install [GIT](https://git-scm.com/) (or use your favorite client) and clone the repository `git clone https://github.com/kgh-85/cytoShapeNet.git`
-* Execute the numbered BAT files in the root starting with `0_install_prerequisites.bat`. (Step 1 and 2 are optional)
+  * Use the GitHub download options
+  * Or install [GIT](https://git-scm.com/) (or use your favorite client) and clone the repository `git clone https://github.com/kgh-85/cytoShapeNet.git`
+* Execute the numbered BAT files in the root folder starting with `0_install_prerequisites.bat`. (Steps 1 and 2 are optional)
 
 ### Detailed information
 * `0_install_prerequisites.bat` - Executing this BAT file will automatically install the required `VC_redist.x64.exe` from `/lib`. The portable python in `/bin/python-3.7.7.amd64` is automatically used to install all required supplementary packages.
