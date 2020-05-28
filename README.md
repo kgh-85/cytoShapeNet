@@ -52,8 +52,8 @@ Currently, the only requirement is Windows as operating system. Tested on Window
 ### Computation time table
 | Process step                         | Execution time*   |  Dependend on   | Data downloaded | Disc space needed |
 | ------------------------------------ | ----------------- | --------------- | --------------- | ----------------- |
-| `0_install_prerequisites.bat`        | ~5m @ 100 MBit/s  | CPU & Bandwidth | ~2GB            | ~2GB
-| `1_OPTIONAL_data_download.bat`       | ~13m @ 100 MBit/s | Bandwidth       | 9.5GB           | 55.1 GB (**!**)
+| `0_install_prerequisites.bat`        | ~5m at 100MBit/s  | CPU & Bandwidth | ~2GB            | ~2GB
+| `1_OPTIONAL_data_download.bat`       | ~13m at 100MBit/s | Bandwidth       | 9.5GB           | 55.1 GB (**!**)
 | `2_OPTIONAL_data_pre_processing.bat` | ~2hours @6 cores  | CPU             | -               | ~8GB
 | `3_training.bat`                     | ~30s              | CPU             | -               |
 | `4_evaluation.bat`                   | ~45s              | CPU             | -               |
