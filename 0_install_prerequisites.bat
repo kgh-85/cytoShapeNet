@@ -10,10 +10,13 @@ echo[
 if not "%1"=="am_admin" (powershell start -verb runas '%0' am_admin & exit /b)
 powershell -inputformat none -outputformat none -NonInteractive -Command Add-MpPreference -ExclusionPath "\"%~dp0""
 
+:: Go back to origin path
+cd /d %~dp0
+
 echo Upgrading pip...
 set WINPYDIRBASE=%~dp0\bin
 
-rem get a normalize path
+:: get a normalize path
 set WINPYDIRBASETMP=%~dp0\bin
 pushd %WINPYDIRBASETMP%
 set WINPYDIRBASE=%CD%
