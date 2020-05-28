@@ -6,7 +6,7 @@ cytoShapeNet is a dual-stage neural network architecture to automatically recogn
 We optimized the toolbox to convert 3D images of red blood cells obtained from confocal microscopy.\
 The resulting tif stacks are first converted into OBJ and PLY 3D files, then post-processed using a rotation invariant shape descriptor. Processed data then serves as input for our neural networks.
 
-![logo](https://github.com/kgh-85/cytoShapeNet/raw/master/lib/logo.png "Logo")
+<img src="lib/logo.png" alt="logo" width="200"/>
 
 ## Table of contents
 * [General information](#general-information)
