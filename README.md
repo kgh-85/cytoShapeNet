@@ -47,6 +47,7 @@ The code was written by Dr. Stephan Quint and Konrad Hinkelmann © (2018 - 2020)
 
 ### Dependencies
 Currently, the only requirement is Windows as operating system. Tested on Windows 10 but should work on Windows 7 and above.
+You may need to install `lib/VC_redist.x64.exe`
 
 
 ### Computation time table
@@ -80,7 +81,7 @@ We kept the usage of the toolbox as simple as possible and the workflow is obvio
 * Execute the numbered BAT files in the root folder starting with `0_install_prerequisites.bat`. (Steps 1 and 2 are optional)
 
 ### Detailed information
-* `0_install_prerequisites.bat` - Executing this BAT file will automatically install the required `VC_redist.x64.exe` from `/lib`. The portable python in `/bin/python-3.7.7.amd64` is automatically used to install all required supplementary packages.
+* `0_install_prerequisites.bat` - Executing this BAT file will automatically install all required supplementary packages for the portable python in `/bin/python-3.7.7.amd64`.
 
 * `1_OPTIONAL_data_download.bat` - To keep the required space on GitHub as low as possible, we provide the fully processed data represented by the DAT files in the `/data` folder. Executing this BAT files enables the automatic download of the whole raw dataset (TIF files).
 
