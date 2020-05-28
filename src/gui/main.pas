@@ -277,6 +277,7 @@ begin
   if Application.HasOption('f', 'folder')
    then
     begin
+      hide;
       folder:=Application.GetOptionValue('f', 'folder');
       // check for relative path param
       if strpos(':', PChar(folder)) = nil
