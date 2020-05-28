@@ -227,7 +227,7 @@ for directory in os.listdir(DATA_PATH):
 
             SDE_cell_count = SDE_cell_count_collection[idx]
 
-            plt.text(0.65, y_offset + 0.65*subscale, "total: {}".format(SDE_cell_count), **FONT_SMALL)
+            plt.text(0.65, y_offset + 0.65*subscale, 'total: %d' % SDE_cell_count, **FONT_SMALL)
 
             # calculate expect value
             density = SDE_densities_df[subject_names[idx]]
@@ -255,8 +255,8 @@ for directory in os.listdir(DATA_PATH):
                      color=plot_color)
             ax1.add_patch(patches.Rectangle((x_grid[lb], y_offset), (x_grid[ub]-x_grid[lb]),  0.9 * subscale,
                                             facecolor='black', fill=True, alpha=0.1, linewidth=0.0))
-            plt.text(-1.2, y_offset + 0.65 * subscale, "$\mu$ = {:.2f}".format(expect_val), **FONT_SMALL)
-            plt.text(-1.2, y_offset + 0.45 * subscale, "CI$_{0.95}$ = [{:.2f},{:.2f}]".format(x_grid[lb], x_grid[ub]),
+            plt.text(-1.2, y_offset + 0.65 * subscale, '$\mu$ = %.2f' % expect_val, **FONT_SMALL)
+            plt.text(-1.2, y_offset + 0.45 * subscale, 'CI$_{0.95}$ = [%.2f,%.2f]' % (x_grid[lb], x_grid[ub]),
                      **FONT_SMALL)
 
             mutation_label_filepath = data_directory + 'mutation_labels.txt'
@@ -276,7 +276,7 @@ for directory in os.listdir(DATA_PATH):
         SDE_labels = [-1.00, -0.67, -0.33, 0.00, 0.33, 0.67, 1.00]
         SDE_labels_custom = ['SP', 'ST II', 'ST I', 'D', 'E I', 'E II', 'E III']
         for idx in range(len(SDE_labels_custom)):
-            SDE_label_list.append("{:.2f}\n".format(SDE_labels[idx]) + SDE_labels_custom[idx])
+            SDE_label_list.append('%.2f\n' % (SDE_labels[idx]) + SDE_labels_custom[idx])
         plt.xticks(SDE_labels, **FONT_SMALL)
         ax = plt.gca()
         ax.set_xticklabels(SDE_label_list,  **FONT_SMALL)
@@ -302,7 +302,7 @@ for directory in os.listdir(DATA_PATH):
                                                 edgecolor=color, facecolor='white', linewidth=0.5))
                 ax2.add_patch(patches.Rectangle((jdx+0.75, y_offset), 0.5, bardata[jdx] * subscale * 0.9,
                                                 edgecolor=color, facecolor=color, fill=True, alpha=0.2, linewidth=0.5))
-                plt.text(jdx + 0.75 + 0.14, y_offset + 1, "{:.3f}".format(bardata[jdx]), **FONT_SMALL, rotation=90)
+                plt.text(jdx + 0.75 + 0.14, y_offset + 1, '%.3f' % bardata[jdx], **FONT_SMALL, rotation=90)
             subject_id = subject_names[idx]
             subject_id = subject_id.split(' ')[0]
             total_cell_count = str(len(data_collection[data_collection_keys[idx]]))
