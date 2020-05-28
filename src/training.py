@@ -556,14 +556,14 @@ if len(prediction_data) > 0:
     SDE_label_list = []
     for idx in range(len(SDE_labels)):
         SDE_label_list.append(
-            '%.2f\n' % (SDE_labels[idx]) + SDE_full_labels[SDE_labels[idx]])
+            "{:.2f}\n".format(SDE_labels[idx]) + SDE_full_labels[SDE_labels[idx]])
 
     # overwrite for customized short labels
     SDE_label_list = []
     SDE_labels_custom = ['SP', 'ST II', 'ST I', 'D', 'E I', 'E II', 'E III']
     for idx in range(len(SDE_labels_custom)):
         SDE_label_list.append(
-            '%.2f\n' % (SDE_labels[idx]) + SDE_labels_custom[idx])
+            "{:.2f}\n".format(SDE_labels[idx]) + SDE_labels_custom[idx])
 
     plt.xticks(SDE_labels, **FONT)
     ax = plt.gca()
@@ -596,7 +596,7 @@ if len(prediction_data) > 0:
     plt.plot(x_grid[peaks], kde_dist[peaks], 'x', color='darkorange')
     for i in range(len(peaks)):
         plt.text(x_grid[peaks[i]], kde_dist[peaks[i]] + 0.5,
-                 '%.2f / %.2f' % (x_grid[peaks[i]], kde_dist[peaks[i]]), ha='center')
+                 "{:.2f} / {:.2f}".format(x_grid[peaks[i]], kde_dist[peaks[i]]), ha='center')
 
 plt.tight_layout()
 plt.grid(True)
