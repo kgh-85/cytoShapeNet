@@ -51,13 +51,13 @@ You may need to install `lib/VC_redist.x64.exe`
 
 
 ### Computation time table
-| Process step                         | Execution time*   |  Depends on     | Download size   | Required disc space |
-| ------------------------------------ | ----------------- | --------------- | --------------- | ------------------- |
-| `0_install_prerequisites.bat`        | ~5m at 100MBit/s  | CPU & Bandwidth | ~2GB            | ~2GB                |
-| `1_OPTIONAL_data_download.bat`       | ~13m at 100MBit/s | Bandwidth       | 9.5GB           | 55.1 GB (**!**)     |
-| `2_OPTIONAL_data_pre_processing.bat` | ~2h @6 cores      | CPU             | -               | ~8GB                |
-| `3_training.bat`                     | ~30s              | CPU             | -               |                     |
-| `4_evaluation.bat`                   | ~45s              | CPU             | -               |                     |
+| Process step                             | Execution time*   |  Depends on     | Download size   | Required disc space |
+| ---------------------------------------- | ----------------- | --------------- | --------------- | ------------------- |
+| `0_install_prerequisites.bat`            | ~5m at 100MBit/s  | CPU & Bandwidth | ~2GB            | ~2GB                |
+| `1_OPTIONAL_raw_data_download.bat`       | ~13m at 100MBit/s | Bandwidth       | 9.5GB           | 55.1 GB (**!**)     |
+| `2_OPTIONAL_raw_data_pre_processing.bat` | ~2h @6 cores      | CPU             | -               | ~8GB                |
+| `3_training.bat`                         | ~30s              | CPU             | -               |                     |
+| `4_evaluation.bat`                       | ~45s              | CPU             | -               |                     |
 
 *Benchmarked with a common workstation notebook.
 
@@ -83,9 +83,9 @@ We kept the usage of the toolbox as simple as possible and the workflow is obvio
 ### Detailed information
 * `0_install_prerequisites.bat` - Executing this BAT file will automatically install all required supplementary packages for the portable python in `/bin/python-3.7.7.amd64`.
 
-* `1_OPTIONAL_data_download.bat` - To keep the required space on GitHub as low as possible, we provide the fully processed data represented by the DAT files in the `/data` folder. Executing this BAT files enables the automatic download of the whole raw dataset (TIF files).
+* `1_OPTIONAL_raw_data_download.bat` - To keep the required space on GitHub as low as possible, we provide the fully processed data represented by the DAT files in the `/data` folder. Executing this BAT files enables the automatic download of the whole raw dataset (TIF files).
 
-* `2_OPTIONAL_data_pre_processing.bat` - All TIF files in the `/data` folder are processed to generate the required DAT files for evaluation. Intermediate OBJ files are optionally kept via the `--keepObj` param for later analysis/visualization. If a DAT file already exists, the conversion can be optionally skipped by removing the `--recreate` param to save time.
+* `2_OPTIONAL_raw_data_pre_processing.bat` - All TIF files in the `/data` folder are processed to generate the required DAT files for evaluation. Intermediate OBJ files are optionally kept via the `--keepObj` param for later analysis/visualization. If a DAT file already exists, the conversion can be optionally skipped by removing the `--recreate` param to save time.
 
 * `3_training.bat` - Two neural networks are generated and trained by the data that is found in /data/training. Resulting networks are saved in the root folder. To use the networks, they have to be copied manually into `/nn`. This is to avoid that well-working networks are automatically overwritten by mistake. Additionally, related loss functions are plotted besides further information on the performance of the networks. For the regression network (SDE prediction), a set of benchmark data (`/data/benchmark_regression`) is shown. The provided benchmark DAT files are from discocytes. Files that have to be copied into `/nn` are the following:
 
@@ -107,7 +107,7 @@ We kept the usage of the toolbox as simple as possible and the workflow is obvio
 
 
 ## Data format
-As raw data, we used TIF stacks with a lateral resolution of 100 px X 100 px in x/y and 68 planes in z. After interpolation (isotropic adaption), stacks of 185 planes resulted. Each of these stacks ideally contains a single cell (centered). The TIF stacks can be transformed into OBJ and/or DAT using `2_OPTIONAL_data_pre_processing.bat` or `data_conversion_gui.bat`.
+As raw data, we used TIF stacks with a lateral resolution of 100 px X 100 px in x/y and 68 planes in z. After interpolation (isotropic adaption), stacks of 185 planes resulted. Each of these stacks ideally contains a single cell (centered). The TIF stacks can be transformed into OBJ and/or DAT using `2_OPTIONAL_raw_data_pre_processing.bat` or `data_conversion_gui.bat`.
 
 
 ## Training
