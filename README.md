@@ -45,6 +45,20 @@ This work was supported by the Volkswagen Experiment! grant, the Deutsche Forsch
 
 The code was written by Dr. Stephan Quint and Konrad Hinkelmann © (2018 - 2020).
 
+### Dependencies
+Currently, the only requirement is Windows as operating system. Tested on Windows 10 but should work on Windows 7 and above.
+
+
+### Computation time table
+| Process step                         | Execution time*   |  Dependend on   | Data downloaded | Disc space needed |
+| ------------------------------------ | ----------------- | --------------- | --------------- | ----------------- |
+| `0_install_prerequisites.bat`        | ~5m @ 100 MBit/s  | CPU & Bandwidth | ~2GB            | ~2GB
+| `1_OPTIONAL_data_download.bat`       | ~13m @ 100 MBit/s | Bandwidth       | 9.5GB           | 55.1 GB (**!**)
+| `2_OPTIONAL_data_pre_processing.bat` | ~2hours @6 cores  | CPU             | -               | ~8GB
+| `3_training.bat`                     | ~30s              | CPU             | -               |
+| `4_evaluation.bat`                   | ~45s              | CPU             | -               |
+
+* Measured on a usual workstation notebook
 
 ## Project structure
 The project has the following folder structure:
@@ -55,10 +69,6 @@ The project has the following folder structure:
     |  |——nn:   the final neural networks to be used for data evaluation
     |  |——lib:  VC_redistributable
     |  |——src:  source code of python scripts and data conversion GUI
-
-## Dependencies
-Currently, the only requirement is Windows as operating system. Tested on Windows 10 but should work on Windows 7 and above.
-
 
 ## Usage
 We kept the usage of the toolbox as simple as possible and the workflow is obvious from the BAT file enumeration.
