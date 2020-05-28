@@ -23,6 +23,17 @@ cd .
 python -m pip install --upgrade pip
 pip install numpy seaborn matplotlib keras sklearn tensorflow
 
+echo Elevating current shell for adding %~dp0 to Windows Defender exclusion list for way faster processing
+if not "%1"=="am_admin" (powershell start -verb runas '%0' am_admin & exit /b)
+
+:: %~dp0 holds the directory of the scriptfile
+SET datapath=%~dp0
+
+:: Does %datapath have a trailing slash? If so remove it 
+IF %datapath:~-1%==\ SET datapath=%datapath:~0,-1%
+powershell -inputformat none -outputformat none -NonInteractive -Command Add-MpPreference -ExclusionPath "%datapath%"
+
+
 echo Finished setup
 echo[
 pause

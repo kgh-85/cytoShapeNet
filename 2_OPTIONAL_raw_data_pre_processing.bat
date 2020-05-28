@@ -14,8 +14,6 @@ echo The conversion process takes several hours to compute the whole dataset of 
 echo[
 pause
 
-echo Excluding current directory from Windows defender for way faster processing
-powershell -inputformat none -outputformat none -NonInteractive -Command Add-MpPreference -ExclusionPath "%CD%"
 
 echo Processing benchmark data...
 bin\DataConversionGUI.exe --folder=..\data\benchmark_regression --keepObj --recreate

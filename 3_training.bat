@@ -7,9 +7,6 @@ echo Just copy the outputs from the root directory into the "Final_NN" folder
 echo[
 pause
 
-echo Excluding current directory from Windows defender for way faster processing
-powershell -inputformat none -outputformat none -NonInteractive -Command Add-MpPreference -ExclusionPath "%CD%"
-
 set WINPYDIRBASE=%~dp0\bin
 
 rem get a normalize path
