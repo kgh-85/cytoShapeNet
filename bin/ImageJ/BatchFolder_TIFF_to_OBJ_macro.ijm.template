@@ -17,14 +17,16 @@ function ArrayUnique(array) {
 function Convert(inputFolder, outputFolder, filename, recreate) {
     outFile = outputFolder + filename;
     print("Processing: " + outFile);
-    if (!File.exists(outFile + ".dat") || recreate == true) {
-        if (!File.exists(outFile + ".obj") || recreate == true) {
-            print("loading tif: " + filename + ".tif");
-            open(inputFolder + filename + ".tif");
-            print("saving obj: " + filename + ".obj");
-            run("Wavefront .OBJ ...", "stack=[" + filename + "] threshold=50 resampling=2 red green blue save=[" + outFile + ".obj]");
-            close();
-        }
+    if (!File.exists(outFile + ".obj") || recreate == true) {
+		print("loading tif: " + filename + ".tif");
+		open(inputFolder + filename + ".tif");
+		print("saving obj: " + filename + ".obj");
+		run("Wavefront .OBJ ...", "stack=[" + filename + "] threshold=50 resampling=2 red green blue save=[" + outFile + ".obj]");
+		close();
+	} else {
+        print("skipping: " + outFile + ".obj (already computed)");
+    }
+	if (!File.exists(outFile + ".dat") || recreate == true) {
         print("converting to ply: " + filename + ".obj");
         exec("cmd /c "+ baseFolderEscaped + "meshconv.exe \"" + outFile + ".obj\" -c ply -kd -kz -plyold -o \"" + outFile + "\"");
         print("Calculating shd .dat: " + filename);

@@ -39,7 +39,7 @@ CONFUSION_THRESHOLD = 0.75
 
 # this script will be called from the root directory .bat file, where the "PATH", "NN_PATH" folders are located
 DATA_PATH = 'data\\evaluation\\'
-NN_PATH = 'final_NN\\'
+NN_PATH = 'nn\\'
 FONT = {'fontname': 'DejaVu Sans', 'fontsize': '9'}
 FONT_SMALL = {'fontname': 'DejaVu Sans', 'fontsize': '7'}
 FONT_SMALL_ITALIC = {'fontname': 'DejaVu Sans', 'fontsize': '7', 'fontstyle': 'italic'}
