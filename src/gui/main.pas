@@ -107,11 +107,11 @@ begin
     try
       for j:=0 to subdirs.Count-1 do
         begin
-          //outPath:=subdirs[j] + '\';
-          targetFolder:= StringReplace(subdirs[j], '\', '/', [rfReplaceAll]);
-
+          targetFolder:=StringReplace(subdirs[j], '\', '/', [rfReplaceAll]);
+          dataToConvert:=false;
           if FindFirst(subdirs[j] + '*.tif', faAnyFile, SR) = 0 then
             begin
+              dataToConvert:=true;
               repeat
                   sl.Add(subdirs[j] + SR.Name); //Fill the list
               until FindNext(SR) <> 0;
@@ -128,9 +128,15 @@ begin
                 end;
             end;
 
-          for i:=0 to sl.Count-1 do
-           if not (FileExists(sl[i] + '.dat') and FileExists(sl[i] + '.obj')) then break;
-          dataToConvert:=not (i = sl.Count);
+          // skip empty folders
+          if dataToConvert then
+            begin
+              i:=-1;
+              if not cbxRecreate.checked then
+               for i:=0 to sl.Count-1 do
+                if not (FileExists(sl[i] + '.dat') and FileExists(sl[i] + '.obj')) then break;
+              dataToConvert:=not (i = sl.Count);
+            end;
 
           if dataToConvert then
             begin
@@ -161,6 +167,7 @@ begin
               sl.Insert(0, 'baseFolderEscaped = "' + baseFolderEscaped + '";');
 
               sl.SaveToFile(path + 'ImageJ\BatchFolder_TIFF_to_OBJ_macro.ijm');
+
               // Multithread start
               for i:=1 to seThreadCount.Value do
                 begin
@@ -185,9 +192,8 @@ begin
                   FileClose(pi[i].hProcess);
                   FileClose(pi[i].hThread);
                 end;
-
-              outPath:=ExtractFilePath(folder + '\');
               // Multithread stop
+              outPath:=ExtractFilePath(folder + '\');
               if not cbxKeepOBJ.Checked then
                 begin
                   if FindFirst(outPath + '*.obj', faAnyFile, SR) = 0 then
