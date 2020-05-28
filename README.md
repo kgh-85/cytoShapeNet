@@ -58,7 +58,7 @@ Currently, the only requirement is Windows as operating system. Tested on Window
 | `3_training.bat`                     | ~30s              | CPU             | -               |                   |
 | `4_evaluation.bat`                   | ~45s              | CPU             | -               |                   |
 
-* Measured on a usual workstation notebook. Depends
+*Measured on a usual workstation notebook. Depends
 
 ## Project structure
 The project has the following folder structure:
