@@ -18,7 +18,7 @@ from scipy.signal import find_peaks
 VERSION = '1.0.0'
 
 print('\ncytoShapeNet v.' + VERSION)
-print('© 2018-2020 Stephan Quint & Konrad Hinkelmann')
+print('© 2018-2020 Dr. Stephan Quint & Konrad Hinkelmann')
 print('info@cytoshape.net\n\n')
 
 # make use of longer loading imports for displaying the info text

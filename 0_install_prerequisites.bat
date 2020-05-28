@@ -6,9 +6,6 @@ echo The python environment lives in "\bin\python-3.7.7.amd64" and is fully port
 echo[
 pause
 
-echo Installing Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019...
-lib\VC_redist.x64.exe /passive
-
 echo Upgrading pip...
 set WINPYDIRBASE=%~dp0\bin
 

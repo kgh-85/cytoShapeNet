@@ -1,5 +1,6 @@
 *.pyc
 backup
+bin/python-3.7.7.amd64/
 /download
 /bin/ImageJ/batch_convert_*.bat
 /bin/ImageJ/BatchFolder_TIFF_to_OBJ_macro.ijm
