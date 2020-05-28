@@ -61,8 +61,15 @@ Currently, the only requirement is Windows as operating system. Tested on Window
 
 
 ## Usage
-We kept the usage of the toolbox as simple as possible and the workflow is obvious from the BAT file enumeration:
+We kept the usage of the toolbox as simple as possible and the workflow is obvious from the BAT file enumeration.
 
+### Basic usage
+* Download this repository:
+ * Use the GitHub download options or
+ * Install [GIT](https://git-scm.com/) (or use your favorite client) and clone the repository `git clone https://github.com/kgh-85/cytoShapeNet.git`
+* Execute the numbered BAT files in the root starting with `0_install_prerequisites.bat`. (Step 1 and 2 are optional)
+
+### Detailed information
 * `0_install_prerequisites.bat` - Executing this BAT file will automatically install the required `VC_redist.x64.exe` from `/lib`. The portable python in `/bin/python-3.7.7.amd64` is automatically used to install all required supplementary packages.
 
 * `1_OPTIONAL_data_download.bat` - To keep the required space on GitHub as low as possible, we provide the fully processed data represented by the DAT files in the `/data` folder. Executing this BAT files enables the automatic download of the whole raw dataset (TIF files).
