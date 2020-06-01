@@ -85,7 +85,7 @@ We kept the usage of the toolbox as simple as possible and the workflow is obvio
 
 * `1_OPTIONAL_raw_data_download.bat` - To keep the required space on GitHub as low as possible, we provide the fully processed data represented by the DAT files in the `/data` folder. Executing this BAT files enables the automatic download of the whole raw dataset (TIF files).
 
-* `2_OPTIONAL_raw_data_pre_processing.bat` - All TIF files in the `/data` folder are processed to generate the required DAT files for evaluation. Intermediate OBJ files are optionally kept via the `--keepObj` param for later analysis/visualization. If a DAT file already exists, the conversion can be optionally skipped by removing the `--recreate` param to save time.
+* `2_OPTIONAL_raw_data_pre_processing.bat` - All TIF files in the `/data` folder are processed to generate the required DAT files for evaluation. Intermediate OBJ files are optionally deleted via the `--deleteObj` param if not needed for later analysis/visualization. If a DAT file already exists, the conversion can be optionally skipped by removing the `--recreate` param to save time.
 
 * `3_training.bat` - Two neural networks are generated and trained by the data that is found in /data/training. Resulting networks are saved in the root folder. To use the networks, they have to be copied manually into `/nn`. This is to avoid that well-working networks are automatically overwritten by mistake. Additionally, related loss functions are plotted besides further information on the performance of the networks. For the regression network (SDE prediction), a set of benchmark data (`/data/benchmark_regression`) is shown. The provided benchmark DAT files are from discocytes. Files that have to be copied into `/nn` are the following:
 

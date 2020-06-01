@@ -8,7 +8,7 @@ echo[
 echo The following things will happen if you continue:
 echo - Conversion from .tif to .ply to .obj to .dat for the whole dataset
 echo   - The generated 3D OBJ files (8GB) will be kept per default for further analysis / information
-echo   - As the OBJ files are an intermediate step you are free to optionally remove the "--keepObj" param below
+echo   - As the OBJ files are an intermediate step you are free to optionally remove them by adding "--deleteObj" param to all calls of "DataConversionGUI.exe" below
 echo[
 echo The conversion process takes several hours to compute the whole dataset of over 20.000 images
 echo[
@@ -16,13 +16,13 @@ pause
 
 
 echo Processing benchmark data...
-bin\DataConversionGUI.exe --folder=..\data\benchmark_regression --keepObj --recreate
+bin\DataConversionGUI.exe --folder=..\data\benchmark_regression --recreate
 
 echo Processing training data...
-bin\DataConversionGUI.exe --folder=..\data\training --keepObj --recreate
+bin\DataConversionGUI.exe --folder=..\data\training --recreate
 
 echo Processing evaluation data...
-bin\DataConversionGUI.exe --folder=..\data\evaluation --keepObj --recreate
+bin\DataConversionGUI.exe --folder=..\data\evaluation --recreate
 
 echo Finished.
 echo[

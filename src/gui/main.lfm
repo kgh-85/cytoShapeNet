@@ -97,8 +97,10 @@ object FrmMain: TFrmMain
       Top = 36
       Width = 66
       Caption = 'Keep .obj'
+      Checked = True
       ParentShowHint = False
       ShowHint = True
+      State = cbChecked
       TabOrder = 1
     end
     object cbxIncludeSubdirs: TCheckBox

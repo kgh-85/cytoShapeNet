@@ -121,6 +121,7 @@ begin
             begin
               if FindFirst(subdirs[j] + '*.obj', faAnyFile, SR) = 0 then
                 begin
+                  dataToConvert:=true;
                   repeat
                       sl.Add(subdirs[j] + SR.Name); //Fill the list
                   until FindNext(SR) <> 0;
@@ -239,7 +240,7 @@ begin
     + br
     + '--threadCount=X' + br + 'Define "X" as Threadcount (defaults to current CPU threads' + br
     + br
-    + '-k or --keepObj' + br + 'Keep the OBJ file in the conversion process' + br
+    + '-d or --deleteObj' + br + 'Delete the OBJ file in the conversion process' + br
     + br
     + '-r or --recreate' + br + 'Recreate the OBJ and DAT files in the conversion process' + br
     + br
